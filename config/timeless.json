@@ -1,0 +1,10 @@
+{
+  "useOldWorldMenu": true,
+  "disableHitDirection": true,
+  "useOldWindowIcons": true,
+  "doPistonClunk": true,
+  "skeletonShootPurpleArrow": false,
+  "useOldInventoryLayout": false,
+  "enablePotionGlint": true,
+  "useOldPotionColors": false
+}

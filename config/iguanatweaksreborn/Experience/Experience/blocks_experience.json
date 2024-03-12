@@ -1,0 +1,12 @@
+[
+  {
+    "id": "minecraft:sculk_catalyst",
+    "min": 40.0,
+    "max": 40.0
+  },
+  {
+    "id": "minecraft:spawner",
+    "min": 40.0,
+    "max": 40.0
+  }
+]

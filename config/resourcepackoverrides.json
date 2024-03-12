@@ -1,0 +1,17 @@
+{
+  "schema_version": "2",
+
+  "pack_overrides": {
+    "1": [
+      "fabric",
+      "Forgery grayscale",
+      "Forgery",
+      "mod_resources",
+      "Moonlight Mods Dynamic Assets",
+      "packmenu"
+    ],
+    "$$1": {
+        "hidden": true
+    }
+  }
+}
