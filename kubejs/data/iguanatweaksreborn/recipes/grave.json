@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stone"
+        }
+	},
+    "result": {
+		"item": "iguanatweaksreborn:grave"
+	}
+}
