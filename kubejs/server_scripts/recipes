@@ -1,0 +1,12 @@
+// priority: 0
+
+ServerEvents.recipes(event => { 
+
+    // Unused
+    event.remove({ input: 'iguanatweaksexpanded:copper_ore_rock' })
+    event.remove({ input: 'iguanatweaksexpanded:iron_ore_rock' })
+    event.remove({ input: 'iguanatweaksexpanded:gold_ore_rock' })
+
+    
+})
+
