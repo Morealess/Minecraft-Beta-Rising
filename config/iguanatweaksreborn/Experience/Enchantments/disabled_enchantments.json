@@ -1,5 +1,20 @@
 [
   "minecraft:sweeping",
+  "minecraft:mending",
+
+  "minecraft:protection",
+  "minecraft:projectile_protection",
+  "minecraft:feather_falling",
+  "minecraft:fire_protection",
+  "minecraft:blast_protection",
+
+  "iguanatweaksreborn:bane_of_sssss",
+  "iguanatweaksreborn:sharpness",
+  "iguanatweaksreborn:fire_aspect",
+  "iguanatweaksreborn:smite",
+  "iguanatweaksreborn:knockback",
+  "iguanatweaksreborn:luck",
+
   "iguanatweaksexpanded:healthy",
 
   "shieldsplus:recoil",
