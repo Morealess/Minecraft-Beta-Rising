@@ -37,9 +37,9 @@
 	#Show insomnia missing time when laying on a bed
 	show_insomnia_timer = false
 	#Show insomnia cooldown as a small bed icon above crossair when aiming at a bed or in one
-	crossair_insomnia_cooldown = false
+	crossair_insomnia_cooldown = true
 	#Displays current time when sleeping
-	show_time_when_sleeping = false
+	show_time_when_sleeping = true
 	#Makes villagers close their eyes when sleeping
 	sleeping_villagers_eyes = true
 
