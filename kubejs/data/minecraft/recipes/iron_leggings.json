@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "amount": 7,
+  "gear": {
+    "item": "minecraft:chainmail_leggings"
+  },
+  "result": "minecraft:iron_leggings",
+  "smashes_required": 14,
+  "experience": 10
+}

@@ -1,4 +1,4 @@
-"Enable Client" = false
+"Enable Client" = true
 
 [Client]
 	#Misc client side changes
@@ -8,7 +8,7 @@
 	#Changes to sounds and music. Disabling this feature requires a Minecraft restart.
 	"Enable Sounds & Music" = true
 	#Makes fog less invasive in some contexts
-	"Enable Fog" = true
+	"Enable Fog" = false
 
 	#Misc client side changes
 	[Client.Misc]

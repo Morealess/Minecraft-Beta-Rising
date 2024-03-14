@@ -34,6 +34,11 @@ ItemEvents.tooltip(event => {
         'iguanatweaksexpanded:gold_ore_rock',
         'iguanatweaksexpanded:cleansed_lapis',
         'iguanatweaksexpanded:ancient_lapis',
+
+        'iguanatweaksexpanded:chained_copper_boots',
+        'iguanatweaksexpanded:chained_copper_leggings',
+        'iguanatweaksexpanded:chained_copper_helmet',
+        'iguanatweaksexpanded:chained_copper_chestplate',
     
         'sleep_tight:bedbug_spawn_egg',
         'sleep_tight:bedbug_eggs',
@@ -47,36 +52,3 @@ ItemEvents.tooltip(event => {
         text.add(Text.of('§4Disabled'))
     })
 })
-
-
-
-
-/*
-const $MinecraftForge = Java.loadClass('net.minecraftforge.common.MinecraftForge')
-const $EventPriority = Java.loadClass('net.minecraftforge.eventbus.api.EventPriority')
-const $KubeJS = Java.loadClass('dev.latvian.mods.kubejs.KubeJS')
-if ($KubeJS.startupScriptManager.firstLoad) {
-  $MinecraftForge.EVENT_BUS.addListener($EventPriority.LOW, false, Java.loadClass('net.minecraftforge.event.entity.player.ItemTooltipEvent'), event => global.tooltips(event))
-}
-
-// blacklisted tooltips
-const blacklist = [
-    "attribute.name.generic.luck",
-    "forge.swim_speed",
-    "attribute.name.generic.attack_speed",
-    "attribute.name.generic.movement_speed",
-    "attribute.name.generic.knockback_resistance",
-    "forge.entity_gravity"
-];
-
-
-// remove blacklisted tooltips
-global.tooltips = (event) => {
-
-    for(let i of blacklist) {
-        let blacklisted = Text.translate(i).string;
-        event.toolTip.removeIf(comp => comp.toFlatList().stream().anyMatch(flatComp => flatComp.string.includes(blacklisted)));
-    }
-
-}
-*/

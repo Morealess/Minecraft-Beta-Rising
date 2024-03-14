@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "amount": 5,
+  "gear": {
+    "item": "minecraft:chainmail_helmet"
+  },
+  "result": "minecraft:iron_helmet",
+  "smashes_required": 12,
+  "experience": 9
+}

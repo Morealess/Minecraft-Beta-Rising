@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "amount": 8,
+  "gear": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "result": "minecraft:iron_chestplate",
+  "smashes_required": 16,
+  "experience": 12
+}

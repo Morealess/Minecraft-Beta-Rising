@@ -189,7 +189,7 @@
 	#Add flint tools and shield.
 	"Enable Flint Expansion" = false
 	#Add Chained Copper Armor
-	"Enable Chained Copper Armor" = true
+	"Enable Chained Copper Armor" = false
 	#Add a new explosive block.
 	"Enable Explosive Barrel" = true
 	#Two new set of tools

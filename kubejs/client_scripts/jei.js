@@ -17,6 +17,11 @@ JEIEvents.hideItems(event => {
     event.hide('iguanatweaksexpanded:ancient_lapis')
     event.hide('iguanatweaksexpanded:firestarter')
 
+    event.hide('iguanatweaksexpanded:chained_copper_boots')
+    event.hide('iguanatweaksexpanded:chained_copper_leggings')
+    event.hide('iguanatweaksexpanded:chained_copper_helmet')
+    event.hide('iguanatweaksexpanded:chained_copper_chestplate')
+
     event.hide('sleep_tight:bedbug_spawn_egg')
     event.hide('sleep_tight:bedbug_eggs')
     event.hide('sleep_tight:night_bag')
