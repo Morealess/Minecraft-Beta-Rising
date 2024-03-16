@@ -2,30 +2,29 @@
 
 ItemEvents.tooltip(event => {
 
-    // Consistent Tooltips
+    // Consistent Hammer Tooltips
     event.addAdvanced([
-        'iguanatweaksexpanded:wooden_hammer',
-        'iguanatweaksexpanded:stone_hammer',
-        'iguanatweaksexpanded:iron_hammer',
-        'iguanatweaksexpanded:golden_hammer',
-        'iguanatweaksexpanded:diamond_hammer',
-        'iguanatweaksexpanded:netherite_hammer',
-        'iguanatweaksexpanded:flint_hammer',
-        'iguanatweaksexpanded:keego_hammer',
-        'iguanatweaksexpanded:durium_hammer',
-        'iguanatweaksexpanded:copper_hammer',
-        'iguanatweaksexpanded:coated_copper_hammer',
-        'iguanatweaksexpanded:solarium_hammer',
-        'iguanatweaksexpanded:quaron_hammer',
-        'iguanatweaksexpanded:soul_steel_hammer'
+        '/(.*)hammer/'
     ], (item, advanced, text) => {
         text.remove(1)
         text.remove(1)
     })
 
+    // Consistent Shield Tooltips
+    event.addAdvanced([
+        '/(.*)shield/'
+    ], (item, advanced, text) => {
+        text.remove(1)
+        text.remove(1)
+        text.remove(1)
+    })
 
     // Disabled Items Tooltips
     event.addAdvanced([
+        'sleep_tight:bedbug_spawn_egg',
+        'sleep_tight:bedbug_eggs',
+        'sleep_tight:night_bag',
+
         'iguanatweaksexpanded:enchanting_table',
         'iguanatweaksreborn:beacon',
     
@@ -34,21 +33,27 @@ ItemEvents.tooltip(event => {
         'iguanatweaksexpanded:gold_ore_rock',
         'iguanatweaksexpanded:cleansed_lapis',
         'iguanatweaksexpanded:ancient_lapis',
+        'iguanatweaksexpanded:firestarter',
 
-        'iguanatweaksexpanded:chained_copper_boots',
-        'iguanatweaksexpanded:chained_copper_leggings',
-        'iguanatweaksexpanded:chained_copper_helmet',
-        'iguanatweaksexpanded:chained_copper_chestplate',
-    
-        'sleep_tight:bedbug_spawn_egg',
-        'sleep_tight:bedbug_eggs',
-        'sleep_tight:night_bag',
-
-        '/iguanatweaksexpanded:(.*)flint/',
-        '/(.*)_shield/'
-        
+        '/iguanatweaksexpanded:flint(.*)/',
+        '/iguanatweaksexpanded:chained_copper(.*)/',
+        '/iguanatweaksexpanded:coated_copper(.*)/',
+        '/(.*)shield/',
     ], (item, advanced, text) => {
-        text.remove(0)
-        text.add(Text.of('§4Disabled'))
+        text.add(0, Text.of('§4Disabled'))
     })
+})
+
+MoreJSEvents.enchantmentTableTooltip((event) => {
+    /*
+     * `event.item`: The item in the enchanting slot
+     * `event.secondItem`: Mostly lapis lazuli
+     * `event.lines`: The tooltip lines
+     * `event.player`: The player that is hovering over the slot
+     * `event.level`: The player's level (overworld, etc.)
+     * `event.slot`: The slot that is hovered over (0, 1 or 2)
+     * `event.requiredLevel`: The required experience level to enchant
+     * `event.clue`: The clue that is shown in the tooltip
+     **/
+    event.lines.clear()
 })

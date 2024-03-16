@@ -42,7 +42,7 @@ ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","programmer_art","file/golden-days-base-1.20.x-1.10.0.zip","file/golden-adjustments-1.20.1.zip","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","fabric"]
+resourcePacks:["vanilla","mod_resources","programmer_art","file/golden-days-base-1.20.x-1.10.0.zip","file/golden-days-adjustments-1.20.x-1.0.0.zip","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
