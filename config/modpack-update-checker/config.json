@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 7,
+  "currentVersion": "1.1.0",
+  "modpackName": "Beta Rising",
+  "modpackAuthor": "ZeroXp",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/Maxhibis/Minecraft-Beta-Rising/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
