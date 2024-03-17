@@ -1,0 +1,58 @@
+[Performance Update]
+FABRIC IS NOW 0.14.19
+
+Mods:
++ Added Server Browser (by thethonk)
++ Added AmbientSounds 5 (by CreativeMD)
++ Added StackDeobfuscator (by booky10)
++ Added Ocean's Delight (by scouter567)
++ Added Chunks fade in (by kerudion)
++ Added Repurposed Structures - Yung's Better Nether Fortress Compat Datapack (by telepathicgrunt)
++ Added Repurposed Structures - Bygone Nether Compat Datapack (by telepathicgrunt)
++ Added Entity Model Features (by traben_0)
+- Removed MoreMcMeta (Redundant)
+- Removed Custom Entity Models (Replaced)
+
+Configs:
+- Re-enabled all previously disabled Lithium config options for better performance. If you notice any issues regarding chunks not loading or hoppers not working as intended, PLEASE report it on the modpack's Github page or in our Discord. 
+- Added several new quests to the Miscellaneous category. More quests will be added soon.
+- Many quest fixes and balancing changes
+- Added a warning to the main menu when the Essential mod is installed
+- Re-enabled Jar Autodetect
+- Bound Toggle Empowered to X
+- Bound Open Terminal to V
+- Unbound Secondary Zoom
+
+Updates:
+- Added 1,773 words worth of new biomes, new items, new mobs, and fixes. (Oh The Biomes You'll Go)
+- Added a toggle button for rain/snow culling in Video Settings, and added a new culling feature which may result in "insane performance improvements" (MoreCulling)
+- Added better mod compatibility and performance improvements (Lithium)
+- Added two new memory leak fixes (MemoryLeakFix)
+- Added better compatibility with Iris, resulting in performance improvements (ImmediatelyFast)
+- Added dog bowls and dog beds for all Vanilla wood and wool types (Wolves Of Other Furs)
+- Added REI support for Queen Bee trades. Click the Queen Bee spawn egg in REI to view. (The Bumblezone)
+- Added grape variants which give different effects when eaten (Vinery)
+- Added recipes for individually dying cushions and sheets (Handcrafted)
+- Added enchantment description support (Frostiful)
+- Added better loot integration for 10 mods (Loot Integration)
+- Added a new type of waypoints that automatically disappear when reached (Xaero's Minimap)
+- Added keyboard navigation to the language menu (Language Reload)
+- Changed reach distance from 256 to 1024 (Ping Wheel)
+- Changed most wine recipes (Vinery)
+- Changed many textures (Vinery)
+- Improved Crafting Terminal Refill Speed (Tom's Simple Storage)
+- All types of flowers can now be used in Wooden Flower Pots (Meadow)
+- Frost Resistance now applies to freezing from Powder Snow (Frostiful)
+- Made RS Structures that spawn only in basalt, crimson, soul, or warped-like nether biomes now spawn in more modded Nether biomes by default (Repurposed Structures)
+- Wandering winemakers now have a lower chance of dropping gloves after death (Vinery)
+- You will now get Bottles back when drinking Wine (Vinery)
+- Theres now a small chance of getting rotten cherries while picking cherry leaves. You can throw them at other entities to poison them. (Vinery)
+- Explorer maps for RS Structures are now Async, causing much less lag when locating structures (Repurposed Structures)
+- Kitchen sinks no longer consume buckets and can be used to fill up glass bottles (Vinery)
+- Antique Ink can now be used on written books to turn them into Tattered Books (Supplementaries)
+- Candles can be placed on wall skulls (Supplementaries)
+- You can now pick up a placed book by shift clicking on it (Supplementaries)
+- Reduced the amount of floating blocks in Jungle Fortresses and Underground Bastions (Repurposed Structures)
+- Curse of Frozen Touch will no longer appear in the enchanting table (Frostiful)
+- Fixed servers not closing properly, stopping on "Shutting down map thread" (spark)
+Read the full changelog here: *insert CF link*

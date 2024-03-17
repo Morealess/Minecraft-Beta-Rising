@@ -1,0 +1,89 @@
+{
+	id: "3B95E66C126DBBEF"
+	group: "799D8360B26E9792"
+	order_index: 0
+	filename: "decoration"
+	title: " &9Decoration"
+	icon: "handcrafted:spruce_fancy_bed"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Craft a &8&lDragon Plushie"
+			x: -0.5d
+			y: -0.5d
+			subtitle: "One of the many mob plushies from the Plushies mod."
+			id: "12D4044932EEF253"
+			tasks: [{
+				id: "1E4769170074A8BD"
+				type: "item"
+				item: "plushies:dragon_plushie"
+			}]
+			rewards: [{
+				id: "34035722E2E7AC32"
+				type: "item"
+				item: "plushies:dolphin_plushie"
+			}]
+		}
+		{
+			title: "Craft an &5Unobtanium Ingot"
+			x: -2.0d
+			y: -0.5d
+			subtitle: "Obtained by throwing a &8Netherite Ingot &rthrough a &4Nether &rPortal. Used to make an Unobtanium Block, one of the many decoration blocks from the Architect's Palette mod."
+			id: "7CC366DDC723B30F"
+			tasks: [{
+				id: "5B104DD2F88EC5B8"
+				type: "item"
+				item: "architects_palette:unobtanium"
+			}]
+			rewards: [{
+				id: "1F06C65F85B412D6"
+				type: "item"
+				item: "farmersdelight:honey_glazed_ham"
+				count: 3
+			}]
+		}
+		{
+			title: "Craft &7Iron Wind Chimes"
+			x: 1.0d
+			y: -0.5d
+			subtitle: "One of three craftable &7wind chimes&r."
+			id: "15B6C3CA61531CCD"
+			tasks: [{
+				id: "2B3B7372B9B40152"
+				type: "item"
+				item: "windchimes:iron_chime"
+			}]
+			rewards: [{
+				id: "1C4B2F4B321A43F9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "Craft a &cCushion"
+			x: -3.5d
+			y: -0.5d
+			subtitle: "Can be used on furniture from the Handcrafted mod to change the furniture color."
+			id: "4BBAB429C5402A23"
+			tasks: [{
+				id: "61EF88FC45DE94F5"
+				type: "item"
+				title: "Any #handcrafted:cushions"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "handcrafted:cushions"
+					}
+				}
+			}]
+			rewards: [{
+				id: "2794EE43FCF95403"
+				type: "item"
+				item: "handcrafted:hammer"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

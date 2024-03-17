@@ -1,0 +1,296 @@
+{
+	id: "712EEC29E9F58AEC"
+	group: "799D8360B26E9792"
+	order_index: 1
+	filename: "seasonal"
+	title: " &fSeasonal"
+	icon: "seasons:season_calendar"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Craft a &bSled"
+			x: -3.0d
+			y: 2.0d
+			subtitle: "Can be placed on the ground like a boat. Lets you slide down hills and other surfaces."
+			dependencies: ["40131BFC98F5E03C"]
+			id: "44FA4ABE94EAD177"
+			tasks: [{
+				id: "00D3FA019EA1A948"
+				type: "item"
+				title: "Any #snowyspirit:sleds"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "snowyspirit:sleds"
+					}
+				}
+			}]
+			rewards: [{
+				id: "673492CDB04D587C"
+				type: "item"
+				item: "snowyspirit:winter_disc"
+			}]
+		}
+		{
+			title: "Craft a &cC&fa&cn&fd&cy &fC&ca&fn&ce &fB&cl&fo&cc&fk"
+			x: -3.0d
+			y: 0.0d
+			subtitle: "&6The Bumblezone &ris a great place to find Honeycomb!"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "0EF8EA8214FEEAB7"
+			tasks: [{
+				id: "0CFA7B64A6A626F5"
+				type: "item"
+				item: "snowyspirit:candy_cane_block"
+			}]
+			rewards: [{
+				id: "627BF9300FFA13DE"
+				type: "item"
+				item: "supplementaries:candy"
+				count: 20
+			}]
+		}
+		{
+			title: "Craft &eGingerbread"
+			x: -2.0d
+			y: 0.0d
+			subtitle: "Used to craft a variety of &eGingerbread&r-related decoration blocks."
+			dependencies: ["40131BFC98F5E03C"]
+			id: "6F24276D322F6549"
+			tasks: [{
+				id: "5C961FE3126D06E9"
+				type: "item"
+				item: "snowyspirit:gingerbread"
+			}]
+			rewards: [{
+				id: "33FE6A421A977652"
+				type: "item"
+				item: "paradise_lost:gingerbread_man"
+				count: 3
+			}]
+		}
+		{
+			title: "Build a &bSnowman"
+			x: -1.2d
+			y: 1.7999999999999998d
+			subtitle: "A great way to get into the Holiday spirit!"
+			size: 1.2d
+			id: "40131BFC98F5E03C"
+			tasks: [{
+				id: "3927319239703553"
+				type: "observation"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1b
+					tag: {
+						Icon: "minecraft:textures/block/carved_pumpkin.png"
+					}
+				}
+				timer: 0L
+				observe_type: 5
+				to_observe: "minecraft:snow_golem"
+			}]
+			rewards: [{
+				id: "44B6638AEE1CF105"
+				type: "item"
+				item: "winterly:snowguy"
+			}]
+		}
+		{
+			title: "Craft a &fSnow Golem Plushie"
+			x: -3.0d
+			y: 1.0d
+			subtitle: "A cute &fSnow Golem &rdecoration!"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "7BBCCB63DFCBB79E"
+			tasks: [{
+				id: "2F860051F221D82B"
+				type: "item"
+				item: "plushies:snow_golem_plushie"
+			}]
+			rewards: [{
+				id: "1EFAAE6962A6E795"
+				type: "item"
+				item: "winterly:snowguy"
+			}]
+		}
+		{
+			title: "Craft &7Eggnog"
+			x: -0.5d
+			y: 0.0d
+			subtitle: "Fills two hunger bars"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "32A6EAE3614FB9CD"
+			tasks: [{
+				id: "64130D1CFFD83BA2"
+				type: "item"
+				item: "snowyspirit:eggnog"
+			}]
+			rewards: [{
+				id: "473A309F9B708487"
+				type: "item"
+				item: "minecraft:turtle_egg"
+			}]
+		}
+		{
+			title: "Craft a &dPresent"
+			x: -3.0d
+			y: 3.0d
+			subtitle: "A great way to give gifts to friends (or yourself)"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "40BA61DBF53991AA"
+			tasks: [{
+				id: "108C9F26C2870B30"
+				type: "item"
+				title: "Any #supplementaries:presents"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "supplementaries:presents"
+					}
+				}
+			}]
+			rewards: [{
+				id: "617CA145B2B21A1E"
+				type: "item"
+				item: "snowyspirit:snow_globe"
+			}]
+		}
+		{
+			title: "Craft &9G&aa&cr&9l&aa&cn&9d &9L&ai&cg&9h&at&cs"
+			x: 0.5d
+			y: 2.0d
+			subtitle: "Perfect way to decorate your home and christmas tree"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "1E694E1B42888383"
+			tasks: [{
+				id: "4998D0E09CCD2774"
+				type: "item"
+				item: "winterly:garland_lights"
+			}]
+			rewards: [{
+				id: "138EFC3792A1B914"
+				type: "item"
+				item: "snowyspirit:wreath"
+			}]
+		}
+		{
+			title: "Craft a Scarf"
+			x: 0.5d
+			y: 1.0d
+			subtitle: "Stay nice and warm this christmas"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "4FC737F4968F33F1"
+			tasks: [{
+				id: "5CD40AB691FC9E87"
+				type: "item"
+				title: "Any #winterly:scarfs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "winterly:scarfs"
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "47C873A4EDD66095"
+					type: "item"
+					item: "minecraft:campfire"
+				}
+				{
+					id: "167586ECB353CFB9"
+					type: "item"
+					item: "handcrafted:berry_jam_jar"
+				}
+			]
+		}
+		{
+			title: "Craft a &cSanta Hat&c"
+			x: 0.5d
+			y: 0.0d
+			subtitle: "&cSanta&c &7needs his hat&7"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "351B97A1E0BA9814"
+			tasks: [{
+				id: "2F0FAE74220A8A22"
+				type: "item"
+				item: "winterly:red_santa_hat"
+			}]
+			rewards: [
+				{
+					id: "384D1F21A85D6119"
+					type: "item"
+					item: {
+						id: "winterly:cryomarble_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4E24ABFF9734F138"
+					type: "item"
+					item: {
+						id: "winterly:cryomarble_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "18E25F3BCFBD6FEE"
+					type: "item"
+					item: {
+						id: "winterly:cryomarble_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Craft a Bundle"
+			x: 0.5d
+			y: 3.0d
+			subtitle: "Fill it with snowballs and fight your friends! (or mobs)"
+			dependencies: ["40131BFC98F5E03C"]
+			id: "7AE0B5BE527DAB5B"
+			tasks: [{
+				id: "5225AF889B8BD235"
+				type: "item"
+				title: "Any #charm:colored_bundles"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "charm:colored_bundles"
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "7F61BCC65FF6CC6D"
+					type: "item"
+					item: "winterly:snowball_wall"
+					count: 16
+				}
+				{
+					id: "49ACEBC58D217C09"
+					type: "item"
+					item: "minecraft:snowball"
+					count: 16
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,4 @@
+{
+  "inject-logger": true,
+  "mapping-type": "yarn"
+}

@@ -1,0 +1,118 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  vr:showif:modloaded = true
+  vr:value:modloaded = essential
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 910e3fe0-2166-4dfd-81d3-a9cf19f958b51680782023793
+  y = 445
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = beeec59d-1dff-418e-8912-c73c82e5a3061680782023793
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = f52bd765-b03a-4a5e-ab3c-92b28604321d1680782023793
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = eb735803-fb9c-4f39-a2dd-223351d0075a1680782023793
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = quitgame
+  x = -100
+  width = 200
+  actionid = 2c702e36-0bd3-49aa-88f2-beef7abc6caa1680783110465
+  action = addbutton
+  y = 53
+  label = Quit Game
+  value = null
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = The Essential mod has been detected as installed! %n% Using the Essential mod in modpacks WILL corrupt your world. Having the mod present will prevent MANY mods from working. %n% If you want a stable server, click the Bisect Server Hosting button above. %n% To host a server for free, download the serverpack from the modpack's Curseforge page and read the file named README. 
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -314
+  width = 629
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 778f5b49-7edf-4a7c-a521-c96d9f7bca561680783249217
+  y = -99
+  alignment = centered
+  base_color = #FF0000
+  height = 40
+}
+

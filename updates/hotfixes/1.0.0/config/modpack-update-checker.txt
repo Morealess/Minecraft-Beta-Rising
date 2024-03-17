@@ -1,0 +1,3 @@
+Github Repo URL (MUST END URL WITH A SLASH):
+https://raw.githubusercontent.com/Jab125/TestModpackUpdateChecker/main/
+BCC ENABLED
