@@ -1,14 +1,20 @@
 {
 "iguanatweaksexpanded:innate_solarium": "Works well under sunlight",
 
-"advancements.sr_story.root.title": "Survival",
+"advancements.sr_story.root.title": "Minecraft",
 
 "advancements.sr_story.charcoal.title": "Primitive Start",
-"advancements.sr_story.charcoal.description": "Holding Flint in both of your hands and right-clicking can produce a fire in desperate moments",
+"advancements.sr_story.charcoal.description": "Holding Flint in both of your hands and right-clicking can produce a fire",
 
 "advancements.sr_story.iron_armor.title": "Suit Up",
-"advancements.sr_story.iron_armor.description": "Create Iron Armor by upgrading Chainmail in a Forge.",
+"advancements.sr_story.iron_armor.description": "Create Iron Armor by upgrading Chainmail in a Forge",
 
 "advancements.sr_story.golden_pickaxe.title": "Lucky Gold",
-"advancements.sr_story.golden_pickaxe.description": "Obtain a Golden Pickaxe by upgrading a Copper Pickaxe. You'll feel luck run through your veins."
+"advancements.sr_story.golden_pickaxe.description": "Obtain a Golden Pickaxe by upgrading a Copper Pickaxe. You'll feel luck run through your veins",
+
+"advancements.sr_story.wooden_pickaxe.title": "Stone Age",
+"advancements.sr_story.wooden_pickaxe.description": "Mine Stone with your new Pickaxe",
+
+"advancements.sr_story.stone_pickaxe.title": "Getting an Upgrade",
+"advancements.sr_story.stone_pickaxe.description": "Construct a better Pickaxe"
 }

@@ -1,0 +1,5 @@
+type = customizablemenus
+
+mod.adrenix.nostalgic.client.screen.NostalgicTitleScreen {
+}
+

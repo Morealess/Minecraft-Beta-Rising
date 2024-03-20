@@ -2,7 +2,7 @@
 
 [Client]
 	#Misc client side changes
-	"Enable Misc" = true
+	"Enable Misc" = false
 	#Changes to light
 	"Enable Light" = true
 	#Changes to sounds and music. Disabling this feature requires a Minecraft restart.
@@ -30,7 +30,7 @@
 	[Client."Sounds & Music"]
 		#Multiplies the time it takes for music to play by this value (in vanilla, normal music plays each 10 to 20 minutes).
 		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-		"Music delay multiplier" = 0.1
+		"Music delay multiplier" = 0.2
 
 	#Makes fog less invasive in some contexts
 	[Client.Fog]
