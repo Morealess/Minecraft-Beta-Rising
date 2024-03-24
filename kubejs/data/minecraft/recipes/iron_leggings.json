@@ -6,7 +6,7 @@
   },
   "amount": 7,
   "gear": {
-    "item": "minecraft:chainmail_leggings"
+    "item": "minecraft:leather_leggings"
   },
   "result": "minecraft:iron_leggings",
   "smashes_required": 14,

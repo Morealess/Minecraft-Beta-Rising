@@ -6,6 +6,13 @@ console.info('Hello, World! (Loaded server scripts)')
 
 MoreJSEvents.villagerTrades((event) => {
 
-    // Disable trading  
+    // Disable Trading  
     event.removeVanillaTrades()
 })
+
+MoreJSEvents.updateWandererOffers((event) => {
+
+    // Disable Wandering Trader
+    event.deleteAddedOffers();
+})
+

@@ -67,7 +67,8 @@
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "minecraft:patch_melon_sparse"
+      "minecraft:patch_melon_sparse",
+      "iguanatweaksexpanded:solium_moss"
     ],
     [
       "modern_beta:freeze_top_layer"

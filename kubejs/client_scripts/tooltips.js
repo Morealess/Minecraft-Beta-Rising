@@ -2,23 +2,6 @@
 
 ItemEvents.tooltip(event => {
 
-    // Consistent Hammer Tooltips
-    event.addAdvanced([
-        '/(.*)hammer/'
-    ], (item, advanced, text) => {
-        text.remove(1)
-        text.remove(1)
-    })
-
-    // Consistent Shield Tooltips
-    event.addAdvanced([
-        '/(.*)shield/'
-    ], (item, advanced, text) => {
-        text.remove(1)
-        text.remove(1)
-        text.remove(1)
-    })
-
     // Disabled Items Tooltips
     event.addAdvanced([
         'sleep_tight:bedbug_spawn_egg',
@@ -40,7 +23,27 @@ ItemEvents.tooltip(event => {
         '/iguanatweaksexpanded:coated_copper(.*)/',
         '/(.*)shield/',
     ], (item, advanced, text) => {
-        text.add(0, Text.of('§4Disabled'))
+        text.add(0, Text.of('§4§nDisabled'))
+    })
+
+    // Remove Redundant Tooltips // get ever item id that contains sword
+    Ingredient.of(/sword|axe|pickaxe|shovel|hoe|hammer/).itemIds.forEach((itemId) => {
+        event.addAdvanced(itemId, (item, advanced, text) => {
+            //save every tooltip that not contains Attack Speed in an array
+            const textElsArr = []
+            for (let i = 1; i < text.length; i++) {
+                if (/Attack Speed|Entity Reach/.test(text.get(i).string)) continue;
+                textElsArr.push(text.get(i))
+            }
+            //remove every tooltip that is not the displayname of the item
+            let name = text.get(0);
+            text.removeIf((e) => e !== name)
+      
+            //add back every tooltip except for the ones with Attack Speed
+            textElsArr.forEach((textEl) => {
+              text.add(text.length, [textEl])
+            })
+        })
     })
 })
 

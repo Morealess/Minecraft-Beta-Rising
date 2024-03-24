@@ -654,30 +654,6 @@
 		#Range: 0.0 ~ 4.0
 		"Flee speed Multiplier Far" = 1.0
 
-[Ghasts]
-	#Various changes to ghast shooting. Only ghasts in enhancedai:change_ghast_shooting entity type tag are affected by this feature.
-	"Enable Ghast Shoot" = true
-
-	#Various changes to ghast shooting. Only ghasts in enhancedai:change_ghast_shooting entity type tag are affected by this feature.
-	[Ghasts."Ghast Shoot"]
-		#Chance for a Ghast to try and shoot the target even if can't see it. If enabled and the Ghast can't see the target, he will shoot 4 times as fast to breach.
-		#Range: 0.0 ~ 1.0
-		"Shoot when not seen Chance" = 0.3
-
-		#How many ticks pass between shooting fireballs. Vanilla is 40
-		[Ghasts."Ghast Shoot"."Attack Cooldown"]
-			#Range: 1.0 ~ 300.0
-			Minimum = 40.0
-			#Range: 1.0 ~ 300.0
-			Maximum = 50.0
-
-		#How many fireballs ghast shoot in rapid succession. Vanilla is 1
-		[Ghasts."Ghast Shoot"."Fireballs shot"]
-			#Range: 1.0 ~ 16.0
-			Minimum = 1.0
-			#Range: 1.0 ~ 16.0
-			Maximum = 3.0
-
 [Endermen]
 	#Endermen teleport the player near him when can't reach him for a while.
 	"Enable [Experimental] Get Over Here" = false
@@ -864,4 +840,28 @@
 		Knockback = 1.5
 		#Animals' knockback attribute will be increased/decreased based on the side of the mob.
 		"Knockback size based" = true
+
+[Ghasts]
+	#Various changes to ghast shooting. Only ghasts in enhancedai:change_ghast_shooting entity type tag are affected by this feature.
+	"Enable Ghast Shoot" = true
+
+	#Various changes to ghast shooting. Only ghasts in enhancedai:change_ghast_shooting entity type tag are affected by this feature.
+	[Ghasts."Ghast Shoot"]
+		#Chance for a Ghast to try and shoot the target even if can't see it. If enabled and the Ghast can't see the target, he will shoot 4 times as fast to breach.
+		#Range: 0.0 ~ 1.0
+		"Shoot when not seen Chance" = 0.3
+
+		#How many ticks pass between shooting fireballs. Vanilla is 40
+		[Ghasts."Ghast Shoot"."Attack Cooldown"]
+			#Range: 1.0 ~ 300.0
+			Minimum = 40.0
+			#Range: 1.0 ~ 300.0
+			Maximum = 50.0
+
+		#How many fireballs ghast shoot in rapid succession. Vanilla is 1
+		[Ghasts."Ghast Shoot"."Fireballs shot"]
+			#Range: 1.0 ~ 16.0
+			Minimum = 1.0
+			#Range: 1.0 ~ 16.0
+			Maximum = 3.0
 

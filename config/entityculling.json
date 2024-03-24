@@ -27,7 +27,7 @@
     "minecraft:firework_rocket",
     "create:carriage_contraption"
   ],
-  "disableF3": false,
+  "disableF3": true,
   "skipEntityCulling": false,
   "skipBlockEntityCulling": false
 }

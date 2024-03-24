@@ -6,7 +6,7 @@
   },
   "amount": 8,
   "gear": {
-    "item": "minecraft:chainmail_chestplate"
+    "item": "minecraft:leather_chestplate"
   },
   "result": "minecraft:iron_chestplate",
   "smashes_required": 16,

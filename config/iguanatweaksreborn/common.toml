@@ -2,7 +2,7 @@
 "Enable Experience" = true
 "Enable Farming" = true
 "Enable Hunger & Health" = false
-"Enable Items" = false
+"Enable Items" = true
 "Enable Mining" = true
 "Enable Miscellaneous" = true
 "Enable Mobs" = true
@@ -450,7 +450,7 @@
 		#* Levers and glass can now be broken faster with pickaxes, cactus with hoes
 		"Misc tweaks" = true
 		#Makes redstone components require redstone in their recipe (e.g. Levers, pressure plates, etc). Also makes Corail's Woodcutter no longer able to make buttons and pressure plates.
-		"Actual Redstone Components" = true
+		"Actual Redstone Components" = false
 		#If true a data pack will be enabled that makes furnaces require copper. Copper ingots can be obtained from raw copper on campfires.
 		"Copper Furnace" = true
 		#If true a data pack will be enabled that disables villages and pillagers outpost generation.
@@ -539,11 +539,11 @@
 
 [Items]
 	#Make food, items and blocks less stackable. Items and Blocks are disabled by default. Changing stuff might require a Minecraft restart.
-	"Enable Stack Sizes" = true
+	"Enable Stack Sizes" = false
 	#Retrieve name tags from name tagged entities.
 	"Enable Name tags" = true
 	#Less durable items and efficient tools. Items Durability and Efficiency are controlled via json in this feature's folder. Note that removing entries from the json requires a Minecraft Restart
-	"Enable Item Stats" = false
+	"Enable Item Stats" = true
 
 	#Make food, items and blocks less stackable. Items and Blocks are disabled by default. Changing stuff might require a Minecraft restart.
 	[Items."Stack Sizes"]
@@ -944,7 +944,7 @@
 	"Enable Regenerating Absorption" = true
 	"Enable Snowballs" = true
 	#Various changes from weapons damage to armor reduction
-	"Enable Misc Stats" = false
+	"Enable Misc Stats" = true
 	#Armor gives regenerating absorption and regen absorption speed instead of armor and toughness
 	"Enable Absorption Armor" = false
 	#Shovels deal bonus knockback.
@@ -1008,7 +1008,7 @@
 		#If true, Arrows from Bows and Crossbows will no longer deal more damage when fully charged.
 		"Disable Critical Arrows bonus damage" = false
 		#Range: 0.0 ~ 1.0
-		"Hoes Knockback multiplier" = 0.4
+		"Hoes Knockback multiplier" = 0.0
 		#Vanilla tooltips on gear don't sum up multiple modifiers (e.g. a sword would have "4 Attack Damage" and "-2 Attack Damage" instead of "2 Attack Damage". This might break other mods messing with these Tooltips (e.g. Quark's improved tooltips)
 		"Fix tooltips" = true
 		#Changes Strength effect from +3 damage per level to +20% damage per level. (Requires a Minecraft restart)
@@ -1023,7 +1023,7 @@
 		#Changes Mining fatigue and haste to no longer affects attack speed. (Requires a Minecraft restart)
 		"Better haste/mining fatigue" = true
 		#If enabled, tools will not take 2 damage when used to hurt entities
-		"1 damage for tools attacking" = true
+		"1 damage for tools attacking" = false
 
 	#Shovels deal bonus knockback.
 	[Combat."Bonking Shovels"]
