@@ -13,7 +13,7 @@
 	#Change a few things relative to Serene Seasons
 	"Enable Seasons" = true
 	#Changes ore generation of many ores. Also adds poor and rich Iron, Gold and Copper
-	"Enable Ore Generation" = false
+	"Enable Ore Generation" = true
 	"Enable Coal & Charcoal" = true
 
 	#Change a few things relative to Serene Seasons

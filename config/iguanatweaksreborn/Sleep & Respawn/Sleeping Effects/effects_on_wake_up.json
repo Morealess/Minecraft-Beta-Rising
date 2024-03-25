@@ -1,7 +1,7 @@
 [
   {
     "id": "minecraft:regeneration",
-    "duration": 100
+    "duration": 200
   },
   {
     "id": "minecraft:slowness",

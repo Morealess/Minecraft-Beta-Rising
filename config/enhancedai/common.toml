@@ -387,7 +387,7 @@
 	#Change how mobs target players. Use the enhancedai:use_target_changes and enhancedai:use_follow_range_changes entity type tag to whitelist mobs. Add mobs to enhancedai:allow_target_switch entity type tag to allow these mobs to be able to switch targets when hit (e.g. Creepers can't normally do that).
 	"Enable Targeting" = false
 	#Makes mobs ride other mobs
-	"Enable Riding" = true
+	"Enable Riding" = false
 
 	#Changes mobs attack range to use the 1.20.2 mechanic
 	[Mobs."Melee Attacking"]
