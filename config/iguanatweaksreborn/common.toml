@@ -535,7 +535,7 @@
 	#Makes gold tools more useful
 	[Mining.Gold]
 		#Changes Gold tools to have an innate Fortune/Looting I and changes the harvest level to be like iron tools.
-		"Lucky Gold" = true
+		"Lucky Gold" = false
 
 [Items]
 	#Make food, items and blocks less stackable. Items and Blocks are disabled by default. Changing stuff might require a Minecraft restart.

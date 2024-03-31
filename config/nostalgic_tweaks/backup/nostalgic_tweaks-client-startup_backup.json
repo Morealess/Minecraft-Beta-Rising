@@ -196,7 +196,7 @@
     "voidFogColor": "#0C0C0CFF",
     "voidFogEncroach": 50,
     "voidFogStart": 50,
-    "voidParticleStart": -47,
+    "voidParticleStart": -37,
     "voidParticleRadius": 16,
     "voidParticleDensity": 20
   },

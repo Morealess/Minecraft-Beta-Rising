@@ -11,6 +11,7 @@ JEIEvents.hideItems(event => {
     // Replaced
     //event.hide('minecraft:blast_furnace')
     event.hide('minecraft:fletching_table')
+    event.hide('minecraft:powered_rail')
     event.hide('iguanatweaksexpanded:enchanting_table')
     event.hide('iguanatweaksreborn:beacon')
 

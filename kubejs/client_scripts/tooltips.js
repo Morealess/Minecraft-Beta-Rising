@@ -2,15 +2,25 @@
 
 ItemEvents.tooltip(event => {
 
+    // Blast Furnace Tooltips
+    event.addAdvanced([
+        'minecraft:blast_furnace',
+    ], (item, advanced, text) => {
+        text.add(Text.of('Requires a multi block structure to work'))
+    })
+    
     // Disabled Items Tooltips
     event.addAdvanced([
+        'minecraft:blast_furnace',
+        'minecraft:fletching_table',
+        'minecraft:powered_rail',
+        'iguanatweaksexpanded:enchanting_table',
+        'iguanatweaksreborn:beacon',
+
         'sleep_tight:bedbug_spawn_egg',
         'sleep_tight:bedbug_eggs',
         'sleep_tight:night_bag',
 
-        'iguanatweaksexpanded:enchanting_table',
-        'iguanatweaksreborn:beacon',
-    
         'iguanatweaksexpanded:copper_ore_rock',
         'iguanatweaksexpanded:iron_ore_rock',
         'iguanatweaksexpanded:gold_ore_rock',
@@ -48,15 +58,7 @@ ItemEvents.tooltip(event => {
 })
 
 MoreJSEvents.enchantmentTableTooltip((event) => {
-    /*
-     * `event.item`: The item in the enchanting slot
-     * `event.secondItem`: Mostly lapis lazuli
-     * `event.lines`: The tooltip lines
-     * `event.player`: The player that is hovering over the slot
-     * `event.level`: The player's level (overworld, etc.)
-     * `event.slot`: The slot that is hovered over (0, 1 or 2)
-     * `event.requiredLevel`: The required experience level to enchant
-     * `event.clue`: The clue that is shown in the tooltip
-     **/
+    
+    // Hides Enchanting Tooltips
     event.lines.clear()
 })
