@@ -1,0 +1,28 @@
+{
+  "icon": "icon.png",
+  "description": "",
+  "packs": [
+    "Alpha-Style Metal Blocks",
+    "Beta Lang Translations",
+    "Classic Cobblestone",
+    "Dark Armor Icons (Default)",
+    "Dark Armor Icons (G.D.)",
+    "Leather Armor Pack (12w34a)",
+    "Leather Armor Pack (12w37a)",
+    "Modern Chests (G.D.)",
+    "Oar-less Boats (Default)",
+    "Oar-less Boats (P.A.)",
+    "Old Enchantment Glint",
+    "Old Liquids (Lava)",
+    "Old Liquids (Water)",
+    "Old Ores",
+    "Player Reborn",
+    "Shadow, Begone!",
+    "Subtle Enchantingmence",
+    "The End Portal (Default)",
+    "The End Portal (G.D.)",
+    "The Exp. Bar (Default)",
+    "The Exp. Bar (G.D.)"
+  ],
+  "hidden": false
+}

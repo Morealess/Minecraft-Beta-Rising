@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/the_nether",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:quaron_ingot"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.wrong_tools_only.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.wrong_tools_only.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"wrong_tools_only": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:quaron_ingot"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"wrong_tools_only"
+		]
+	]
+}

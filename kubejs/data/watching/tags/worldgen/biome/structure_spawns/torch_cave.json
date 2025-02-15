@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:has_structure/mineshaft",
+    "#moderner_beta:is_beta",
+    "moderner_beta:alpha"
+  ]
+}

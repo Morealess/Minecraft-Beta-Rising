@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/hot_coal",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:soul_blast_furnace"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.fetch_me_their_souls.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.fetch_me_their_souls.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"soul_blast_furnace": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:soul_blast_furnace"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"soul_blast_furnace"
+		]
+	]
+}

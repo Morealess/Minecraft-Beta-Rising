@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_trapdoor_item_low",
+  "textures": {
+    "texture": "wood_you_dye:block/orange_plank_trapdoor"
+  }
+}

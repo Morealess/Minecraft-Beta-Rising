@@ -1,0 +1,3 @@
+execute at @p if entity @p in minecraft:overworld run advancement grant @p[limit=1000,distance=..50] only niknok:minecraft/the_beginning
+execute at @p if entity @p in minecraft:the_nether run advancement grant @p[limit=1000,distance=..50] only niknok:minecraft/the_beginning
+execute at @p if entity @p in minecraft:the_end run advancement grant @p[limit=1000,distance=..50] only niknok:minecraft/the_beginning

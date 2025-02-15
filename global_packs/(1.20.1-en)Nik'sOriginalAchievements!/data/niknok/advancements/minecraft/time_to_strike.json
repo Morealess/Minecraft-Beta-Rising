@@ -1,0 +1,84 @@
+{
+	"parent": "niknok:minecraft/benchmarking",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:wooden_sword"
+		},
+		"title":
+		{
+			"translate": "Time to Strike!"
+		},
+		"description":
+		{
+			"translate": "§7Use planks and sticks to make a sword."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"timetostrike_wood":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:wooden_sword"
+			}
+		},
+		"timetostrike_stone":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:stone_sword"
+			}
+		},
+		"timetostrike_iron":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:iron_sword"
+			}
+		},
+		"timetostrike_gold":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:golden_sword"
+			}
+		},
+		"timetostrike_diamond":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:diamond_sword"
+			}
+		},
+		"timetostrike_netherite":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:netherite_sword"
+			}
+		}
+	},
+	"requirements":
+	[
+		[
+			"timetostrike_wood",
+			"timetostrike_stone",
+			"timetostrike_iron",
+			"timetostrike_gold",
+			"timetostrike_diamond",
+			"timetostrike_netherite"
+		]
+	]
+}

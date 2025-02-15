@@ -1,0 +1,148 @@
+
+{
+  "filters": [
+    {
+      "category": "minecraft:smoking"
+    },
+    {
+      "id": "/emi:/crafting/shulker_box_dying/",
+      "category": "minecraft:crafting"
+    },
+    {
+      "id": "/emi:/crafting/dying/betterbundles/",
+      "category": "minecraft:crafting"
+    },
+    {
+      "id": "emi:/crafting/dying/quark/backpack",
+      "category": "minecraft:crafting"
+    },
+    {
+      "id": "minecraft:shield_decoration",
+      "category": "minecraft:crafting"
+    },
+    {
+      "id": "supplementaries:soap_clean_quark_shingles_vertical_slab",
+      "category": "minecraft:crafting"
+    },
+    {
+      "id": "/emi:/crafting/repairing/(quark/(flamerang|pickarang|forgotten_hat)|iguanatweaksexpanded/(chained_copper_helmet|chained_copper_chestplate|chained_copper_leggings|chained_copper_boots|coated_copper_shield|coated_copper_hoe|coated_copper_axe|coated_copper_pickaxe|coated_copper_shovel|coated_copper_sword|copper_shield|flint_shield|flint_hoe|flint_axe|flint_pickaxe|flint_shovel|flint_sword|solarium_shield|soul_steel_shield|soul_steel_boots|soul_steel_leggings|soul_steel_chestplate|soul_steel_helmet|soul_steel_hoe|soul_steel_axe|soul_steel_pickaxe|soul_steel_shovel|soul_steel_sword|durium_shears|durium_shield|netherite_hammer|soul_steel_hammer|coated_copper_hammer|flint_hammer|keego_shield|quaron_fishing_rod|quaron_shield)|shieldsplus/(netherite_shield|diamond_shield|golden_shield|iron_shield|stone_shield|wooden_shield)|lost_aether_content/(shield_of_emile|gravitite_shield|zanite_shield|phoenix_hoe|phoenix_sword|phoenix_axe|phoenix_pickaxe|phoenix_shovel)|aether/(netherite_gloves)|minecraft/(brush|trident|shield|netherite_boots|netherite_leggings|netherite_chestplate|netherite_helmet|netherite_hoe|netherite_axe|netherite_pickaxe|netherite_shovel|netherite_sword|elytra|warped_fungus_on_a_stick))/",
+      "category": "minecraft:crafting"
+    },    
+    {
+      "id": "iguanatweaksexpanded:info_golden_powered_rail",
+      "category": "emi:info"
+    },
+    {
+      "id": "iguanatweaksexpanded:info_nether_infused_powered_rail",
+      "category": "emi:info"
+    },
+    {
+      "id": "iguanatweaksexpanded:info_repair_kit",
+      "category": "emi:info"
+    },
+    {
+      "id": "iguanatweaksexpanded:info_altimeter",
+      "category": "emi:info"
+    },
+    {
+      "id": "emi:/world/cauldron_washing/quark/backpack",
+      "category": "emi:world_interaction"
+    },
+    {
+      "id": "/emi:/world/stripping/(?!.*copper.*)/",
+      "category": "emi:world_interaction"
+    },
+    {
+      "id": "/emi:/world/cauldron_washing/betterbundles/(.*)/",
+      "category": "emi:world_interaction"
+    },
+    {
+      "id": "/emi:/composting/item/(quark/(?!thatch|moss_paste|oak_leaf_carpet|spruce_leaf_carpet|birch_leaf_carpet|jungle_leaf_carpet|acacia_leaf_carpet|dark_oak_leaf_carpet|mangrove_leaf_carpet|cherry_leaf_carpet|azalea_leaf_carpet|flowering_azalea_leaf_carpet)|minecraft\\/(torchflower_seeds|pitcher_plant|shroomlight|torchflower|pitcher_pod))/",
+      "category": "emi:composting"
+    },
+    {
+      "id": "/emi:/fuel/item/quark/(?!blaze_lantern|charcoal_block|stick_block|hollow_oak_log|hollow_spruce_log|hollow_birch_log|hollow_jungle_log|hollow_acacia_log|hollow_dark_oak_log)/",
+      "category": "emi:fuel"
+    },
+    {
+      "id": "/emi:/fuel/item/supplementaries/(.*sign_post.*)/",
+      "category": "emi:fuel"
+    },
+    {
+      "id": "/emi:/fuel/item/aether/(skyroot_planks|skyroot_water_bucket|skyroot_bucket|skyroot_fence|skyroot_fence_gate|skyroot_bookshelf)/",
+      "category": "emi:fuel"
+    },
+    {
+      "id": "/emi:/fuel/item/minecraft/fletching_table/",
+      "category": "emi:fuel"
+    },
+    {
+      "id": "/emi:/fuel/item/nec.*/",
+      "category": "emi:fuel"
+    },
+
+    {
+      "id": "/emi:/anvil/(enchanting/quark/(backpack|forgotten_hat|pickarang|flamerang)/.*|repairing/(material/(quark/(backpack|forgotten_hat)/minecraft/leather|minecraft/(shield/minecraft/oak_planks|elytra/minecraft/phantom_membrane))|tool/quark/(forgotten_hat|pickarang|flamerang)))/",
+      "category": "emi:anvil_repairing"
+    }, 
+
+    {
+      "id": "/emi:/anvil/(repairing/tool|enchanting)/(.*)shield(/.*)?/",
+      "category": "emi:anvil_repairing"
+    },
+
+    {
+      "id": "/emi:/anvil/(enchanting/minecraft/elytra/.*|repairing/tool/minecraft/elytra)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(enchanting/minecraft/warped_fungus_on_a_stick/.*|repairing/tool/minecraft/warped_fungus_on_a_stick)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(enchanting/minecraft/trident/.*|repairing/tool/minecraft/trident)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(enchanting/minecraft/brush/.*|repairing/tool/minecraft/brush)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(enchanting/lost_aether_content/shield_of_emile/.*|repairing/tool/lost_aether_content/shield_of_emile)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(enchanting/iguanatweaksexpanded/durium_shears/.*|repairing/tool/iguanatweaksexpanded/durium_shears)/",
+      "category": "emi:anvil_repairing"
+    },
+
+    {
+      "id": "/emi:/anvil/enchanting/iguanatweaksexpanded/netherite_hammer/.*|emi:/anvil/repairing/material/iguanatweaksexpanded/netherite_hammer/minecraft/netherite_ingot|emi:/anvil/repairing/tool/iguanatweaksexpanded/netherite_hammer/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(material/minecraft/netherite_(hoe|axe|pickaxe|shovel|sword|helmet|chestplate|leggings|boots)/minecraft/netherite_ingot|tool/minecraft/netherite_(hoe|axe|pickaxe|shovel|sword|helmet|chestplate|leggings|boots))|enchanting/minecraft/netherite_(hoe|axe|pickaxe|shovel|sword|helmet|chestplate|leggings|boots)/.*)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(material/iguanatweaksexpanded/soul_steel_(hoe|axe|pickaxe|shovel|sword|hammer|helmet|chestplate|leggings|boots)/iguanatweaksexpanded/soul_steel_ingot|tool/iguanatweaksexpanded/soul_steel_(hoe|axe|pickaxe|shovel|sword|hammer|helmet|chestplate|leggings|boots))|enchanting/iguanatweaksexpanded/soul_steel_(hoe|axe|pickaxe|shovel|sword|hammer|helmet|chestplate|leggings|boots)/.*)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(material/iguanatweaksexpanded/flint_(hoe|axe|pickaxe|shovel|sword|hammer)/minecraft/flint|tool/iguanatweaksexpanded/flint_(hoe|axe|pickaxe|shovel|sword|hammer))|enchanting/iguanatweaksexpanded/flint_(hoe|axe|pickaxe|shovel|sword|hammer)/.*)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(material/iguanatweaksexpanded/coated_copper_(hoe|axe|pickaxe|shovel|sword|hammer)/minecraft/obsidian|tool/iguanatweaksexpanded/coated_copper_(hoe|axe|pickaxe|shovel|sword|hammer))|enchanting/iguanatweaksexpanded/coated_copper_(hoe|axe|pickaxe|shovel|sword|hammer)/.*)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(material/iguanatweaksexpanded/chained_copper_(helmet|chestplate|leggings|boots)/minecraft/copper_ingot|tool/iguanatweaksexpanded/chained_copper_(helmet|chestplate|leggings|boots))|enchanting/iguanatweaksexpanded/chained_copper_(helmet|chestplate|leggings|boots)/.*)/",
+      "category": "emi:anvil_repairing"
+    },
+    {
+      "id": "/emi:/anvil/(repairing/(tool/lost_aether_content/phoenix_(hoe|axe|pickaxe|shovel|sword))|enchanting/lost_aether_content/phoenix_(hoe|axe|pickaxe|shovel|sword)/.*)/",
+      "category": "emi:anvil_repairing"
+    }
+  ]
+}

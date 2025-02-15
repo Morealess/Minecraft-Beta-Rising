@@ -1,0 +1,28 @@
+{
+	"parent": "niknok:beta_rising/alloying",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:crate"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.power_lifting.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.power_lifting.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"power_lifting": {
+			"trigger": "iguanatweaksexpanded:overweight_crate_carry"
+		}
+	},
+	"requirements": [
+		[
+			"power_lifting"
+		]
+	]
+}

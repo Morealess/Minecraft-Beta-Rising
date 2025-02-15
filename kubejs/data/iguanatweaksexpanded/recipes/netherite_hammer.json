@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 5,
+  "category": "forge_misc",
+  "experience": 10.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:golden_hammer"
+  },
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:netherite_hammer",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 20
+}

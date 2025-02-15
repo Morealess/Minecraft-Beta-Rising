@@ -1,0 +1,31 @@
+{
+  "armorSetName": "leather",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "minecraft:leather_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "minecraft:leather_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "minecraft:leather_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "minecraft:leather_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:speed",
+      "value": 0.0
+    }
+  ],
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "tooltip.translation.spacecatasb.leather"
+  ]
+}

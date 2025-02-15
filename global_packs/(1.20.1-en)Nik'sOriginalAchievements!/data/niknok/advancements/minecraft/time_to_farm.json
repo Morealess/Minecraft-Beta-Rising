@@ -1,0 +1,84 @@
+{
+	"parent": "niknok:minecraft/benchmarking",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:wooden_hoe"
+		},
+		"title":
+		{
+			"translate": "Time to Farm!"
+		},
+		"description":
+		{
+			"translate": "§7Use planks and sticks to make a Wooden Hoe."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"hoe_wood":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:wooden_hoe"
+			}
+		},
+		"hoe_stone":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:stone_hoe"
+			}
+		},
+		"hoe_iron":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:iron_hoe"
+			}
+		},
+		"hoe_gold":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:golden_hoe"
+			}
+		},
+		"hoe_diamond":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:diamond_hoe"
+			}
+		},
+		"hoe_netherite":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:netherite_hoe"
+			}
+		}
+	},
+	"requirements":
+	[
+		[
+			"hoe_wood",
+			"hoe_stone",
+			"hoe_iron",
+			"hoe_gold",
+			"hoe_diamond",
+			"hoe_netherite"
+		]
+	]
+}

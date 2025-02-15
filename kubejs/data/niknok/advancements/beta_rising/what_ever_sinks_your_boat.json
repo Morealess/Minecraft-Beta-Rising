@@ -1,0 +1,30 @@
+{
+	"parent": "niknok:beta_rising/cultivation",
+  "display": {
+    "icon": {
+      "item": "obsidianboat:obsidian_boat"
+    },
+    "title": {
+      "translate": "advancements.niknok.beta_rising.what_ever_sinks_your_boat.title"
+    },
+    "description": {
+      "translate": "advancements.niknok.beta_rising.what_ever_sinks_your_boat.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "placed_boat": {
+      "conditions": {},
+      "trigger": "obsidianboat:obsidianboat"
+    }
+  },
+  "requirements": [
+    [
+      "placed_boat"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

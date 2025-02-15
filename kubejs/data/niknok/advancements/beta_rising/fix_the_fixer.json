@@ -1,0 +1,62 @@
+{
+	"parent": "niknok:beta_rising/bricks_required",
+	"display": {
+		"icon": {
+			"item": "minecraft:damaged_anvil"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.fix_the_fixer.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.fix_the_fixer.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"fix_the_fixer": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment": {
+								"mainhand": {
+									"items": [
+										"minecraft:iron_block"
+									]
+								}
+							}
+						}
+					}
+				],
+				"location": [
+					{
+						"condition": "minecraft:any_of",
+						"terms": [
+							{
+								"condition": "minecraft:block_state_property",
+								"block": "minecraft:chipped_anvil",
+								"properties": {}
+							},
+							{
+								"condition": "minecraft:block_state_property",
+								"block": "minecraft:damaged_anvil",
+								"properties": {}
+							}
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"fix_the_fixer"
+		]
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"parent": "niknok:minecraft/cow_tipper",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:wheat"
+		},
+		"title":
+		{
+			"translate": "Repopulation"
+		},
+		"description":
+		{
+			"translate": "§7Breed two cows with wheat."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"repopulation":
+		{
+			"trigger": "minecraft:bred_animals",
+			"conditions":
+			{
+				"parent":
+				{
+					"type": "cow"
+				}
+			}
+		}
+	},
+	"requirements":
+	[
+		["repopulation"]
+	]
+}

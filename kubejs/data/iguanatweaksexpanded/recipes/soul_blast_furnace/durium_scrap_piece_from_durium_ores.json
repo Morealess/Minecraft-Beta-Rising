@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:multi_item_soul_blasting",
+  "category": "soul_blast_furnace_misc",
+  "cookingtime": 100,
+  "experience": 3.0,
+  "group": "durium_scrap_piece",
+  "ingredients": [
+    {
+      "tag": "iguanatweaksexpanded:durium_ores"
+    }
+  ],
+  "output_increase": 0.3,
+  "result": "iguanatweaksexpanded:durium_scrap_piece"
+}

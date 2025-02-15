@@ -1,49 +1,136 @@
 [
   {
-    "food": "minecraft:rotten_flesh",
-    "nutrition": 2,
-    "eating_time": 55
+    "food": "minecraft:mushroom_stew",
+    "nutrition": 10,
+    "eating_time": 0
   },
   {
-    "food": "minecraft:spider_eye",
-    "nutrition": 1,
-    "eating_time": 40
+    "food": "iguanatweaksexpanded:brown_mushroom_stew",
+    "nutrition": 9,
+    "eating_time": 0
+  },
+  {
+    "food": "iguanatweaksexpanded:red_mushroom_stew",
+    "nutrition": 9,
+    "eating_time": 0
+  },
+  {
+    "food": "minecraft:beetroot_soup",
+    "nutrition": 10,
+    "eating_time": 0
+  },
+  {
+    "food": "minecraft:rabbit_stew",
+    "nutrition": 14
+  },
+  {
+    "food": "minecraft:suspicious_stew",
+    "nutrition": 10,
+    "eating_time": 0
+  },
+  {
+    "food": "iguanatweaksexpanded:netherized_stew",
+    "nutrition": 20,
+    "eating_time": 0
+  },
+  {
+    "food": "minecraft:apple",
+    "nutrition": 2,
+    "eating_time": 32
+  },
+  {
+    "food": "aether:white_apple",
+    "nutrition": 2,
+    "eating_time": 32
   },
   {
     "food": "minecraft:golden_apple",
-    "effects": [
-      {
-        "id": "minecraft:regeneration",
-        "duration": 100,
-        "amplifier": 1
-      },
-      {
-        "id": "iguanatweaksreborn:regenerating_absorption",
-        "duration": 2400
-      }
-    ]
+    "nutrition": 10,
+    "eating_time": 32
   },
   {
     "food": "minecraft:enchanted_golden_apple",
-    "effects": [
-      {
-        "id": "minecraft:regeneration",
-        "duration": 400,
-        "amplifier": 1
-      },
-      {
-        "id": "minecraft:resistance",
-        "duration": 6000
-      },
-      {
-        "id": "minecraft:fire_resistance",
-        "duration": 6000
-      },
-      {
-        "id": "iguanatweaksreborn:regenerating_absorption",
-        "duration": 2400,
-        "amplifier": 3
-      }
-    ]
+    "nutrition": 20,
+    "eating_time": 32
+  },
+  {
+    "food": "minecraft:sweet_berries",
+    "nutrition": 1,
+    "eating_time": 10
+  },
+  {
+    "food": "minecraft:glow_berries",
+    "nutrition": 1,
+    "eating_time": 10
+  },
+  {
+    "food": "minecraft:chorus_fruit",
+    "nutrition": 2
+  },
+  {
+    "food": "minecraft:melon_slice",
+    "nutrition": 2
+  },
+  {
+    "food": "minecraft:carrot",
+    "nutrition": 2
+  },
+  {
+    "food": "minecraft:cooked_rabbit",
+    "nutrition": 6
+  },
+  {
+    "food": "minecraft:cooked_porkchop",
+    "nutrition": 6
+  },
+  {
+    "food": "quark:cooked_crab_leg",
+    "nutrition": 7
+  },
+  {
+    "food": "iguanatweaksexpanded:over_easy_egg",
+    "nutrition": 6
+  },
+  {
+    "food": "aether:blue_berry",
+    "nutrition": 2
+  },
+  {
+    "food": "aether:enchanted_berry",
+    "nutrition": 3
+  },
+  {
+    "food": "yaam:jerky",
+    "nutrition": 4
+  },
+  {
+    "food": "minecraft:rotten_flesh",
+    "nutrition": 2,
+    "eating_time": 45
+  },
+  {
+    "food": "minecraft:spider_eye",
+    "nutrition": 1
+  },
+  {
+    "food": "minecraft:honey_bottle",
+    "nutrition": 2,
+    "can_always_eat": false
+  },
+  {
+    "food": "minecraft:pumpkin_pie",
+    "eating_time": 40
+  },
+  {
+    "food": "berry_good:sweet_berry_meatballs",
+    "nutrition": 9
+  },
+  {
+    "food": "berry_good:glowgurt",
+    "nutrition": 8
+  },
+  {
+    "food": "farmersdelight:bone_broth",
+    "nutrition": 6
   }
 ]

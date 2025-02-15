@@ -1,0 +1,35 @@
+{
+  "parent": "niknok:beta_rising/enter_end_gateway",
+  "criteria": {
+    "use_viaduct": {
+      "trigger": "quark:use_viaduct"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.niknok.beta_rising.chase_me.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "quark:myalite_crystal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.niknok.beta_rising.chase_me.title"
+    }
+  },
+  "requirements": [
+    [
+      "use_viaduct"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "quark:advancement_flag",
+      "flag": "myalite_viaduct"
+    }
+  ]
+
+}

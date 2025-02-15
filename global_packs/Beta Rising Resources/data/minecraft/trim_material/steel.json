@@ -1,0 +1,9 @@
+{
+  "asset_name": "steel",
+  "description": {
+    "color": "#4C4C4C",
+    "translate": "Steel Material"
+  },
+  "ingredient": "iguanatweaksexpanded:durium_ingot",
+  "item_model_index": 1.0
+}

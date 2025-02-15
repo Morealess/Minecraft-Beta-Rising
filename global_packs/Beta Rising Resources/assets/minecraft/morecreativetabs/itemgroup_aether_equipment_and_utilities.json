@@ -1,0 +1,203 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_equipment_and_utilities",
+  "replace": true,
+  "tab_stack": { "name": "aether:gravitite_pickaxe"},
+  "tab_items": [
+    {
+      "name": "aether:skyroot_sword"
+    },
+    {
+      "name": "aether:skyroot_shovel"
+    },
+    {
+      "name": "aether:skyroot_pickaxe"
+    },
+    {
+      "name": "aether:skyroot_axe"
+    },
+    {
+      "name": "aether:skyroot_hoe"
+    },
+    {
+      "name": "aether:holystone_sword"
+    },
+    {
+      "name": "aether:holystone_shovel"
+    },
+    {
+      "name": "aether:holystone_pickaxe"
+    },
+    {
+      "name": "aether:holystone_axe"
+    },
+    {
+      "name": "aether:holystone_hoe"
+    },
+    {
+      "name": "aether:zanite_sword"
+    },
+    {
+      "name": "aether:zanite_shovel"
+    },
+    {
+      "name": "aether:zanite_pickaxe"
+    },
+    {
+      "name": "aether:zanite_axe"
+    },
+    {
+      "name": "aether:zanite_hoe"
+    },
+    {
+      "name": "aether:gravitite_sword"
+    },
+    {
+      "name": "aether:gravitite_shovel"
+    },
+    {
+      "name": "aether:gravitite_pickaxe"
+    },
+    {
+      "name": "aether:gravitite_axe"
+    },
+    {
+      "name": "aether:gravitite_hoe"
+    },
+    {
+      "name": "aether:valkrie_lance"
+    },
+    {
+      "name": "aether:valkrie_shovel"
+    },
+    {
+      "name": "aether:valkrie_pickaxe"
+    },
+    {
+      "name": "aether:valkrie_axe"
+    },
+    {
+      "name": "aether:valkrie_hoe"
+    },
+    {
+      "name": "aether:golden_dart_shooter"
+    },
+    {
+      "name": "aether:golden_dart"
+    },
+    {
+      "name": "aether:poison_dart_shooter"
+    },
+    {
+      "name": "aether:poison_dart"
+    },
+    {
+      "name": "aether:enchanted_dart_shooter"
+    },
+    {
+      "name": "aether:enchanted_dart"
+    },
+    {
+      "name": "aether:candy_cane_sword"
+    },
+    {
+      "name": "aether:holy_sword"
+    },
+    {
+      "name": "aether:vampire_blade"
+    },
+    {
+      "name": "aether:lightning_sword"
+    },
+    {
+      "name": "aether:lightning_knife"
+    },
+    {
+      "name": "aether:flaming_sword"
+    },
+    {
+      "name": "aether:phoenix_bow"
+    },
+    {
+      "name": "aether:pig_slayer"
+    },
+    {
+      "name": "aether:hammer_of_kingbdogz"
+    },
+    {
+      "name": "aether:cloud_staff"
+    },
+    {
+      "name": "aether:book_of_lore"
+    },
+    {
+      "name": "aether:cold_parachute"
+    },
+    {
+      "name": "aether:golden_parachute"
+    },
+    {
+      "name": "aether:ambrosium_shard"
+    },
+    {
+      "name": "aether:swet_ball"
+    },
+    {
+      "name": "aether:blue_moa_egg"
+    },
+    {
+      "name": "aether:white_moa_egg"
+    },
+    {
+      "name": "aether:black_moa_egg"
+    },
+    {
+      "name": "lost_aether_content:orange_moa_egg"
+    },
+    {
+      "name": "lost_aether_content:brown_moa_egg"
+    },
+    {
+      "name": "aether:nature_staff"
+    },
+    {
+      "name": "aether:bronze_dungeon_key"
+    },
+    {
+      "name": "aether:silver_dungeon_key"
+    },
+    {
+      "name": "aether:gold_dungeon_key"
+    },
+    {
+      "name": "lost_aether_content:platinum_key"
+    },
+    {
+      "name": "aether:victory_medal"
+    },
+    {
+      "name": "aether:music_disc_aether_tune"
+    },
+    {
+      "name": "aether:music_disc_ascending_dawn"
+    },
+    {
+      "name": "aether:music_disc_chinchilla"
+    },
+    {
+      "name": "aether:music_disc_high"
+    },
+    {
+      "name": "lost_aether_content:music_disc_legacy"
+    },
+    {
+      "name": "lost_aether_content:music_disc_sovereign_of_the_skies"
+    },
+    {
+      "name": "aether:aether_portal_frame"
+    },
+    {
+      "name": "lost_aether_content:noble_armor_trim_smithing_template"
+    } 
+  ]
+}

@@ -1,16 +1,41 @@
 {
   "schema_version": "2",
-
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "Forgery",
+    "Forgery grayscale",
+    "Moonlight Mods Dynamic Assets",
+    "iguanatweaksexpanded:assets_override",
+    "Beta Rising Resources",
+    "Default Skin Pack",
+    "Illagers to Sheeple",
+    "Jappa-Styled Pigmen"
+  ],
   "pack_overrides": {
-    "1": [
-      "fabric",
-      "Forgery grayscale",
-      "Forgery",
+    "hidden": [
+      "programmer_art",
       "mod_resources",
-      "Moonlight Mods Dynamic Assets"
+      "fabric",
+      "Forgery",
+      "Forgery grayscale",
+      "Moonlight Mods Dynamic Assets",
+      "iguanatweaksexpanded:assets_override",
+      "Beta Rising Resources",
+      "Default Skin Pack",
+      "Illagers to Sheeple",
+      "Jappa-Styled Pigmen",
+      "builtin/aether_colorblind",
+      "builtin/aether_125_art",
+      "builtin/aether_b173_art",
+      "lost_aether_content:classic_pack",
+      "nec_resource",
+      "supplementaries:darker_ropes"
     ],
-    "$$1": {
-        "hidden": true
+    "$$hidden": {
+      "hidden": true
     }
   }
 }

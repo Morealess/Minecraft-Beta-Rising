@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "values": [
     "minecraft:wheat",
     "minecraft:carrots",
@@ -7,6 +8,38 @@
     "iguanatweaksreborn:wild_wheat",
     "iguanatweaksreborn:wild_carrots",
     "iguanatweaksreborn:wild_potatoes",
-    "iguanatweaksreborn:wild_beetroots"
+    "iguanatweaksreborn:wild_beetroots",
+    {
+      "id": "supplementaries:wild_flax",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flax",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomatoes",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:budding_tomatoes",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice_panicles",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbages",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:onions",
+      "required": false
+    }
   ]
 }

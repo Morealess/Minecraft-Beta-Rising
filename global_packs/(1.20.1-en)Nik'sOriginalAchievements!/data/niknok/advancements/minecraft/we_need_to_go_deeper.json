@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:minecraft/diamonds",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:obsidian"
+		},
+		"title":
+		{
+			"translate": "We Need to Go Deeper..."
+		},
+		"description":
+		{
+			"translate": "§7Build a portal to the Nether."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"nether":
+		{
+			"trigger": "minecraft:changed_dimension",
+			"conditions":
+			{
+				"to": "minecraft:the_nether"
+			}
+		}
+	},
+	"requirements":
+	[
+		["nether"]
+	]
+}

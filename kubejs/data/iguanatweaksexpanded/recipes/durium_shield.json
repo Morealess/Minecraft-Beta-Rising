@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 4,
+  "category": "forge_misc",
+  "experience": 14.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:iron_shield"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:durium_ingot"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:durium_shield",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 14
+}

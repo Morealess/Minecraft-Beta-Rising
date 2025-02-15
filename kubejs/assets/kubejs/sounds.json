@@ -1,0 +1,10 @@
+{
+    "music.dog": {
+        "sounds": [
+            {
+                "name": "kubejs:dog",
+                "stream": true
+            }
+        ]
+    }
+}

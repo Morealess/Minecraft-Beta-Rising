@@ -1,0 +1,14 @@
+{
+    "item.minecraft.music_disc_dog": "Music Disc",
+    "item.minecraft.music_disc_dog.desc": "C418 - dog",
+
+    "item.minecraft.potion.effect.remedy": "Potion of Remedy",
+    "item.minecraft.splash_potion.effect.remedy": "Splash Potion of Remedy",
+    "item.minecraft.lingering_potion.effect.remedy": "Lingering Potion of Remedy",
+    "item.minecraft.tipped_arrow.effect.remedy": "Arrow of Remedy",
+
+    "item.minecraft.potion.effect.inebriation": "Potion of Inebriation",
+    "item.minecraft.splash_potion.effect.inebriation": "Splash Potion of Inebriation",
+    "item.minecraft.lingering_potion.effect.inebriation": "Lingering Potion of Inebriation",
+    "item.minecraft.tipped_arrow.effect.inebriation": "Arrow of Inebriation"
+}

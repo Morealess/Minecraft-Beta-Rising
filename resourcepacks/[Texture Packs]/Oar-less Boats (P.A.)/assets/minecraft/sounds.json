@@ -1,0 +1,14 @@
+{
+  "entity.boat.paddle_land": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "entity.boat.paddle_water": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  }
+}

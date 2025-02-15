@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 1,
+  "category": "forge_misc",
+  "experience": 14.0,
+  "gear": {
+    "item": "minecraft:iron_shovel"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:durium_ingot"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:durium_shovel",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 14
+}

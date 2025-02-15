@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Min Y = -64, Vanilla 1.20.1 ore gen, and the Deep Dark biome",
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 36
+        }
+    }
+}

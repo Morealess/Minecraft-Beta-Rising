@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/ice_bucket_challenge",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:flint_and_steel"
+		},
+		"title":
+		{
+			"translate": "advancements.niknok.beta_rising.we_need_to_go_deeper_2.title"
+		},
+		"description":
+		{
+			"translate": "advancements.niknok.beta_rising.we_need_to_go_deeper_2.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"nether":
+		{
+			"trigger": "minecraft:changed_dimension",
+			"conditions":
+			{
+				"to": "minecraft:the_nether"
+			}
+		}
+	},
+	"requirements":
+	[
+		["nether"]
+	]
+}

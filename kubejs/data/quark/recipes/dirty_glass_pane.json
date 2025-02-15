@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:dirty_glass"
+    }
+  },
+  "result": {
+    "item": "quark:dirty_glass_pane",
+    "count": 16
+  }
+} 

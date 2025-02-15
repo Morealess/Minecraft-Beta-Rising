@@ -1,0 +1,155 @@
+1.20.1 (June 13th, 2023)
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	-Adventuring Time!	(Now includes Cherry Grove)
+	-Bake Bread		(Now granted upon crafting)
+	-Benchmarking		(Now granted upon crafting)
+	-Enchanter		(Now granted upon crafting)
+	-Getting an Upgrade	(Now granted upon crafting)
+	-Getting Wood		(Now includes Bamboo Wood & Cherry Wood variants)
+	-Hot Topic		(Now granted upon crafting with cobblestone only)
+	-Librarian		(Now granted upon crafting)
+	-Monster Hunter		(Now granted upon defeating Warden)
+	-The Lie		(Now granted upon crafting)
+	-Time to Farm!		(Now granted upon crafting)
+	-Time to Mine!		(Now granted upon crafting)
+	-Time to Strike!	(Now granted upon crafting)
+
+>>>FIXED
+	-On a Rail		(Was breaking for specific players when changing dimensions)
+	-Sniper Duel		(FR: Fixed a typo)
+	-The Beginning?		(Wasn't calling function to grant to nearby players)
+	-The Beginning.		(Incorrect function reference to grant to nearby players)
+	-When Pigs Fly		(Was breaking for specific players when changing dimensions)
+________________________________________________________________________________
+
+
+1.19.1 (August 3, 2022)
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-On a Rail (Was being granted after only 25m in EN version, not 1km)
+
+----------
+
+1.19 (June 7, 2022)
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	-Adventuring Time	(Added Mangrove Swamp & Deep Dark)
+	-Getting Wood		(Added Mangrove wood variants)
+________________________________________________________________________________
+
+
+1.18.2B (March 29, 2022)
+=====================CHANGED=====================
+>>>LANG
+	-Langpack no longer required. The datapack will use dedicated versions for languages now, that way, there'll be only one pack to mess with for any language.
+	 Both packs are cross compatible & progress will be saved if you decide to change languages.
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-Cow Tipper		(EN: Corrected a typo "Havest", fixed in version 1.18.2)
+	-On a Rail		(FR: Corrected a typo "Sûr")
+
+----------
+
+1.18.2 (March 23, 2022)
+=====================CHANGED=====================
+>>>FUNCTIONS
+	-Functions now lead with "/function niknok:_commands/", no longer "/function niknok:___commands/"
+	-function "niknok:_commands/reset_technical_advancements" renamed to "/function niknok:_commands/reset_technical"
+
+>>>LANG
+	-This datapack now requires the usage of "Nik's Original Achievements Langpack" (renamed from "Nik's Original Achievements Addon") in order to support multiple languages.
+	 Can be acquired here: https://www.niknokinater.net/originalachievements
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-On a Rail		(Wasn't being granted if heading south; could also be granted when destroying a boat while standing on it under specific circumstances)
+	-When Pigs Fly		(Addressed general wonkiness. It should be more reliable now)
+----------
+
+
+1.18 (December 2, 2021)
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	-Adventuring Time!	(Biomes updated for 1.18)
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-Beaconator		(Corrected a typo "BEaconator")
+________________________________________________________________________________
+
+
+1.17.1 (September 3, 2021)
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	Diamonds to You!	(Can be obtained in solo like the original version by throwing a diamond to zombies, zombie villagers, as well as drowned & husks now)
+
+>>>FUNCTIONS
+	-New folder for functions intended to be used by player titled "niknok:___commands"
+	-Added function list in datapack's main directory
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-Acquire Hardware	(Was incorrectly titled "Hot Topic")
+	-Diamonds to You!	(Wasn't being granted)
+	-Librarian		(Wasn't being granted; 1.17 Syntax is different)
+----------
+
+1.17 (June 13, 2021)
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	-Monster Hunter (Enderman, Piglin, & Zombified Piglin no longer considered)
+
+>>>FUNCTIONS
+	-function niknok:reset_for_online_players (Renamed to be more clear)
+
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-Acquire Hardware	(1.17 Syntax is different)
+	-Bake Bread		(1.17 Syntax is different)
+	-Benchmarking		(1.17 Syntax is different)
+	-Cow Tipper		(1.17 Syntax is different)
+	-Delicious Fish		(1.17 Syntax is different)
+	-DIAMONDS!		(1.17 Syntax is different)
+	-Enchanter		(1.17 Syntax is different)
+	-Hot Topic		(1.17 Syntax is different)
+	-Into Fire		(1.17 Syntax is different)
+	-The Lie		(1.17 Syntax is different)
+________________________________________________________________________________
+
+
+1.16.5 (Feb 7, 2021)
+=====================UPDATED=====================
+>>>ADVANCEMENTS
+	-Getting Wood 		(Added Crimson Stem, Warped Stem, and all fullblock variants Wood, Hyphae, and Stripped)
+	-Time to Strike		(Added Netherite Sword)
+	-Time to Farm 		(Added Netherite Hoe)
+	-Time to Mine		(Added Netherite Pickaxe)
+	-Getting an Upgrade	(Added Netherite Pickaxe)
+	-Monster Hunter		(Added Piglin, Piglin Brute, Hoglin, Zoglin | Changed Zombie Pigman to Zombified Piglin)
+	-Adventuring Time!	(Added the new Nether biomes)
+
+=====================CHANGED=====================
+>>>ADVANCEMENTS
+	-Hot Topic		(Removed Blast Furnace)
+	-Enchanter		(Changed trigger from Enchanting to Inventory Detection, to resemble original more closely)
+	-Librarian		(Changed trigger from Placement to Inventory Detection, to resemble original more closely)
+	-Overkill		(Changed description to relay nine hearts instead of eight)
+
+=====================FIXED=====================
+>>>ADVANCEMENTS
+	-Sniper Duel		(Now requires an arrow specifically instead of any projectile as per the description)
+	-The End.		(Should now trigger for all players on the main End island- incorrect function path was referenced)
+________________________________________________________________________________
+
+
+1.15.2 (Feb 10, 2020)
+=====================ADDED=====================
+>>>FUNCTIONS
+	-function niknok:reset (Flushes pack's variables and reset advancements for full & proper reset for online players)
+----------
+
+
+1.15 - Nik's Original Achievments Datapack, First Release (Dec 15, 2019)

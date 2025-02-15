@@ -1,0 +1,37 @@
+#AxeItem tools and any #minecraft:axes item tag won't interact with any #minecraft:logs block tag.
+noLogStripping = true
+#Removes Large Smoke particles from extinguished lava - nice for Cobblestone Generators and visually replicates their 'old' forming interaction, without this abominable smoke... that everyone seems to have just unfortunately embraced? Get back to mining good ol' cobble, in peace!
+noLavaExtinguishParticles = true
+#Disable Ender Pearl Cooldown.
+noEnderPearlCooldown = true
+#Disable Chorus Fruit Cooldown.
+noChorusFruitCooldown = true
+#Campfires Place Unlit.
+unlitCampfires = true
+#Basically pointless unless unlitCampfires is also true.
+lavaIgnitesCampfires = true
+#Fixes Cursery's rather unnecessary addition of its color change of curses in the tooltip for a enchanted item, from purple back to red.
+fixCurseryTooltips = true
+#Patches IguanaTweaksExpanded's Copper Tools formula to scale proportionately based on the min Y level. I needed this for my modpack Beta Rising as it uses the old world height 'min Y = 0', which nullifies the original formula.
+patchIguanaTweaksExpandedCopperTools = true
+#Master switch for oldDefaultSkins. Reverts the default player skins to pre-1.19.3, where there is only Steve and Alex.
+oldDefaultSkins = true
+#Master switch for noStatusEffectIcons. Disabling this will ignore all related settings. Note: these configs require a client restart to apply changes!
+noStatusEffectIcons = true
+
+[DefaultSkinConfiguration]
+	#If enabled, this overrides the players' skins and forces them to use the Steve (wide) skin. Note: this also enables offline skin support. To 'change skins', use a resourcepack to override the file: "assets/minecraft/textures/entity/player/wide/steve.png"
+	steveOnly = true
+	#If enabled, this overrides the players' skins and forces them to use the Alex (slim) skin. Note: this also enables offline skin support. To 'change skins', use a resourcepack to override the file: "assets/minecraft/textures/entity/player/slim/alex.png"
+	alexOnly = false
+
+[NoStatusEffectIconsSettings]
+	#If true, hides all effect icons from HUD/inventory, taking precedence over hiddenEffects.
+	hideAllEffects = true
+	#If true, hides effect icons from the HUD.
+	hideFromHUD = true
+	#If true, hides effect icons from the inventory.
+	hideFromInventory = false
+	#Allows a specific list of effect icons to be hidden. Example: "minecraft:night_vision", "cofh_core:chilled", etc.
+	hiddenEffects = []
+

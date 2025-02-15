@@ -1,0 +1,33 @@
+{
+	"parent": "niknok:minecraft/diamonds",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:diamond"
+		},
+		"title":
+		{
+			"translate": "Diamonds to You!"
+		},
+		"description":
+		{
+			"translate": "§7Throw diamonds at another player."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"diamondstoyou":
+		{
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements":
+	[
+		["diamondstoyou"]
+	]
+}

@@ -4,11 +4,11 @@
 	#Range: 0 ~ 2
 	debugLevel = 0
 	#generateReport
-	generateReport = true
+	generateReport = false
 	#suppressMinecraftMobReporting
-	suppressMinecraftMobReporting = false
+	suppressMinecraftMobReporting = true
 	#fixEmptyNether
-	fixEmptyNether = true
+	fixEmptyNether = false
 	#Use the 'BiomeMobWeight.csv' file to balance Biome spawn values
 	balanceBiomeSpawnValues = true
 	#Fix min, max values and add nether creatures
@@ -25,10 +25,10 @@
 ["Spawn Weight Values"]
 	#minimum Spawn Weight
 	#Range: 1 ~ 1000
-	minSpawnWeight = 10
+	minSpawnWeight = 1
 	#maximum Spawn Weight
 	#Range: 1 ~ 1000
-	maxSpawnWeight = 80
+	maxSpawnWeight = 100
 	#list of Mod:MobName,DefaultSpawnweight;
-	defaultSpawnWeightList = "minecraft:enderman,5;minecraft:witch,5;"
+	defaultSpawnWeightList = "minecraft:husk,0;minecraft:stray,0;minecraft:panda,0;minecraft:camel,0;minecraft:llama,0;minecraft:trader_llama,0;minecraft:fox,0;minecraft:cat,0;minecraft:tadpole,0;minecraft:frog,0;minecraft:sniffer,0;minecraft:strider,0;quark:forgotten,0;quark:shiba,0;quark:toretoise,0;supplementaries:red_merchant,0;sleep_tight:bedbug,0;"
 

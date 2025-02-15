@@ -1,0 +1,2 @@
+execute if score @p dia_valid_rec matches 2 run advancement grant @p[distance=1..6,limit=1,sort=nearest] only niknok:minecraft/diamonds_to_you
+advancement revoke @p only niknok:technical/diamonds_to_you_ad2

@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/on_topic",
+	"display": {
+		"icon": {
+			"item": "minecraft:blast_furnace"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.bricks_required.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.bricks_required.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"bricks_required": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:blast_furnace"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"bricks_required"
+		]
+	]
+}

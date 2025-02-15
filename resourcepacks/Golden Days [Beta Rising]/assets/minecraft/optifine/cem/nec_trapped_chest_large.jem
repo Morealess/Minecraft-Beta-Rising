@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [48, 48],
+	"models": [
+		{
+			"part": "lid_left",
+			"id": "lid_left",
+			"invertAxis": "xy",
+			"translate": [-8, -14, 7]
+		},
+		{
+			"part": "base_left",
+			"id": "base_left",
+			"invertAxis": "xy",
+			"translate": [-8, -10, 8],
+			"boxes": [
+				{
+					"coordinates": [-8, -6, -8, 16, 16, 16],
+					"uvNorth": [32, 48, 16, 32],
+					"uvEast": [32, 16, 16, 0],
+					"uvSouth": [16, 32, 0, 16],
+					"uvWest": [16, 32, 0, 16],
+					"uvUp": [0, 0, 16, 16],
+					"uvDown": [16, 16, 0, 0]
+				}
+			]
+		},
+		{
+			"part": "knob_left",
+			"id": "knob_left",
+			"invertAxis": "xy",
+			"translate": [-8, -10, 23]
+		},
+		{
+			"part": "lid_right",
+			"id": "lid_right",
+			"invertAxis": "xy",
+			"translate": [8, -14, 7]
+		},
+		{
+			"part": "base_right",
+			"id": "base_right",
+			"invertAxis": "xy",
+			"translate": [8, -10, 8],
+			"boxes": [
+				{
+					"coordinates": [-24, -6, -8, 16, 16, 16],
+					"uvNorth": [16, 48, 0, 32],
+					"uvEast": [16, 32, 0, 16],
+					"uvSouth": [32, 32, 16, 16],
+					"uvWest": [32, 16, 16, 0],
+					"uvUp": [0, 0, 16, 16],
+					"uvDown": [16, 16, 0, 0]
+				}
+			]
+		},
+		{
+			"part": "knob_right",
+			"id": "knob_right",
+			"invertAxis": "xy",
+			"translate": [8, -10, 23]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "chainmail",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "minecraft:chainmail_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "minecraft:chainmail_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "minecraft:chainmail_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "minecraft:chainmail_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:jump_boost",
+      "value": 1.0
+    }
+  ],
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "tooltip.translation.spacecatasb.chainmail"
+  ]
+}

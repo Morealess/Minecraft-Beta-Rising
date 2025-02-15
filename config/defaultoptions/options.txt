@@ -24,25 +24,25 @@ hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
-fovEffectScale:1.0
+fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.5
-glintStrength:0.75
+glintStrength:1.0
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.0
-renderDistance:16
-simulationDistance:12
-entityDistanceScaling:1.0
+renderDistance:8
+simulationDistance:8
+entityDistanceScaling:2.0
 guiScale:0
 particles:0
-maxFps:260
+maxFps:120
 graphicsMode:1
 ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","programmer_art","file/golden-days-base-1.20.x-1.10.0.zip","file/golden-days-adjustments-1.20.1.zip","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","fabric"]
+resourcePacks:["vanilla","mod_resources","fabric","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","iguanatweaksexpanded:assets_override","Beta Rising Resources","Default Skin Pack","Illagers to Sheeple","Jappa-Styled Pigmen","file/Programmer Art [Beta Rising]","file/Golden Days [Beta Rising]","file/[Texture Packs]/golden-days-adjustments-1.20.1","file/[Addon Packs]/golden-days-adjustments-1.20.1.zip","file/[Texture Packs]/Player Reborn","file/[Texture Packs]/Dark Armor Icons (G.D.)"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -70,7 +70,7 @@ attackIndicator:1
 narrator:0
 tutorialStep:none
 mouseWheelSensitivity:1.0
-rawMouseInput:true
+rawMouseInput:false
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false

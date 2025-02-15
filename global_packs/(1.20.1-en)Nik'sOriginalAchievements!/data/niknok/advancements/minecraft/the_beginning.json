@@ -1,0 +1,45 @@
+{
+	"parent": "niknok:minecraft/the_end_dragon",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:wither_skeleton_skull"
+		},
+		"title":
+		{
+			"translate": "The Beginning?"
+		},
+		"description":
+		{
+			"translate": "§7Spawn the Wither."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"thebeginning":
+		{
+			"trigger": "minecraft:summoned_entity",
+
+			"conditions":
+			{
+				"entity":
+				{
+					"type": "wither"
+				}
+			}
+		}
+	},
+	"requirements":
+	[
+		["thebeginning"]
+	],
+	"rewards":
+	{
+		"function": "niknok:advancements/the_beginning_fn1"
+	}
+}

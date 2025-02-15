@@ -1,0 +1,30 @@
+{
+	"parent": "niknok:beta_rising/give_me_your_dress",
+	"display": {
+		"icon": {
+			"item": "minecraft:red_bed"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.sweet_dreams.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.sweet_dreams.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"slept_in_bed": {
+			"trigger": "minecraft:slept_in_bed",
+			"conditions": {}
+		}
+	},
+	"requirements": [
+		[
+			"slept_in_bed"
+		]
+	],
+	"sends_telemetry_event": true
+}

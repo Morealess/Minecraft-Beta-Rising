@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 3,
+  "category": "forge_misc",
+  "experience": 20.0,
+  "gear": {
+    "item": "minecraft:diamond_axe"
+  },
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:solarium_axe",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 15
+}

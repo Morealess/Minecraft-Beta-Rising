@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_desert",
+    "moderner_beta:pe_desert",
+    "moderner_beta:beta_plains",
+    "moderner_beta:pe_plains",
+    "moderner_beta:late_beta_plains",
+    "moderner_beta:beta_seasonal_forest",
+    "moderner_beta:pe_seasonal_forest",
+    "moderner_beta:beta_rainforest",
+    "moderner_beta:pe_rainforest",
+
+    "moderner_beta:beta_savanna",
+    "moderner_beta:pe_savanna"
+  ]
+}

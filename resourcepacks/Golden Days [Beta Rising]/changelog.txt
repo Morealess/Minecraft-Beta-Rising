@@ -1,0 +1,14 @@
+-Custom Golden Days/Beta styled conversion/parity assets/fixes for mods
+
+SUPER IMPORTANT NOTE: Also... 
+
+-Removed ProgrammerArt/NostalgicTweaks flashy/unnecessary connotations in the menus (@ en_us.json: "resourcePack.title" & "options.title")
+-Fixed mobs playing the OOF sound (restricted to the player only)
+-Replaced "icons.png" (identical as before, but changes food icons to hearts to ensure food tooltips represents correct healing!)
+-Updated end_portal_frame_filled.json block model in order to match End Remastered's filled eye size. 8x8 instead of 6x6.
+-Deleted 4 original bucket textures, as Programmer Art fixes them
+-Added oak hanging sign textures
+-Added overrides for all slim skins to use Alex's original texture
+-Added overrides for all wide skins to use Steve's original texture
+
+(these are the ONLY edits to any original files - anything else is strictly additions)

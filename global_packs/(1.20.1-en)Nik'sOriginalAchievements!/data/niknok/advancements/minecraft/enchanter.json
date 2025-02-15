@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:minecraft/diamonds",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:enchanting_table"
+		},
+		"title":
+		{
+			"translate": "Enchanter"
+		},
+		"description":
+		{
+			"translate": "§7Use a book, obsidian, and diamonds to construct an enchantment table."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"enchanter":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:enchanting_table"
+			}
+		}
+	},
+	"requirements":
+	[
+		["enchanter"]
+	]
+}

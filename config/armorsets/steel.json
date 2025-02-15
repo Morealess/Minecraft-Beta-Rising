@@ -1,0 +1,32 @@
+{
+  "armorSetName": "steel",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iguanatweaksexpanded:durium_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iguanatweaksexpanded:durium_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iguanatweaksexpanded:durium_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iguanatweaksexpanded:durium_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0,
+      "onlyImmuneToNewEffects": true
+    }
+  ],
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "tooltip.translation.spacecatasb.steel"
+  ]
+}

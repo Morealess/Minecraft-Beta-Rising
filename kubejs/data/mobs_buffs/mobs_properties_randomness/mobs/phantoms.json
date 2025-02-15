@@ -1,0 +1,11 @@
+{
+    "target": "minecraft:phantom",
+    "attributes": [
+        {
+            "id": "minecraft:generic.follow_range",
+            "modifier_name": "More Sight for Phantoms",
+            "amount": 2,
+            "operation": "multiply_base"
+        }
+    ]
+}

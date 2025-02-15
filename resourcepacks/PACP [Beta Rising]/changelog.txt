@@ -1,0 +1,24 @@
+Programmer Art Continuation Project - Base Pack r2.0.4
+
+- Added missing nether brick variants.
+- Added missing pink petals item.
+- Added PA leather horse armor from Pocket Edition.
+- Improved lectern texture, looking closer to PACP's other crafting tables.
+- Lightly tweaked blackstone to give it similar shading to cobblestone. (heavily smoothened.)
+- Fixed netherite armor leftover transparency layer.
+- Fixed sign inaccuracies. (low contrast front corrected!)
+- Fixed hanging sign to use the new stripped log textures, instead of the old ones.
+- Fixed pillager skin color.
+- Fixed 5 pixel inconsistency on netherite sword. (literally unplayable!)
+
+Beta Rising Changelog:
+
+- Custom ProgrammerArt/PACP conversion/parity assets/fixes for mods.
+- Removed assets for mods not included in Beta Rising.
+- Added the default ancient debris block model. (to use PACP's textures... even tho ancient debris is disabled... why not?)
+- Fixed the copper and netherite ingot textures to match Programmer Art ingots.
+- Fixed zombie pigman texture to match Programmer Art.
+- Changed the cherry sapling texture to match birch wood logs.
+- Changed oak hanging signs textures for Beta Rising. (stripped logs base/face > logs/planks.)
+- Changed phantom texture to use it's black texture for Beta Rising.
+- Changed copper ore textures to match Programmer Art.

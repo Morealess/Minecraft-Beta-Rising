@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 4,
+  "category": "forge_misc",
+  "experience": 36.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:quaron_shield"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:keego"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:keego_shield",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 16
+}

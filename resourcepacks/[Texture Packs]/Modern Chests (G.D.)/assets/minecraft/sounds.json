@@ -1,0 +1,40 @@
+{
+  "block.chest.close": {
+    "replace": "true",
+    "sounds": [
+      "block/chest/close1",
+      "block/chest/close2",
+      "block/chest/close3"
+    ],
+    "subtitle": "subtitles.block.chest.close"
+  },
+  "block.chest.locked": {
+    "replace": "true",
+    "sounds": [
+      "block/chest/close_locked",
+      "block/chest/open_locked"
+    ],
+    "subtitle": "subtitles.block.chest.locked"
+  },
+  "block.chest.open": {
+    "replace": "true",
+    "sounds": [
+      "block/chest/open"
+    ],
+    "subtitle": "subtitles.block.chest.open"
+  },
+  "block.ender_chest.close": {
+    "replace": "true",
+    "sounds": [
+      "block/enderchest/close"
+    ],
+    "subtitle": "subtitles.block.chest.close"
+  },
+  "block.ender_chest.open": {
+    "replace": "true",
+    "sounds": [
+      "block/enderchest/open"
+    ],
+    "subtitle": "subtitles.block.chest.open"
+  }
+}

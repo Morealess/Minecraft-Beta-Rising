@@ -1,0 +1,12 @@
+{
+    "values": [
+        "#forge:glass",
+        "#forge:glass_panes",
+        "#quark:framed_glasses",
+        "#quark:framed_glass_panes",
+        "quark:dirty_glass",
+        "quark:dirty_glass_pane",
+        "aether:quicksoil_glass",
+        "aether:quicksoil_glass_pane"
+    ]
+}

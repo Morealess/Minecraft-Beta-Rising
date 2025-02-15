@@ -1,0 +1,9 @@
+-Includes Aether built-in Classic Pack
+-Includes Lost Aether Content built-in Classic Pack
+-Includes Quark built-in Programmer Art
+-BetterThanWolves Rich Farmland textures >:D
+-BetterThanAdventure for numerous textures and inspiration!
+-Reminiscence modpack for the incredible Supplementaries textures!
+-Also included is Reminiscence Fixes by DaBruhMoments for specific Supplementaries/Minecraft textures/fixes. (Excluded: minecraft/sign-related-stuff, & all else for other mods)
+
+(THIS IS THE ORIGINAL AND UNEDITED "Programmer Art 1.20.1" by Mojang - just has added few specialized changes; compiled into 1 location as 1 pack for ease of access and simplification of distribution for use in the Beta Rising modpack! Enjoy. :D

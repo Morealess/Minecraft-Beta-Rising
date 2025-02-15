@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "amount": 2,
+  "gear": {
+    "item": "minecraft:golden_hoe"
+  },
+  "result": "minecraft:netherite_hoe",
+  "smashes_required": 20,
+  "experience": 20
+}

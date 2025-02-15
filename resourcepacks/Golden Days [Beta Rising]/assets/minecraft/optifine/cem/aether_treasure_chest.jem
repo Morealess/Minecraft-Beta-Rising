@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "aether_treasure_chest.png",
+	"models": [
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [0, -15, -1],
+			"scale": 1
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, -15, -1],
+			"scale": 1
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"scale": 1,
+			"boxes": [
+				{"coordinates": [-16, 8, 0, 16, 16, 16], "textureOffset": [0, 32]}
+			]
+		}
+	]
+}

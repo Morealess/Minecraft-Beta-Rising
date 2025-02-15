@@ -1,0 +1,16 @@
+{
+      "resourcePack.vanilla.name": "§a§k|| §ePlease use a 'P.A. Fix' pack! §a§k||",
+      "resourcePack.vanilla.description": "§dPut Golden Days or PACP above Programmer Art.",
+	"entity.minecraft.cod": "Fish",
+	"item.minecraft.cod": "Raw Fish",
+      "item.minecraft.cod_bucket": "Bucket of Fish",
+      "item.minecraft.cod_spawn_egg": "Fish Spawn Egg",
+	"item.minecraft.cooked_cod": "Cooked Fish",
+      "block.minecraft.infested_chiseled_stone_bricks": "Chiseled Stone Bricks Monster Egg",
+      "block.minecraft.infested_cobblestone": "Cobblestone Monster Egg",
+      "block.minecraft.infested_cracked_stone_bricks": "Cracked Stone Bricks Monster Egg",
+      "block.minecraft.infested_deepslate": "Deepslate Monster Egg",
+      "block.minecraft.infested_mossy_stone_bricks": "Mossy Stone Bricks Monster Egg",
+      "block.minecraft.infested_stone": "Stone Monster Egg",
+      "block.minecraft.infested_stone_bricks": "Stone Bricks Monster Egg"
+}

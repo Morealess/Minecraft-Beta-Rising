@@ -1,0 +1,23 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_redstone_blocks",
+  "replace": true,
+  "tab_stack": { "name": "aether:altar"},
+  "tab_items": [
+    {
+      "name": "aether:altar"
+    },
+    {
+      "name": "aether:freezer"
+    },
+    {
+      "name": "aether:incubator"
+    },
+    {
+      "name": "aether:treasure_chest"
+    },
+    {
+      "name": "aether:enchanted_gravitite"
+    }
+  ]
+}

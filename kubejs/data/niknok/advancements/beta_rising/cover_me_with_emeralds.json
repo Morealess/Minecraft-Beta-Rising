@@ -1,0 +1,77 @@
+{
+  "parent": "niknok:beta_rising/diamonds_2",
+  "display": {
+      "icon": {
+          "item": "iguanatweaksexpanded:solarium_chestplate",
+          "nbt": "{Damage:0}"
+      },
+      "title": {
+          "translate": "advancements.niknok.beta_rising.cover_me_with_emeralds.title"
+      },
+      "description": {
+          "translate": "advancements.niknok.beta_rising.cover_me_with_emeralds.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+  },
+  "criteria": {
+      "emerald_boots": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+              "items": [
+                  {
+                      "items": [
+                          "iguanatweaksexpanded:solarium_boots"
+                      ]
+                  }
+              ]
+          }
+      },
+      "emerald_chestplate": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+              "items": [
+                  {
+                      "items": [
+                          "iguanatweaksexpanded:solarium_chestplate"
+                      ]
+                  }
+              ]
+          }
+      },
+      "emerald_helmet": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+              "items": [
+                  {
+                      "items": [
+                          "iguanatweaksexpanded:solarium_helmet"
+                      ]
+                  }
+              ]
+          }
+      },
+      "emerald_leggings": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+              "items": [
+                  {
+                      "items": [
+                          "iguanatweaksexpanded:solarium_leggings"
+                      ]
+                  }
+              ]
+          }
+      }
+  },
+  "requirements": [
+      [
+          "emerald_helmet",
+          "emerald_chestplate",
+          "emerald_leggings",
+          "emerald_boots"
+      ]
+  ]
+}

@@ -1,0 +1,240 @@
+{
+	"parent": "niknok:beta_rising/cultivation",
+	"criteria": {
+		"red": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:red_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"yellow": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:yellow_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"orange": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:orange_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+	   "blue": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:blue_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"light_blue": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:light_blue_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"cyan": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:cyan_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"green": {
+		  "conditions": {
+			"items": [
+			  {
+				"items": [
+				  "wood_you_dye:green_planks"
+				]
+			  }
+			]
+		  },
+		  "trigger": "minecraft:inventory_changed"
+		},
+		"lime": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:lime_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "purple": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:purple_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "pink": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:pink_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "brown": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:brown_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "magenta": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:magenta_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "white": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:white_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "gray": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:gray_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "light_gray": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:light_gray_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  },
+		  "black": {
+			"conditions": {
+			  "items": [
+				{
+				  "items": [
+					"wood_you_dye:black_planks"
+				  ]
+				}
+			  ]
+			},
+			"trigger": "minecraft:inventory_changed"
+		  }
+	},
+	"display": {
+	  "announce_to_chat": true,
+	  "description": {
+		"translate": "advancements.niknok.beta_rising.wood_you_look_at_that.description"
+	  },
+	  "frame": "challenge",
+	  "hidden": false,
+	  "icon": {
+		"item": "wood_you_dye:blue_planks"
+	  },
+	  "show_toast": true,
+	  "title": {
+		"translate": "advancements.niknok.beta_rising.wood_you_look_at_that.title"
+	  }
+	},
+	"rewards": {
+	  "experience": 35
+	},
+	"requirements": [
+		[ "red" ],
+		[ "yellow" ],
+		[ "orange" ],
+		[ "blue" ],
+		[ "light_blue" ],
+		[ "cyan" ],
+		[ "green" ],
+		[ "lime" ],
+		[ "purple" ],
+		[ "pink" ],
+		[ "brown" ],		
+		[ "magenta" ],
+		[ "white" ],
+		[ "gray" ],
+		[ "light_gray" ],
+		[ "black" ]
+	  ],
+	  "conditions": [
+		{
+		  "type": "quark:advancement_flag",
+		  "flag": "wood_you_dye"
+		}
+	  ]
+	
+	}

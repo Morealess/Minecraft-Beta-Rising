@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:forest",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "moderner_beta:beta_forest",
+    "moderner_beta:beta_plains",
+    "moderner_beta:beta_shrubland"
+  ]
+}

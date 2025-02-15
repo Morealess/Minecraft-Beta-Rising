@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "amount": 3,
+  "gear": {
+    "item": "minecraft:stone_axe"
+  },
+  "result": "minecraft:iron_axe",
+  "smashes_required": 10,
+  "experience": 8
+}

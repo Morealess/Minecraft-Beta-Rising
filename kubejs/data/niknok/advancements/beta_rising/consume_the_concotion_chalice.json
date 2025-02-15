@@ -1,0 +1,34 @@
+{
+  "parent": "niknok:beta_rising/the_nether",
+  "display": {
+    "icon": {
+      "item": "supplementaries:goblet"
+    },
+    "title": {
+      "translate": "advancements.niknok.beta_rising.consume_the_concotion_chalice.title"
+    },
+    "description": {
+      "translate": "advancements.niknok.beta_rising.consume_the_concotion_chalice.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "goblet"
+    }
+  ]
+}

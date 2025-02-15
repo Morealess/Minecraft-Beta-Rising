@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 4,
+  "category": "forge_misc",
+  "experience": 23.0,
+  "gear": {
+    "item": "shieldsplus:diamond_shield"
+  },
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:solarium_shield",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 16
+}

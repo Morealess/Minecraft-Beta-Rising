@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "nec:oak_chest",
+    "nec:spruce_chest",
+    "nec:birch_chest",
+    "nec:jungle_chest",
+    "nec:acacia_chest",
+    "nec:cherry_chest",
+    "nec:dark_oak_chest",
+    "nec:mangrove_chest",
+    "nec:bamboo_chest",
+    "nec:crimson_chest",
+    "nec:warped_chest",
+    "nec:red_chest",
+    "nec:orange_chest",
+    "nec:yellow_chest",
+    "nec:lime_chest",
+    "nec:green_chest",
+    "nec:blue_chest",
+    "nec:cyan_chest",
+    "nec:light_blue_chest",
+    "nec:purple_chest",
+    "nec:pink_chest",
+    "nec:magenta_chest",
+    "nec:brown_chest",
+    "nec:white_chest",
+    "nec:light_gray_chest",
+    "nec:gray_chest",
+    "nec:black_chest"
+  ]
+}

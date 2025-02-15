@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#moderner_beta:is_desert",
+    "#moderner_beta:is_savanna",
+    "#moderner_beta:is_shrubland",
+    "#moderner_beta:is_tundra"
+  ]
+}

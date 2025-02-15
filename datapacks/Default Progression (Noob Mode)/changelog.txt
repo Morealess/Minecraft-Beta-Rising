@@ -1,0 +1,2 @@
+-Default Furnace recipe & removes smelting Copper in Campfires
+-Default Bed recipes

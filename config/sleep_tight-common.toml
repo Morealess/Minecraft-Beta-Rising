@@ -65,13 +65,13 @@
 [sleep_benefits]
 	#Which type of beds will apply benefits on wake up
 	#Allowed Values: NONE, ALWAYS, HOME_BED
-	active_for = "HOME_BED"
+	active_for = "ALWAYS"
 	#Healing applied on wake up
 	#Allowed Values: NONE, TIME_BASED, MAX
-	healing = "MAX"
+	healing = "TIME_BASED"
 	#
 	#Allowed Values: NONE, TIME_BASED, MAX
-	effect_clearing = "MAX"
+	effect_clearing = "TIME_BASED"
 	#
 	#Allowed Values: ALL, BENEFICIAL, HARMFUL
 	effect_clearing_types = "ALL"
@@ -92,7 +92,7 @@
 	consumed_hunger_mode = "TIME_DIFFICULTY_BASED"
 	#Base hunger decrement value. Depends on other config. Set to 0 to disable
 	#Range: 0.0 ~ 20.0
-	base_value = 5.0
+	base_value = 0.0
 
 [sleep_requirements]
 	apply_to_beds = true
@@ -110,10 +110,10 @@
 	required_nights = 8
 	#Percentage of xp added per tier of the effect. Setting to 1 doubles the effect
 	#Range: 0.0 ~ 1.0
-	invigorated_effect_xp = 0.1
+	invigorated_effect_xp = 1.0
 	#Home bed level cap. Each night slept increases this number
 	#Range: 0 ~ 1000
-	max_level_cap = 8
+	max_level_cap = 1
 	#Makes respawning only possible when using your own Home Bed. Fight back the night!
 	only_respawn_in_home_bed = false
 
@@ -123,7 +123,7 @@
 	apply_to_night_bags = false
 	#Amount of consecutive nights slept after which nightmares could start to happen
 	#Range: 0 ~ 100
-	appear_after_consecutive_nights = 0
+	appear_after_consecutive_nights = 3
 	#Range: 0.0 ~ 1.0
 	nightmare_increment_per_night = 0.16
 	#Multiplier applied to time slept after a nightmare
@@ -141,11 +141,11 @@
 	#Range: 0 ~ 20
 	max_count = 1
 	#Range: 1 ~ 32
-	spawn_radius = 5
+	spawn_radius = 3
 	#Range: 0 ~ 32
 	min_radius = 0
 	#Range: 1 ~ 10
-	height = 3
+	height = 5
 	#Mobs that can randomly wake up the player if sleeping in a dark place. Leave empty to use default spawning behavior. Add a weighted list in the following format (replace line bellow):
 	#[[bed.wake_up_encounters.alternative_whitelist]]
 	#			data = "minecraft:vindicator"

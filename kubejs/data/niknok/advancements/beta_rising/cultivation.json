@@ -1,0 +1,28 @@
+{
+	"parent": "niknok:beta_rising/cozy_beginnings",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksreborn:rich_farmland"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.cultivation.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.cultivation.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"cultivation": {
+			"trigger": "iguanatweaksreborn:make_rich_farmland"
+		}
+	},
+	"requirements": [
+		[
+			"cultivation"
+		]
+	]
+}

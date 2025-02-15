@@ -1,0 +1,9 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "#item:iguanatweaksexpanded:equipment/solarium"
+    ],
+    "text": "emi.info.quark.repair_emerald"
+}
+

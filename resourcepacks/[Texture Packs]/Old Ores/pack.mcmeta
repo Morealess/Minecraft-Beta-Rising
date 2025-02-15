@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Reverts all ores to their pre-1.17 textures"
+    }
+}

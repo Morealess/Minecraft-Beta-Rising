@@ -1,0 +1,11 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "item:minecraft:detector_rail",
+      "item:minecraft:powered_rail",
+      "item:minecraft:magenta_glazed_terracotta"
+    ],
+    "text": "emi.info.forgery.rail_directional"
+}
+

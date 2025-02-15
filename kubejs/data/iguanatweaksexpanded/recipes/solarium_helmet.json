@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 5,
+  "category": "forge_misc",
+  "experience": 26.0,
+  "gear": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:solarium_helmet",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 11
+}

@@ -1,0 +1,64 @@
+# Put your rules here in the format:
+# old_biome > new_biome
+# 
+# Examples (remove # in front of one to activate it):
+# minecraft:dark_forest > minecraft:cherry_grove
+# terralith:lavender_forest > aurorasdeco:lavender_plains
+# terralith:lavender_valley > aurorasdeco:lavender_plains
+# terralith:cave/infested_caves > minecraft:dripstone_caves
+
+#minecraft:badlands > moderner_beta:beta_shrubland
+minecraft:bamboo_jungle > moderner_beta:beta_rainforest
+minecraft:beach > moderner_beta:beta_forest
+#minecraft:birch_forest > moderner_beta:beta_forest
+#minecraft:cherry_grove > moderner_beta:beta_forest
+#minecraft:dark_forest > moderner_beta:beta_forest
+#minecraft:deep_dark > modern_beta:beta_forest
+minecraft:desert > moderner_beta:beta_desert
+#minecraft:dripstone_caves > modern_beta:beta_forest
+#minecraft:eroded_badlands > moderner_beta:beta_shrubland
+minecraft:flower_forest > moderner_beta:beta_seasonal_forest
+minecraft:forest > moderner_beta:beta_forest
+minecraft:frozen_peaks > moderner_beta:beta_taiga
+minecraft:grove > moderner_beta:beta_forest
+minecraft:ice_spikes > moderner_beta:beta_tundra
+minecraft:jagged_peaks > moderner_beta:beta_shrubland
+minecraft:jungle > moderner_beta:beta_rainforest
+#minecraft:lush_caves > modern_beta:beta_rainforest
+minecraft:mangrove_swamp > moderner_beta:beta_swampland
+minecraft:meadow > moderner_beta:beta_plains
+#minecraft:mushroom_fields > moderner_beta:beta_forest
+#minecraft:old_growth_birch_forest > moderner_beta:beta_forest
+#minecraft:old_growth_pine_taiga > moderner_beta:beta_forest
+#minecraft:old_growth_spruce_taiga > moderner_beta:beta_forest
+minecraft:plains > moderner_beta:beta_plains
+minecraft:savanna_plateau > moderner_beta:beta_savanna
+minecraft:savanna > moderner_beta:beta_savanna
+minecraft:snowy_beach > moderner_beta:beta_tundra
+minecraft:snowy_plains > moderner_beta:beta_taiga
+minecraft:snowy_slopes > moderner_beta:beta_taiga
+minecraft:snowy_taiga > moderner_beta:beta_taiga
+minecraft:sparse_jungle > moderner_beta:beta_rainforest
+minecraft:stony_peaks > moderner_beta:beta_forest
+#minecraft:stony_shore > moderner_beta:beta_forest
+minecraft:sunflower_plains > moderner_beta:beta_seasonal_forest
+#minecraft:swamp > moderner_beta:beta_swampland
+minecraft:taiga > moderner_beta:beta_taiga
+minecraft:windswept_forest > moderner_beta:beta_savanna
+#minecraft:windswept_gravelly_hills > moderner_beta:beta_savanna
+#minecraft:windswept_hills > moderner_beta:beta_savanna
+#minecraft:windswept_savanna > moderner_beta:beta_savanna
+#minecraft:wooded_badlands > moderner_beta:beta_shrubland
+hybrid_beta:autumnal_forest > moderner_beta:beta_seasonal_forest
+hybrid_beta:rainforest > moderner_beta:beta_rainforest
+hybrid_beta:seasonal_forest > moderner_beta:beta_seasonal_forest
+hybrid_beta:temperate_rainforest > moderner_beta:beta_rainforest
+minecraft:ocean > moderner_beta:beta_ocean
+minecraft:cold_ocean > moderner_beta:beta_cold_ocean
+minecraft:frozen_ocean > moderner_beta:beta_frozen_ocean
+minecraft:lukewarm_ocean > moderner_beta:beta_lukewarm_ocean
+minecraft:warm_ocean > moderner_beta:beta_warm_ocean
+#minecraft:deep_ocean > minecraft:deep_ocean
+#minecraft:deep_cold_ocean > minecraft:deep_cold_ocean
+#minecraft:deep_frozen_ocean > minecraft:deep_cold_ocean
+#minecraft:deep_lukewarm_ocean > minecraft:deep_ocean

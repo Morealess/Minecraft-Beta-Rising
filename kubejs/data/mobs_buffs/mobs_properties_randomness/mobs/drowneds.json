@@ -1,0 +1,24 @@
+{
+    "target": "minecraft:drowned",
+    "priority": 1,
+    "equipment": {
+        "main_hand": {
+            "replace_only": true,
+            "items": [
+                {
+                    "id": "minecraft:trident",
+                    "drop_chance": 0.0
+                }
+            ]
+        },
+        "off_hand": {
+            "replace_only": true,
+            "items": [
+                {
+                    "id": "minecraft:trident",
+                    "drop_chance": 0.0
+                }
+            ]
+        }
+    }
+}

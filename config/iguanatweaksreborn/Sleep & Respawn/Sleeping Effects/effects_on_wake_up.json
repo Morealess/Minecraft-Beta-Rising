@@ -1,20 +1,19 @@
 [
   {
-    "id": "minecraft:regeneration",
-    "duration": 200
+    "id": "minecraft:weakness",
+    "duration": 900
   },
   {
     "id": "minecraft:slowness",
-    "duration": 400
-  },
-  {
-    "id": "minecraft:weakness",
-    "duration": 300,
-    "amplifier": 1
+    "duration": 500
   },
   {
     "id": "minecraft:mining_fatigue",
     "duration": 300,
     "amplifier": 1
+  },
+  {
+    "id": "minecraft:regeneration",
+    "duration": 200
   }
 ]

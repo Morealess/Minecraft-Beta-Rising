@@ -1,0 +1,40 @@
+{
+	"parent": "niknok:beta_rising/cultivation",
+	"display": {
+		"icon": {
+			"item": "minecraft:chainmail_chestplate"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.forged_from_fire.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.forged_from_fire.description"
+		},
+		"frame": "goal",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": true
+	},
+	"criteria": {
+		"forged_from_fire": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:chainmail_helmet",
+							"minecraft:chainmail_chestplate",
+							"minecraft:chainmail_leggings",
+							"minecraft:chainmail_boots"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"forged_from_fire"
+		]
+	]
+}

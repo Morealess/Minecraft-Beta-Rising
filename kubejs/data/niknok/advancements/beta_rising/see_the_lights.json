@@ -1,0 +1,35 @@
+{
+  "parent": "niknok:beta_rising/the_end_2",
+  "criteria": {
+    "redirect_beacon": {
+      "trigger": "quark:redirect_beacon"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.niknok.beta_rising.see_the_lights.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:beacon"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.niknok.beta_rising.see_the_lights.title"
+    }
+  },
+  "requirements": [
+    [
+      "redirect_beacon"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "quark:advancement_flag",
+      "flag": "beacon_redirection"
+    }
+  ]
+
+}

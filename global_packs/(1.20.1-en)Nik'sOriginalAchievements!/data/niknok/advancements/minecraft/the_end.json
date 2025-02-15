@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:minecraft/into_fire",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:ender_eye"
+		},
+		"title":
+		{
+			"translate": "The End?"
+		},
+		"description":
+		{
+			"translate": "§7Locate the End."
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"theend":
+		{
+			"trigger": "minecraft:changed_dimension",
+			"conditions":
+			{
+				"to": "minecraft:the_end"
+			}
+		}
+	},
+	"requirements":
+	[
+		["theend"]
+	]
+}

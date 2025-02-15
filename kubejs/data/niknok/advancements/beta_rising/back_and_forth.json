@@ -1,0 +1,39 @@
+{
+	"parent": "niknok:beta_rising/the_nether",
+	"display": {
+		"icon": {
+			"item": "minecraft:potion",
+			"nbt": "{Potion:\"iguanatweaksexpanded:recall\"}"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.back_and_forth.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.back_and_forth.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"recall_potion": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:potion"
+						],
+						"nbt": "{Potion:\"iguanatweaksexpanded:recall\"}"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"recall_potion"
+		]
+	]
+}

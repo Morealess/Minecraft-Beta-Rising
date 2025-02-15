@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_taiga",
+    "moderner_beta:pe_taiga",
+    "moderner_beta:late_beta_taiga",
+    "moderner_beta:early_release_taiga",
+    "moderner_beta:beta_tundra",
+    "moderner_beta:pe_tundra",
+    "moderner_beta:beta_ice_desert",
+    "moderner_beta:pe_ice_desert",
+    "moderner_beta:early_release_ice_plains",
+    "moderner_beta:beta_cold_ocean",
+    "moderner_beta:beta_frozen_ocean",
+    "moderner_beta:pe_cold_ocean",
+    "moderner_beta:pe_frozen_ocean"
+  ]
+}

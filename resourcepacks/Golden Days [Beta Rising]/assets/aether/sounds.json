@@ -1,0 +1,160 @@
+{
+  "item.accessory.equip_cape": {
+    "sounds": [
+      "item/armor/equip_leather1",
+      "item/armor/equip_leather2",
+      "item/armor/equip_leather3",
+      "item/armor/equip_leather4",
+      "item/armor/equip_leather5",
+      "item/armor/equip_leather6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_cape"
+  },
+  "item.accessory.equip_generic": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_generic"
+  },
+  "item.accessory.equip_gold_pendant": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_gold_pendant"
+  },
+  "item.accessory.equip_gold_ring": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_gold_ring"
+  },
+  "item.accessory.equip_ice_pendant": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_ice_pendant"
+  },
+  "item.accessory.equip_ice_ring": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_ice_ring"
+  },
+  "item.accessory.equip_iron_pendant": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_iron_pendant"
+  },
+  "item.accessory.equip_iron_ring": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_iron_ring"
+  },
+  "item.accessory.equip_zanite_pendant": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_zanite_pendant"
+  },
+  "item.accessory.equip_zanite_ring": {
+    "sounds": [
+      "item/armor/equip_chain1",
+      "item/armor/equip_chain2",
+      "item/armor/equip_chain3",
+      "item/armor/equip_chain4",
+      "item/armor/equip_chain5",
+      "item/armor/equip_chain6"
+    ],
+    "subtitle": "subtitles.aether.item.accessory.equip_zanite_ring"
+  },
+  "item.ambrosium_shard.use": {
+    "sounds": [
+      "block/amethyst/shimmer"
+    ],
+    "subtitle": "subtitles.aether.item.ambrosium_shard.use"
+  },
+  "item.armor.equip_gravitite": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_neptune": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_obsidian": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_phoenix": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_sentry": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_valkyrie": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  },
+  "item.armor.equip_zanite": {
+    "replace": "true",
+    "sounds": [
+      { "name": "common.silent", "type": "event" }
+    ]
+  }
+}

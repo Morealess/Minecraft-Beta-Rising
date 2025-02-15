@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_taiga",
+    "moderner_beta:pe_taiga",
+    "moderner_beta:early_release_taiga"
+  ]
+}

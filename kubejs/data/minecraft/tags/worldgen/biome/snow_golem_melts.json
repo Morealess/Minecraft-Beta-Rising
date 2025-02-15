@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_desert",
+    "moderner_beta:pe_desert",
+    "moderner_beta:beta_savanna",
+    "moderner_beta:pe_savanna"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"parent": "niknok:minecraft/acquire_hardware",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:rail"
+		},
+		"title":
+		{
+			"translate": "On a Rail"
+		},
+		"description":
+		{
+			"translate": "§7Travel by minecart at least 1 km from where you started."
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"onarail":
+		{
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements":
+	[
+		["onarail"]
+	]
+}

@@ -1,0 +1,31 @@
+{
+  "armorSetName": "steel",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iguanatweaksexpanded:quaron_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iguanatweaksexpanded:quaron_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iguanatweaksexpanded:quaron_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iguanatweaksexpanded:quaron_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:haste",
+      "value": 0.0
+    }
+  ],
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "tooltip.translation.spacecatasb.quaron"
+  ]
+}

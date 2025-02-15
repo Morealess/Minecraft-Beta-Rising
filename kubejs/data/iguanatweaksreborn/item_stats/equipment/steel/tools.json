@@ -1,0 +1,15 @@
+{
+	"item": "#iguanatweaksexpanded:equipment/hand/durium",
+	"enchantability": 7,
+	"durability": 912,
+	"modifiers": [
+		{
+			"uuid": "302332bb-d19b-4f9f-a423-6e305969126f",
+			"name": "Material modifier percentage",
+			"slot": "mainhand",
+			"attribute": "minecraft:generic.attack_damage",
+			"amount": -1.0,
+			"operation": "addition"
+		}
+	]
+}

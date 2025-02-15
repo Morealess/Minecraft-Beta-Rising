@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/fletch_this",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:torch_arrow"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.miners_best_friend.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.miners_best_friend.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"cavers_best_friend": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:torch_arrow"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"cavers_best_friend"
+		]
+	]
+}

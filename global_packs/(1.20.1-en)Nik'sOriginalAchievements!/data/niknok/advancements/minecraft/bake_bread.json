@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:minecraft/time_to_farm",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:bread"
+		},
+		"title":
+		{
+			"translate": "Bake Bread"
+		},
+		"description":
+		{
+			"translate": "§7Turn wheat into bread."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"bakebread":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:bread"
+			}
+		}
+	},
+	"requirements":
+	[
+		["bakebread"]
+	]
+}

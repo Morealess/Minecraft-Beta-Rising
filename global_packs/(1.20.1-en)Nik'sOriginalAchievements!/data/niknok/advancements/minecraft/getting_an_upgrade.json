@@ -1,0 +1,75 @@
+{
+	"parent": "niknok:minecraft/time_to_minem",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:stone_pickaxe"
+		},
+		"title":
+		{
+			"translate": "Getting an Upgrade"
+		},
+		"description":
+		{
+			"translate": "§7Construct a better pickaxe."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"gettinganupgrade_stone":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:stone_pickaxe"
+			}
+		},
+		"gettinganupgrade_iron":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:iron_pickaxe"
+			}
+		},
+		"gettinganupgrade_gold":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:golden_pickaxe"
+			}
+		},
+		"gettinganupgrade_diamond":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:diamond_pickaxe"
+			}
+		},
+		"gettinganupgrade_netherite":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:netherite_pickaxe"
+			}
+		}
+	},
+	"requirements":
+	[
+		[
+			"gettinganupgrade_stone",
+			"gettinganupgrade_iron",
+			"gettinganupgrade_gold",
+			"gettinganupgrade_diamond",
+			"gettinganupgrade_netherite"
+		]
+	]
+}

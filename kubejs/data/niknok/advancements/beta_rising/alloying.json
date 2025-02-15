@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/getting_another_upgrade",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:durium_ingot"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.alloying.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.alloying.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"alloying": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:durium_ingot"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"alloying"
+		]
+	]
+}

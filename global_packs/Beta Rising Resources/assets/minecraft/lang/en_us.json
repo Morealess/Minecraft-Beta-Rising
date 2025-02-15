@@ -1,0 +1,34 @@
+{
+	"block.minecraft.powered_rail": "Golden Powered Rail",
+    
+    "block.minecraft.ancient_debris": "Netherite Ore",
+    
+    "item.minecraft.netherite_scrap": "Netherite Steel Scrap",
+    "item.minecraft.arrow": "Flint Arrow",
+    "container.grindstone_title": "Repair, Disenchant & Extract",
+    "sleep.skipping_night": "Sleeping through this night",
+    "effect.minecraft.absorption": "Absorption",
+    "attribute.modifier.equals.2": "%s%% %s",
+
+	"morecreativetabs.buildingBlocks": "Building Blocks",
+	"morecreativetabs.coloredBlocks": "Colored Blocks", 
+	"morecreativetabs.natural": "Natural Blocks", 
+	"morecreativetabs.functional": "Functional Blocks",
+	"morecreativetabs.redstone": "Redstone Blocks",
+	"morecreativetabs.tools": "Tools & Utilities",
+	"morecreativetabs.combat": "Combat",
+	"morecreativetabs.foodAndDrink": "Food & Drinks",
+	"morecreativetabs.ingredients": "Ingredients",
+	"morecreativetabs.spawnEggs": "Spawn Eggs",
+	"morecreativetabs.aether_building_blocks": "Aether Building Blocks",
+	"morecreativetabs.aether_dungeon_blocks": "Aether Dungeon Blocks", 
+	"morecreativetabs.aether_natural_blocks": "Aether Natural Blocks", 
+	"morecreativetabs.aether_functional_blocks": "Aether Functional Blocks", 
+	"morecreativetabs.aether_redstone_blocks": "Aether Redstone Blocks", 
+	"morecreativetabs.aether_equipment_and_utilities": "Aether Equipment & Utilities",
+	"morecreativetabs.aether_armor_and_accessories": "Aether Armor & Accessories",
+	"morecreativetabs.aether_food_and_drinks": "Aether Food & Drinks",
+	"morecreativetabs.aether_ingredients": "Aether Ingredients",
+	"morecreativetabs.aether_spawn_eggs": "Aether Spawn Eggs",
+	"morecreativetabs.disabled": "Disabled"
+}

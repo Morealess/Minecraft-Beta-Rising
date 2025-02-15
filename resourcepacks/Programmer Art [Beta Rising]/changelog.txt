@@ -1,0 +1,12 @@
+-Custom Programmer Art styled conversion/parity assets/fixes for mods
+
+SUPER IMPORTANT NOTE: Also... 
+
+-Replaced "enchanting_table.png" & "icons.png" (identical as before, but changes lapis as enchanting orbs & food icons to hearts to ensure food tooltips represents correct healing!)
+-Replaced flint and steel texture as STEEL
+-Reverts "Infested" blocks > "Monster Egg" blocks
+-"Reminiscence Fixes" Inc: Replaces bucket textures, Restores OG fish lang entries, Adds candles block/item textures, replaces some "Reminiscence" original Supplementaries textures with fixed versions.
+-Added overrides for all slim skins to use Alex's original texture
+-Added overrides for all wide skins to use Steve's original texture
+
+(these are the ONLY edits to any original files - anything else is strictly additions)

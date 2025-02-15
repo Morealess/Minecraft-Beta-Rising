@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "category": "forge_misc",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "amount": 8,
+  "gear": {
+    "item": "minecraft:golden_chestplate"
+  },
+  "result": "minecraft:netherite_chestplate",
+  "smashes_required": 20,
+  "experience": 29
+}

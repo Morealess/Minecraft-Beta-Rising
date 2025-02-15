@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "minecraft:nether_bricks"
+    },
+    "F": {
+      "item": "iguanatweaksexpanded:blast_furnace"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "iguanatweaksexpanded:durium_ingot"
+    }
+  },
+  "pattern": [
+    "GNG",
+    "GFG",
+    "BBB"
+  ],
+  "result": {
+    "item": "iguanatweaksexpanded:soul_blast_furnace"
+  },
+  "show_notification": true
+}

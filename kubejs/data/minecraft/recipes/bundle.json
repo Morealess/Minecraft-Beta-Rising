@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+     [
+        {
+            "item": "iguanatweaksexpanded:cloth"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        }
+    ],
+      {
+        "item": "minecraft:string"
+      }
+    ],
+    "result": {
+      "item": "minecraft:bundle"
+    },
+    "show_notification": true
+}

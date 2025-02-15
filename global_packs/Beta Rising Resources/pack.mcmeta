@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "§7The default integration into Minecraft (built-in)            (separated from KubeJS to be able to be overriden/customized)"
+  }
+}

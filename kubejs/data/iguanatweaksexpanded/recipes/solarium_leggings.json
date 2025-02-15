@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 7,
+  "category": "forge_misc",
+  "experience": 32.0,
+  "gear": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:solarium_leggings",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 13
+}

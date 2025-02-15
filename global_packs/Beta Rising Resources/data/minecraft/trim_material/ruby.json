@@ -1,0 +1,9 @@
+{
+  "asset_name": "ruby",
+  "description": {
+    "color": "#EB4150",
+    "translate": "Ruby Material"
+  },
+  "ingredient": "iguanatweaksexpanded:keego",
+  "item_model_index": 1.0
+}

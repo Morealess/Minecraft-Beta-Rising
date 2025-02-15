@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#iguanatweaksexpanded:durium_biomes",
+    "features": "iguanatweaksexpanded:durium_ore",
+    "step": "underground_decoration"
+}

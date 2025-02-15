@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#moderner_beta:is_taiga",
+    "#moderner_beta:is_tundra"
+  ]
+}

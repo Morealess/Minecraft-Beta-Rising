@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/metalworks",
+	"display": {
+		"icon": {
+			"item": "minecraft:iron_pickaxe"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.getting_another_upgrade.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.getting_another_upgrade.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"getting_another_upgrade": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_pickaxe"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"getting_another_upgrade"
+		]
+	]
+}

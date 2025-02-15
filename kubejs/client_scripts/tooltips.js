@@ -1,64 +1,78 @@
 // priority: 0
 
-ItemEvents.tooltip(event => {
+ItemEvents.tooltip((event) => {
 
-    // Blast Furnace Tooltips
-    event.addAdvanced([
-        'minecraft:blast_furnace',
-    ], (item, advanced, text) => {
-        text.add(Text.of('Requires a multi block structure to work'))
-    })
+    // Disabled Items Tooltips Indication
+    global.itemsToErase.forEach(itemID => {
+        event.addAdvanced(itemID, (item, advanced, text) => {
+            // Retrieve the original name of the item
+            const originalName = item.getDisplayName().getString();
+
+            // Remove the default item name
+            text.remove(0);
+
+            // Add the name back but with red and strike-through formatting
+            text.add(0, Text.of(`§4§m${originalName}`));
+        });
+    });
     
-    // Disabled Items Tooltips
-    event.addAdvanced([
-        'minecraft:blast_furnace',
-        'minecraft:fletching_table',
-        'minecraft:powered_rail',
-        'iguanatweaksexpanded:enchanting_table',
-        'iguanatweaksreborn:beacon',
-
-        'sleep_tight:bedbug_spawn_egg',
-        'sleep_tight:bedbug_eggs',
-        'sleep_tight:night_bag',
-
-        'iguanatweaksexpanded:copper_ore_rock',
-        'iguanatweaksexpanded:iron_ore_rock',
-        'iguanatweaksexpanded:gold_ore_rock',
-        'iguanatweaksexpanded:cleansed_lapis',
-        'iguanatweaksexpanded:ancient_lapis',
-        'iguanatweaksexpanded:firestarter',
-
-        '/iguanatweaksexpanded:flint(.*)/',
-        '/iguanatweaksexpanded:chained_copper(.*)/',
-        '/iguanatweaksexpanded:coated_copper(.*)/',
-        '/(.*)shield/',
-    ], (item, advanced, text) => {
-        text.add(0, Text.of('§4§nDisabled'))
-    })
-
-    // Remove Redundant Tooltips // get ever item id that contains sword
-    Ingredient.of(/sword|axe|pickaxe|shovel|hoe|hammer/).itemIds.forEach((itemId) => {
+    // Fix Modern Tooltips To Match Legacy Tooltips
+    Ingredient.of(/hoe|hammer/).itemIds.forEach((itemId) => {
         event.addAdvanced(itemId, (item, advanced, text) => {
-            //save every tooltip that not contains Attack Speed in an array
+            // Iterate over all tooltip lines
+            for (let i = 0; i < text.length; i++) {
+                let tooltip = text.get(i); // Get the tooltip Text object
+                let tooltipString = tooltip.getString().trimStart(); // Get the actual string and remove leading spaces
+
+                // Check if the tooltip matches one of the relevant patterns
+                if (/Forge Cooldown|Scythe Radius|Till Cooldown/.test(tooltipString)) {
+                    // Final tooltip
+                    tooltipString = `+${tooltipString}`;
+
+                    // Remove the original tooltip
+                    text.remove(tooltip);
+
+                    // Add the recolored tooltip
+                    text.add(1, `§9${tooltipString}`);
+                }
+            }
+        });
+    });
+
+    // Remove Redundant Tooltips
+    Ingredient.of(/minecraft:firework_rocket/).itemIds.forEach((itemId) => {
+        event.addAdvanced(itemId, (item, advanced, text) => {
+            //save every tooltip that doesnt contain Flight Duration in an array
             const textElsArr = []
             for (let i = 1; i < text.length; i++) {
-                if (/Attack Speed|Entity Reach/.test(text.get(i).string)) continue;
-                textElsArr.push(text.get(i))
+                if (/Flight Duration/.test(text.get(i).string)) continue;
+                textElsArr.push(text.get(i));
             }
             //remove every tooltip that is not the displayname of the item
             let name = text.get(0);
-            text.removeIf((e) => e !== name)
+            text.removeIf((e) => e !== name);
       
-            //add back every tooltip except for the ones with Attack Speed
+            //add back every tooltip except for the ones with Flight Duration
             textElsArr.forEach((textEl) => {
-              text.add(text.length, [textEl])
-            })
-        })
-    })
-})
+              text.add(text.length, [textEl]);
+            });
+        });
+    });
+
+    // Misc
+    event.add("supplementaries:sack", "§cSlows down if 2 or more are carried");
+    event.add("supplementaries:safe", "§7§oKey Lockable");
+
+    // Hold Shift Tooltip
+    event.addAdvanced(Ingredient.of("minecraft:enchanted_book"), (item, advanced, text) => {
+      if (event.shift) {
+      } else {
+        text.add("§6Hold §eShift §6to view enchantment descriptions");
+      }
+    });
+});
 
 MoreJSEvents.enchantmentTableTooltip((event) => {
-    
     // Hides Enchanting Tooltips
-    event.lines.clear()
-})
+    event.lines.clear();
+});

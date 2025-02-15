@@ -1,0 +1,35 @@
+{
+  "parent": "niknok:beta_rising/playing_with_fire",
+  "criteria": {
+    "foxhound_speed_up_furnace": {
+      "trigger": "quark:foxhound_furnace"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.niknok.beta_rising.let_flaming_dogs_lie.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:furnace"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.niknok.beta_rising.let_flaming_dogs_lie.title"
+    }
+  },
+  "requirements": [
+    [
+      "foxhound_speed_up_furnace"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "quark:advancement_flag",
+      "flag": "foxhound_furnace"
+    }
+  ]
+
+}

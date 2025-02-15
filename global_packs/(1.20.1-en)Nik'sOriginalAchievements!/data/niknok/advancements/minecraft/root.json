@@ -1,0 +1,44 @@
+{
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:grass_block"
+		},
+		"title":
+		{
+			"translate": "Nik's Original Achievements!"
+		},
+		"description":
+		{
+			"translate": "§7§oVer: 1.20.1 | 6/13/23\n§r§2§nNiknokinater.net/org-achieves"
+		},
+		"frame": "goal",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/block/stone.png"
+	},
+	"criteria":
+	{
+		"root":
+		{
+			"trigger": "minecraft:location",
+			"conditions":
+			{
+				"dimension":
+				{
+					"tag": "niknok:adv_root"
+				}
+			}
+		}
+	},
+	"requirements":
+	[
+		["root"]
+	],
+	"rewards":
+	{
+		"function": "niknok:advancements/setup"
+	}
+}

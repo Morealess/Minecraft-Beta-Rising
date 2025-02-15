@@ -1,0 +1,5 @@
+{
+    "block": "supplementaries:netherite_door",
+    "state_hardness": 10,
+    "explosion_resistance": 1000
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_swampland",
+    "moderner_beta:pe_swampland",
+    "moderner_beta:late_beta_swampland",
+    "moderner_beta:early_release_swampland"
+  ]
+}

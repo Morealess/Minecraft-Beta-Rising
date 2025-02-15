@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:minecraft/the_beginning_wither",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:beacon"
+		},
+		"title":
+		{
+			"translate": "Beaconator"
+		},
+		"description":
+		{
+			"translate": "§7Create a full beacon."
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"beaconator":
+		{
+			"trigger": "minecraft:construct_beacon",
+			"conditions":
+			{
+				"level": 4
+			}
+		}
+	},
+	"requirements":
+	[
+		["beaconator"]
+	]
+}

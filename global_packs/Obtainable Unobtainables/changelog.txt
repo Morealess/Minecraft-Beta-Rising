@@ -1,0 +1,5 @@
+-Adds recipes to craft mushroom blocks from mushrooms
+-Adds C418 - dog music disc to simple dungeon loot chests
+-Balances/Fixes/Changes armor trim's loot distribution so that all are now obtainable through reworked loot tables - it moves some placements around to hopefully feel "balanced" for the modpack
+-Changes Aether dungeon chest loot to give Inebriation/Remedy potions rather than buckets
+-Adds Cocoa Beans to junk fishing loot in Jungle biomes (the same rate as bamboo)

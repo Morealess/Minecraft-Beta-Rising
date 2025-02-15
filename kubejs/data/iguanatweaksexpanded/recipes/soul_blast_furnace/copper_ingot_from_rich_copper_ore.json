@@ -1,0 +1,14 @@
+{
+  "type": "iguanatweaksexpanded:multi_item_soul_blasting",
+  "category": "soul_blast_furnace_misc",
+  "cookingtime": 100,
+  "experience": 1.05,
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "iguanatweaksexpanded:rich_copper_ore"
+    }
+  ],
+  "output_increase": 0.5,
+  "result": "minecraft:copper_ingot"
+}

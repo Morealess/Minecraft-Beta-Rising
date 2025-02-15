@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "moderner_beta:beta_desert",
+    "moderner_beta:pe_desert",
+    "moderner_beta:beta_warm_ocean",
+    "moderner_beta:pe_warm_ocean",
+    "moderner_beta:beta_rainforest",
+    "moderner_beta:pe_rainforest",
+    "moderner_beta:beta_savanna",
+    "moderner_beta:pe_savanna"
+  ]
+}

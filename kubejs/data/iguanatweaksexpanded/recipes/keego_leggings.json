@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 7,
+  "category": "forge_misc",
+  "experience": 42.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:quaron_leggings"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:keego"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:keego_leggings",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 12
+}

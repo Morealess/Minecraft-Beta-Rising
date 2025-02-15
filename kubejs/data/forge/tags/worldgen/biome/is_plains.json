@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#moderner_beta:is_plains",
+    "#moderner_beta:is_shrubland"
+  ]
+}

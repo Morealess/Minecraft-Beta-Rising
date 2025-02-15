@@ -1,0 +1,10 @@
+{
+	"emi.info.iguanatweaksexpanded.grindstone": "Can be used to extract enchantments from items with a book. Can also be used to \"reset\" a lodestone compass",
+	"emi.info.iguanatweaksexpanded.grindstone2": "Can be used to extract enchantments from items with a book. Can also be used to \"reset\" a lodestone compass",
+	
+	"emi.info.linkart.chain": "By using a simple chain, you can link minecarts together and have them follow each other! SHIFT + RMB on the “parent” cart, and then SHIFT + RMB again on the “child” cart. Now the child cart will follow its parent! If you're having trouble linking carts, just keep trying!",
+	"emi.info.forgery.furnace_minecart": "Loads chunks if they have fuel, accepts any fuel, and can be stocked by a hopper.",
+	"emi.info.forgery.powered_off_rail": "When powered off, will stop furnace minecarts and conserve their fuel",
+	"emi.info.forgery.rail_directional": "Placing magenta glazed terracotta under a detector rail makes it only detect minecarts moving in the direction of the arrow.\n Placing magenta glazed terracotta under a powered rail makes it push minecarts in the direction of the arrow, even from a stop.\n They also work as hard stops for carts going the wrong direction. Works similar to a Railcraft Boarding Track.",
+	"emi.info.quark.repair_emerald": "Emerald Equipment is imbued with the power of the sun! Under sunlight, it slowly fixes itself and boosts mining efficiency and attack damage."
+}

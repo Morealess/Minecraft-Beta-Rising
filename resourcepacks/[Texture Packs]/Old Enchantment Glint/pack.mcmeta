@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Reverts the enchantment glint of armor to match item's glint"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/ore_block",
+	"textures": {
+		"bottom": "aether:block/construction/zanite_block_bottom",
+		"side": "aether:block/construction/zanite_block_side",
+		"top": "aether:block/construction/zanite_block_top",
+		"particle": "aether:block/construction/zanite_block_top"
+	}
+}

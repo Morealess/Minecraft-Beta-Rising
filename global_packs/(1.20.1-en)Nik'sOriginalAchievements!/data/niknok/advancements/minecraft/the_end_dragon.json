@@ -1,0 +1,44 @@
+{
+	"parent": "niknok:minecraft/the_end",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:dragon_egg"
+		},
+		"title":
+		{
+			"translate": "The End."
+		},
+		"description":
+		{
+			"translate": "§7Defeat the Ender Dragon."
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"theend":
+		{
+			"trigger": "minecraft:player_killed_entity",
+			"conditions":
+			{
+				"entity":
+				{
+					"type": "minecraft:ender_dragon"
+				}
+			}
+		}
+	},
+	"requirements":
+	[
+		["theend"]
+	],
+	"rewards":
+	{
+		"function": "niknok:advancements/the_end_dragon_fn1"
+	}
+}

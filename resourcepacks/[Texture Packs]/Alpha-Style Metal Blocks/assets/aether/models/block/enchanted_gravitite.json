@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/ore_block",
+	"textures": {
+		"bottom": "aether:block/construction/enchanted_gravitite_bottom",
+		"side": "aether:block/construction/enchanted_gravitite_side",
+		"top": "aether:block/construction/enchanted_gravitite_top",
+		"particle": "aether:block/construction/enchanted_gravitite_top"
+	}
+}

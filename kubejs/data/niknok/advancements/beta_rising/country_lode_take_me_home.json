@@ -1,0 +1,47 @@
+{
+	"parent": "niknok:beta_rising/alloying",
+	"display": {
+		"icon": {
+			"item": "minecraft:lodestone"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.country_lode_take_me_home.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.country_lode_take_me_home.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"use_lodestone": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment": {
+								"mainhand": {
+									"items": [
+										"minecraft:compass"
+									]
+								}
+							}
+						}
+					}
+				],
+				"location": [
+					{
+						"condition": "minecraft:block_state_property",
+						"block": "minecraft:lodestone",
+						"properties": {}
+					}
+				]
+			}
+		}
+	}
+}

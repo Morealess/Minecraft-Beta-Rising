@@ -20,11 +20,31 @@
     "value": 0.05
   },
   {
+    "id": "iguanatweaksexpanded:quaron_block",
+    "value": 0.25
+  },
+  {
+    "id": "iguanatweaksexpanded:soul_steel_block",
+    "value": 0.05
+  },
+  {
     "id": "minecraft:emerald_block",
     "value": 0.35
   },
   {
     "id": "minecraft:netherite_block",
+    "value": 0.0
+  },
+  {
+    "id": "aether:ambrosium_block",
+    "value": 0.05
+  },
+  {
+    "id": "aether:zanite_block",
+    "value": 0.05
+  },
+  {
+    "id": "aether:enchanted_gravitite",
     "value": 0.0
   }
 ]

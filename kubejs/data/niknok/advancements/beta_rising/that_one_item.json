@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/give_me_your_dress",
+	"display": {
+		"icon": {
+			"item": "minecraft:bundle"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.that_one_item.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.that_one_item.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"that_one_item": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:bundle"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"that_one_item"
+		]
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "#iguanatweaksexpanded:equipment/forge_hammers",
+    "#minecraft:axes",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:hoes",
+    "#minecraft:swords"
+  ]
+}

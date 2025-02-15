@@ -1,36 +1,17 @@
 [
   {
     "stat": "health",
-    "max": 6.0,
+    "max": 5.0,
     "effect": "minecraft:slowness"
   },
   {
     "stat": "health",
     "max": 2.0,
-    "effect": "minecraft:slowness",
-    "amplifier": 2.0
-  },
-  {
-    "stat": "health",
-    "max": 2.0,
-    "effect": "minecraft:mining_fatigue",
-    "amplifier": 1.0
-  },
-  {
-    "stat": "health",
-    "max": 2.0,
-    "effect": "minecraft:darkness"
-  },
-
-
-  {
-    "stat": "hunger",
-    "max": 6.0,
     "effect": "minecraft:mining_fatigue"
   },
   {
-    "stat": "hunger",
-    "max": 6.0,
-    "effect": "minecraft:slowness"
+    "stat": "health",
+    "max": 1.0,
+    "effect": "minecraft:darkness"
   }
 ]

@@ -1,0 +1,15 @@
+Mojang - Creating Minecraft and all the old textures
+E404NNF (shota) - Creating the Piglin Leather textures
+tygical - Creating older style wood variant textures
+zippa - Lightmap tweaking
+coyo-t - Inital grayscale lighting using shaders (Moved to it's own addon due to issues)
+InboundBark - Fixed black hand issue with shaders
+shmoobalizer - Teaching me how to make the vanilla water texture
+Adrenix - Creating the Nostalgic Tweaks mod and supplying the fog.glsl file
+
+Any missing person should contact PoeticRainbow ASAP!
+
+-Includes Aether Enchanted Gravitite & Zanite Block textures from the built-in b1.7.3 pack (others imo are just straight up worse compared to classic_base)
+
+(THIS IS THE ORIGINAL AND UNEDITED "Golden Days - Base - v1.10.1" by PoeticRainbow - just has added few specialized changes; compiled into 1 location as 1 pack for ease of access and simplification of distribution for use in the Beta Rising modpack! Enjoy. :D
+

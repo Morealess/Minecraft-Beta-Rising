@@ -1,0 +1,44 @@
+{
+  "aether.menu_title.minecraft_left": "Minecraft: Modern (Left)",
+  "aether.menu_title.the_aether": "The Aether",
+  "aether.menu_title.the_aether_left": "The Aether (Left)",
+
+  "item.aether.netherite_gloves": "Soul Steel Gloves",
+  "lore.item.aether.netherite_gloves": "A pair of Gloves, needed to complete the Soul Steel armor set.",
+
+  "item.aether.skyroot_stick": "Skyroot Branch",
+  "lore.block.aether.ambrosium_torch": "The main light source in the Aether, made from a Skyroot Branch and Ambrosium Shard.",
+  "lore.block.aether.golden_oak_leaves": "These golden leaves generate with Golden Oak Trees. They spawn golden particles in a radius of 5 blocks. They yield Golden Oak Saplings and Skyroot Sticks when decayed.",
+  "lore.block.aether.skyroot_fence": "Crafted from Skyroot Logs and Branches. Great for keeping your livestock safe from wandering predators!",
+  "lore.block.aether.skyroot_fence_gate": "Crafted from Branches and Skyroot Logs. Gives a homely entrance and exit to your precious enclosures.",
+  "lore.block.aether.skyroot_leaves": "These leaves generate with Skyroot Trees. They can drop Skyroot Saplings and Skyroot Branches when decaying.",
+  "lore.block.aether.skyroot_sign": "Crafted from Skyroot Logs and Branches. A helpful sign perfect for writing messages and directions on.",
+  "lore.item.aether.golden_dart": "The ammo for Golden Dart Shooters. Crafted with Skyroot Branches and Golden Amber, enchanting these converts them to Enchanted Darts.",
+  "lore.item.aether.skyroot_stick": "Crafted from Skyroot Logs. Used to create various tools and items. There's nothing else too special about it.",
+
+  "aether.pro_tips.line.aether.dart_shooter_crafting": "Dart Shooters can be crafted with Skyroot Logs and Golden Amber.",
+  "lore.block.aether.skyroot_bed": "Crafted with wool and Skyroot Logs. You can only sleep at night to skip nighttime, but during the day you can set your respawn point in the Aether. You cannot sleep while monsters are nearby.",
+  "lore.block.aether.skyroot_bookshelf": "Crafted from Skyroot Logs and Books. Bookshelves can be used to enhance the enchanting capabilities of an Enchanting Table.",
+  "lore.block.aether.skyroot_button": "Crafted from Skyroot Logs, a Button used to activate mechanisms and redstone.",
+  "lore.block.aether.skyroot_door": "Crafted from Skyroot Logs, an ornate Door helpful for keeping an enclosed and safe space without worry of monsters wandering in.",
+  "lore.block.aether.skyroot_log": "These spawn with Skyroot Trees. They can be double-dropped with Skyroot Axes. When put in a Crafting Table, they will provide 4 Green Planks.",
+  "lore.block.aether.skyroot_pressure_plate": "Crafted from Skyroot Logs. A wooden Pressure Plate used to activate mechanisms and redstone.",
+  "lore.block.aether.skyroot_slab": "Crafted from Skyroot Logs. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "lore.block.aether.skyroot_stairs": "Crafted from Skyroot Logs. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "lore.block.aether.skyroot_trapdoor": "Crafted from Skyroot Logs. A Trapdoor is useful for covering one block wide entryways. Often used to add extra protection to staircases.",
+  "lore.block.aether.skyroot_wood": "Skyroot Logs crafted to be smooth on all sides. When put in a Crafting Table, they will provide 4 Green Planks.",
+  "lore.block.aether.stripped_skyroot_log": "A Skyroot Log that has had its bark stripped away with an Axe. When put in a Crafting Table, they will provide 4 Green Planks.",
+  "lore.block.aether.stripped_skyroot_wood": "Stripped Skyroot Logs crafted to be smooth on all sides. When put in a Crafting Table, they will provide 4 Green Planks.",
+
+  "aether.pro_tips.line.aether.remedy_bucket_enchanting": "A Skyroot Potion can be obtained by mixing flowers in a Brewing Stand.",
+  "lore.item.aether.skyroot_poison_bucket": "A Skyroot Bucket that has been filled with a deadly poison. Better not drink it! It can be used to craft Poison Darts and Dart Shooters. Enchant it to cure the poison in it.",
+  "lore.item.aether.skyroot_remedy_bucket": "A Skyroot Bucket containing a soothing remedy. It has a strong smell. Drinking this will cure deadly poison.",
+
+  "block.aether.present": "Present",
+  "entity.aether.tnt_present": "TNT Present",
+  "entity.aether.valkyrie": "Valkyrie",
+  "lore.block.aether.holiday_leaves": "Leaves on Holiday Trees! It snows near them, and there are always Presents nearby!",
+  "lore.block.aether.present": "A wonderful (real-time) holiday gift, open it for a surprise! Be careful, as there's a chance you could get ssssssurprised!",
+  "lore.item.aether.candy_cane_sword": "A Sword made from decorative candy. Randomly drops Candy Canes when used. These are dropped from presents that are under Holiday Trees.",
+  "lore.item.aether.gingerbread_man": "Found in presents under Holiday Trees, these are the most common holiday item. They are very abundant when dropped from Presents."
+}

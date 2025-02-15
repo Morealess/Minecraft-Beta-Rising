@@ -1,0 +1,232 @@
+{
+	"advancements.niknok.beta_rising.root.title": "Minecraft: Beta Rising",
+	"advancements.niknok.beta_rising.root.description": "§7Welcome back to the 'Golden Age' of Minecraft, resurrected from the ground up and reimagined in a brand new light for 1.20.1! These quests will help to uncover the overhauled progression, new mechanics, and guide you along your journey.",
+	
+	"advancements.niknok.beta_rising.enchanter_2.title": "Enchanter",
+	"advancements.niknok.beta_rising.enchanter_2.description": "§7Use a book, obsidian, and diamonds to construct an enchantment table.",
+
+	"advancements.niknok.beta_rising.diamonds_2.title": "DIAMONDS!",
+	"advancements.niknok.beta_rising.diamonds_2.description": "§7Acquire diamonds with your iron tools.",
+
+	"advancements.niknok.beta_rising.we_need_to_go_deeper_2.title": "We Need to Go Deeper...",
+	"advancements.niknok.beta_rising.we_need_to_go_deeper_2.description": "§7Ascend... or? Descend... to the next dimension!",
+
+	"advancements.niknok.beta_rising.the_end_2.title": "The End",
+	"advancements.niknok.beta_rising.the_end_2.description": "§7Reach the End.",
+
+	"advancements.niknok.beta_rising.the_nether.title": "The Nether",
+	"advancements.niknok.beta_rising.the_nether.description": "§7Reach the Nether.",
+
+	"advancements.niknok.beta_rising.back_and_forth.title": "Back and Forth",
+	"advancements.niknok.beta_rising.back_and_forth.description": "§7Brew a Recall Potion by mixing a Wither Rose and an Echo Shard into a Regeneration II Potion.",
+
+	"advancements.niknok.beta_rising.fetch_me_their_souls.title": "Fetch Me Their Souls",
+	"advancements.niknok.beta_rising.fetch_me_their_souls.description": "§7Construct a Soul Blast Furnace, then build a 3x3x3 structure to use it.",
+
+	"advancements.niknok.beta_rising.cultivation.title": "Cultivation",
+	"advancements.niknok.beta_rising.cultivation.description": "§7Use Bone Meal on Farmland (or on crops while crouching) to create Rich Farmland. Rich Farmland makes crops grow faster, but decays after a while.",
+
+	"advancements.niknok.beta_rising.a_furious_cocktail.title": "A Furious Cocktail",
+	"advancements.niknok.beta_rising.a_furious_cocktail.description": "§7Have every potion effect applied at the same time.",
+
+	"advancements.niknok.beta_rising.how_did_we_get_here.title": "How Did We Get Here?",
+	"advancements.niknok.beta_rising.how_did_we_get_here.description": "§7Have every effect applied at the same time.",
+
+	"advancements.niknok.beta_rising.alloying.title": "Alloying",
+	"advancements.niknok.beta_rising.alloying.description": "§7Obtain a Steel Ingot by alloying Iron, Coal, Clay and Durium Scrap Blocks in a Blast Furnace.",
+
+	"advancements.niknok.beta_rising.bricks_required.title": "Bricks Required",
+	"advancements.niknok.beta_rising.bricks_required.description": "§7Construct a Blast Furnace, then build a 3x3x3 structure to use it.",
+
+	"advancements.niknok.beta_rising.miners_best_friend.title": "Miner's Best Friend",
+	"advancements.niknok.beta_rising.miners_best_friend.description": "§7Craft Torch Arrows.",
+
+	"advancements.niknok.beta_rising.who_is_cutting_onions.title": "Who is Cutting Onions?",
+	"advancements.niknok.beta_rising.who_is_cutting_onions.description": "§7Obtain Crying Obsidian.",
+
+	"advancements.niknok.beta_rising.not_quite_nine_lives.title": "Not Quite \"Nine\" Lives",
+	"advancements.niknok.beta_rising.not_quite_nine_lives.description": "§7Charge a Respawn Anchor to the maximum.",
+
+	"advancements.niknok.beta_rising.chase_me.title": "Chase Me",
+	"advancements.niknok.beta_rising.chase_me.description": "§7Toss an Ender Pearl to the tip of a line of Myalite Crystals to travel through them.",
+
+	"advancements.niknok.beta_rising.controlled_explosions.title": "Controlled Explosions",
+	"advancements.niknok.beta_rising.controlled_explosions.description": "§7Craft a TNT Charge.",
+
+	"advancements.niknok.beta_rising.country_lode_take_me_home.title": "Country Lode, Take Me Home",
+	"advancements.niknok.beta_rising.country_lode_take_me_home.description": "§7Bind a Compass to a Lodestone.",
+
+	"advancements.niknok.beta_rising.cozy_beginnings.title": "Cozy Beginnings",
+	"advancements.niknok.beta_rising.cozy_beginnings.description": "§7Build a Campfire.",
+
+	"advancements.niknok.beta_rising.deeper_faster_stronger.title": "Deeper, Faster, Stronger",
+	"advancements.niknok.beta_rising.deeper_faster_stronger.description": "§7Craft Copper tools, which mines faster the deeper you are in the world.",
+
+	"advancements.niknok.beta_rising.desperate_measures.title": "Desperate Measures",
+	"advancements.niknok.beta_rising.desperate_measures.description": "§7Holding Flint in both hands and right-clicking can produce a fire!",
+
+	"advancements.niknok.beta_rising.oh_shiny.title": "Oh Shiny",
+	"advancements.niknok.beta_rising.oh_shiny.description": "§7Distract a Pigman with gold.",
+
+	"advancements.niknok.beta_rising.on_topic.title": "On-Topic",
+	"advancements.niknok.beta_rising.on_topic.description": "§7Construct a Furnace, the Campfire might help smelting the Copper.",
+
+	"advancements.niknok.beta_rising.over_9000.title": "Over 9000",
+	"advancements.niknok.beta_rising.over_9000.description": "§7Empower an item with an Enchanted Cleansed Lapis (made in an Anvil with Experience Bottle) to get even better enchanting power and over max level enchantments.",
+
+	"advancements.niknok.beta_rising.playing_with_fire.title": "Playing With Fire",
+	"advancements.niknok.beta_rising.playing_with_fire.description": "§7Tame a Foxhound by feeding it Coal while under Fire Resistance.",
+
+	"advancements.niknok.beta_rising.let_flaming_dogs_lie.title": "Let Flaming Dogs Lie",
+	"advancements.niknok.beta_rising.let_flaming_dogs_lie.description": "§7Have a Foxhound speed up a Furnace by letting it sleep on it.",
+
+	"advancements.niknok.beta_rising.power_lifting.title": "Power Lifting",
+	"advancements.niknok.beta_rising.power_lifting.description": "§7Get a movement speed penalty by transporting more than one Portable Crate.",
+
+	"advancements.niknok.beta_rising.see_the_lights.title": "See The Lights",
+	"advancements.niknok.beta_rising.see_the_lights.description": "§7Redirect a Beacon beam's direction using Clusters.",
+
+	"advancements.niknok.beta_rising.cover_me_with_emeralds.title": "Cover Me With Emeralds",
+	"advancements.niknok.beta_rising.cover_me_with_emeralds.description": "§7Get a full suit of Emerald armor by upgrading Diamond in a Forge.",
+
+	"advancements.niknok.beta_rising.subspace_bubble.title": "Subspace Bubble",
+	"advancements.niknok.beta_rising.subspace_bubble.description": "§7Use the Nether to travel 7 km in the Overworld.",
+
+	"advancements.niknok.beta_rising.you_need_a_mint.title": "You Need a Mint",
+	"advancements.niknok.beta_rising.you_need_a_mint.description": "§7Collect Dragon's Breath in a Glass Bottle.",
+
+	"advancements.niknok.beta_rising.the_end_again.title": "The End... Again...",
+	"advancements.niknok.beta_rising.the_end_again.description": "§7Respawn the Ender Dragon.",
+
+	"advancements.niknok.beta_rising.the_next_generation.title": "The Next Generation",
+	"advancements.niknok.beta_rising.the_next_generation.description": "§7Hold the Dragon Egg.",
+
+	"advancements.niknok.beta_rising.remote_gateway.title": "Remote Getaway",
+	"advancements.niknok.beta_rising.remote_gateway.description": "§7Escape the island.",
+
+	"advancements.niknok.beta_rising.uneasy_alliance.title": "Uneasy Alliance",
+	"advancements.niknok.beta_rising.uneasy_alliance.description": "§7Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.",
+
+	"advancements.niknok.beta_rising.fix_the_fixer.title": "Fix The Fixer",
+	"advancements.niknok.beta_rising.fix_the_fixer.description": "§7Repair a Anvil using Iron Blocks.",
+
+	"advancements.niknok.beta_rising.fletch_this.title": "Fletch This!",
+	"advancements.niknok.beta_rising.fletch_this.description": "§7Construct a Fletching table to be able to craft more arrows.",
+
+	"advancements.niknok.beta_rising.ice_bucket_challenge.title": "Ice Bucket Challenge",
+	"advancements.niknok.beta_rising.ice_bucket_challenge.description": "§7Obtain a block of Obsidian.",
+
+	"advancements.niknok.beta_rising.hot_tourist_destinations.title": "Hot Tourist Destinations",
+	"advancements.niknok.beta_rising.hot_tourist_destinations.description": "§7Explore all Nether biomes.",
+
+	"advancements.niknok.beta_rising.corundum_corundum.title": "Corundum, Conundrum",
+	"advancements.niknok.beta_rising.corundum_corundum.description": "§7Collect every color of Corundum Cluster.",
+
+	"advancements.niknok.beta_rising.wood_you_look_at_that.title": "Wood You Look at That?",
+	"advancements.niknok.beta_rising.wood_you_look_at_that.description": "§7Collect every color of Wooden Planks.",
+
+	"advancements.niknok.beta_rising.diamond_tip.title": "Diamond Tip",
+	"advancements.niknok.beta_rising.diamond_tip.description": "§7Craft Diamond Arrows that deal much more damage than base arrows.",
+
+	"advancements.niknok.beta_rising.getting_another_upgrade.title": "Getting Another Upgrade",
+	"advancements.niknok.beta_rising.getting_another_upgrade.description": "§7Upgrade a Stone Pickaxe using a Forge.",
+
+	"advancements.niknok.beta_rising.stiffer_than_iron.title": "Stiffer Than Iron",
+	"advancements.niknok.beta_rising.stiffer_than_iron.description": "§7Obtain any Steel Gear by upgrading Iron.",
+
+	"advancements.niknok.beta_rising.give_me_your_dress.title": "Give Me Your Dress",
+	"advancements.niknok.beta_rising.give_me_your_dress.description": "§7Scavenge Cloth from a defeated foe.",
+
+	"advancements.niknok.beta_rising.glorious_eminence.title": "Glorious Eminence",
+	"advancements.niknok.beta_rising.glorious_eminence.description": "§7Apply a Rune to an enchanted item in an Anvil.",
+
+	"advancements.niknok.beta_rising.consume_the_concotion_chalice.title": "Consume the Concoction Chalice",
+	"advancements.niknok.beta_rising.consume_the_concotion_chalice.description": "§7Drink from a Chalice.",
+
+	"advancements.niknok.beta_rising.great_view_from_up_here.title": "Great View From Up Here",
+	"advancements.niknok.beta_rising.great_view_from_up_here.description": "§7Levitate up 50 blocks from the attacks of a Shulker.",
+
+	"advancements.niknok.beta_rising.why_would_you_do_that.title": "Why Would You Do That!?",
+	"advancements.niknok.beta_rising.why_would_you_do_that.description": "§7Grind an Enchanted Golden Apple.",
+
+	"advancements.niknok.beta_rising.hot_coal.title": "Hot Coal",
+	"advancements.niknok.beta_rising.hot_coal.description": "§7Acquire Hellish Coal.",
+
+	"advancements.niknok.beta_rising.exploding_101.title": "Exploding 101",
+	"advancements.niknok.beta_rising.exploding_101.description": "§7Craft Explosive Arrows.",
+
+	"advancements.niknok.beta_rising.inertia_is_a_property_of_matter.title": "Inertia is a Property of Matter",
+	"advancements.niknok.beta_rising.inertia_is_a_property_of_matter.description": "§7Fall off a Hammock.",
+
+	"advancements.niknok.beta_rising.infusing_items.title": "Infusing Items",
+	"advancements.niknok.beta_rising.infusing_items.description": "§7Use a Cleansed Lapis to infuse an item and enchant it to it's maximum power.",
+
+	"advancements.niknok.beta_rising.stuck_in_bedrock.title": "Stuck In Bedrock",
+	"advancements.niknok.beta_rising.stuck_in_bedrock.description": "§7Maybe a blast can pop it out of there.",
+
+	"advancements.niknok.beta_rising.momentum.title": "Momentum",
+	"advancements.niknok.beta_rising.momentum.description": "§7Obtain Ruby Equipment.",
+	
+	"advancements.niknok.beta_rising.metalworks.title": "Metalworks",
+	"advancements.niknok.beta_rising.metalworks.description": "§7Construct a Forge to upgrade equipment.",
+
+	"advancements.niknok.beta_rising.lucky_gold.title": "Lucky Gold",
+	"advancements.niknok.beta_rising.lucky_gold.description": "§7Craft a Gold Pickaxe by upgrading a Copper Pickaxe. You'll feel luck run through your veins.",
+
+	"advancements.niknok.beta_rising.golden_armor.title": "Armor Sets",
+	"advancements.niknok.beta_rising.golden_armor.description": "§7Equip a full set of Golden armor. Different armor sets might work well under different circumstances.",
+
+	"advancements.niknok.beta_rising.suit_up.title": "Suit Up",
+	"advancements.niknok.beta_rising.suit_up.description": "§7Craft Iron Armor by upgrading Leather in a Forge.",
+
+	"advancements.niknok.beta_rising.sweet_dreams.title": "Sweet Dreams",
+	"advancements.niknok.beta_rising.sweet_dreams.description": "§7Sleep in a Bed to change your respawn point.",
+
+	"advancements.niknok.beta_rising.taste_the_rainbow.title": "Taste the Rainbow",
+	"advancements.niknok.beta_rising.taste_the_rainbow.description": "§7Wear a full set of armor with Rainbow Runes applied.",
+
+	"advancements.niknok.beta_rising.that_one_item.title": "That One Item",
+	"advancements.niknok.beta_rising.that_one_item.description": "§7Craft a Bundle.",
+
+	"advancements.niknok.beta_rising.ups_and_downs.title": "Ups and Downs",
+	"advancements.niknok.beta_rising.ups_and_downs.description": "§7Craft a Altimeter to pinpoint your height.",
+
+	"advancements.niknok.beta_rising.warning_unstable.title": "WARNING! Unstable™",
+	"advancements.niknok.beta_rising.warning_unstable.description": "§7Craft a Explosive Barrel.",
+
+	"advancements.niknok.beta_rising.warped_diet.title": "Warped Diet",
+	"advancements.niknok.beta_rising.warped_diet.description": "§7Drink Netherized Stew and rethink your life decisions.",
+
+	"advancements.niknok.beta_rising.who_watches_the_watcher.title": "Who Watches the Watcher?",
+	"advancements.niknok.beta_rising.who_watches_the_watcher.description": "§7Look at the center of an Ender Watcher.",
+
+	"advancements.niknok.beta_rising.winter_is_coming.title": "Winter is Coming",
+	"advancements.niknok.beta_rising.winter_is_coming.description": "§7It's autumn! Make sure to stack up food and wood before Winter as almost nothing grows and animals don't spawn. Also a calendar can help keep track of the season.",
+
+	"advancements.niknok.beta_rising.wrong_tools_only.title": "Wrong Tools Only",
+	"advancements.niknok.beta_rising.wrong_tools_only.description": "§7Obtain a Quaron Ingot by alloying Raw Iron, 2 Amethyst Clusters and a Blaze Rod. The tools made from this metal can mine blocks that don't require a tool faster.",
+
+	"advancements.niknok.beta_rising.the_ancients_respawned_here.title": "The Ancients Respawned Here",
+	"advancements.niknok.beta_rising.the_ancients_respawned_here.description": "§7Discover a Respawn Obelisk...",
+
+	"advancements.niknok.beta_rising.x_marks_the_block.title": "X Marks The Block",
+	"advancements.niknok.beta_rising.x_marks_the_block.description": "§7Activate a Respawn Obelisk with right-click by placing at least a precious block at the same height to set the respawn point. Respawning here will give some buffs, other than a precise respawn.",
+
+	"advancements.niknok.beta_rising.zombie_doctor.title": "Zombie Doctor",
+	"advancements.niknok.beta_rising.zombie_doctor.description": "§7Weaken and then cure a Zombie Villager.",
+
+	"advancements.niknok.beta_rising.getting_ahead.title": "Getting Ahead",
+	"advancements.niknok.beta_rising.getting_ahead.description": "Get your own player head from a named Snow Golem killed by a Witch.",
+
+	"advancements.niknok.beta_rising.shape_of_my_heart.title": "Shape of My Heart",
+	"advancements.niknok.beta_rising.shape_of_my_heart.description": "Sneak up to a Stoneling underground and break its shell to get its Heart.",
+	
+	"advancements.niknok.beta_rising.young_dreamer.title": "Young Dreamer",
+	"advancements.niknok.beta_rising.young_dreamer.description": "Give a Stoneling a new body by using its Heart of Diamond on any stone.",
+
+	"advancements.niknok.beta_rising.what_ever_sinks_your_boat.title": "What Ever Sinks Your Boat",
+	"advancements.niknok.beta_rising.what_ever_sinks_your_boat.description": "§7Did you really think that would work?",
+
+	"advancements.niknok.beta_rising.forged_from_fire.title": "Forged From Fire",
+	"advancements.niknok.beta_rising.forged_from_fire.description": "§7Obtain a Chainmail piece of armor."
+}

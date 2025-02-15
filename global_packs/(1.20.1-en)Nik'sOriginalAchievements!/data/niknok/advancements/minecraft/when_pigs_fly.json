@@ -1,0 +1,33 @@
+{
+	"parent": "niknok:minecraft/cow_tipper",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:saddle"
+		},
+		"title":
+		{
+			"translate": "When Pigs Fly"
+		},
+		"description":
+		{
+			"translate": "§7Fly a pig off a cliff."
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"whenpigsfly":
+		{
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements":
+	[
+		["whenpigsfly"]
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/orientable",
+	  "textures": {
+		  "front": "aether:block/treasure_chest_front",
+		  "side": "aether:block/treasure_chest_side",
+		  "top": "aether:block/treasure_chest_top",
+		  "particle": "#front"
+	  }
+  }

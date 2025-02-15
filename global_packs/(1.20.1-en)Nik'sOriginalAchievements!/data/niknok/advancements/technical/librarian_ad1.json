@@ -1,0 +1,43 @@
+{
+	"parent": "niknok:technical/when_pigs_fly_ad1",
+
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:command_block"
+		},
+		"title":
+		{
+			"translate": "Internal"
+		},
+		"description":
+		{
+			"translate": "§oIf you see this, attempt /function niknok:_commands/reset_technical. \n §cIf this technical advancment persists, report bug as 'Librarian tech busted'."
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria":
+	{
+		"event":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:bookshelf"
+			}
+		}
+	},
+	"requirements":
+	[
+		["event"]
+	],
+
+	"rewards":
+	{
+		"function": "niknok:advancements/librarian_fn1"
+	}
+}

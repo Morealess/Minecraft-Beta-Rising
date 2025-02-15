@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "result": {
+    "item": "quark:dirty_glass"
+  }
+} 

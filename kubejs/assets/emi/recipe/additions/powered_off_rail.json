@@ -1,0 +1,9 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "item:minecraft:powered_rail"
+    ],
+    "text": "emi.info.forgery.powered_off_rail"
+}
+

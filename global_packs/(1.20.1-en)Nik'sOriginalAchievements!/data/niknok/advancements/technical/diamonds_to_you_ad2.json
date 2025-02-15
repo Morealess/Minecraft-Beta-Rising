@@ -1,0 +1,49 @@
+{
+	"parent": "niknok:technical/when_pigs_fly_ad1",
+
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:command_block"
+		},
+		"title":
+		{
+			"translate": "Internal"
+		},
+		"description":
+		{
+			"translate": "§oIf you see this, attempt /function niknok:_commands/reset_technical. \n §cIf this technical advancment persists, report bug as 'Diamonds 2 tech busted'."
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria":
+	{
+		"event1":
+		{
+			"trigger": "minecraft:inventory_changed",
+
+			"conditions":
+			{
+				"items":
+				[{
+					"items":
+					[
+						"minecraft:diamond"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":
+	[[
+		"event1"
+	]],
+	"rewards":
+	{
+		"function": "niknok:advancements/diamonds_to_you_fn2"
+	}
+}

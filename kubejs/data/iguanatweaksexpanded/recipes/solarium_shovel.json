@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 1,
+  "category": "forge_misc",
+  "experience": 20.0,
+  "gear": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:solarium_shovel",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 15
+}

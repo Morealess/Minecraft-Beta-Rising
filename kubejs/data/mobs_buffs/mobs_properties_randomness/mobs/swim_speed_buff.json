@@ -1,0 +1,12 @@
+{
+    "target": "#mobs_buffs:swim_speed_buff",
+    "attributes": [
+        {
+            "id": "forge:swim_speed",
+            "modifier_name": "More Swim Speed for Mobs",
+            "amount": 2,
+            "operation": "multiply_base"
+        }
+    ],
+    "priority": 1
+}

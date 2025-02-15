@@ -1,0 +1,39 @@
+{
+  "entity.minecraft.pillager": "Sheepman",
+  "item.minecraft.pillager_spawn_egg": "Sheepman Spawn Egg",
+  "subtitles.entity.pillager.ambient": "Sheepman murmurs",
+  "subtitles.entity.pillager.celebrate": "Sheepman cheers",
+  "subtitles.entity.pillager.death": "Sheepman dies",
+  "subtitles.entity.pillager.hurt": "Sheepman hurts",
+
+  "entity.minecraft.vindicator": "Sheepmanator",
+  "item.minecraft.vindicator_spawn_egg": "Sheepmanator Spawn Egg",
+  "subtitles.entity.vindicator.ambient": "Sheepmanator mutters",
+  "subtitles.entity.vindicator.celebrate": "Sheepmanator cheers",
+  "subtitles.entity.vindicator.death": "Sheepmanator dies",
+  "subtitles.entity.vindicator.hurt": "Sheepmanator hurts",
+
+  "entity.minecraft.evoker": "Sheepmancer",
+  "entity.minecraft.evoker_fangs": "Sheepmancer Fangs",
+  "item.minecraft.evoker_spawn_egg": "Sheepmancer Spawn Egg",
+  "subtitles.entity.evoker.ambient": "Sheepmancer murmurs",
+  "subtitles.entity.evoker.cast_spell": "Sheepmancer casts spell",
+  "subtitles.entity.evoker.celebrate": "Sheepmancer cheers",
+  "subtitles.entity.evoker.death": "Sheepmancer dies",
+  "subtitles.entity.evoker.hurt": "Sheepmancer hurts",
+  "subtitles.entity.evoker.prepare_attack": "Sheepmancer prepares attack",
+  "subtitles.entity.evoker.prepare_summon": "Sheepmancer prepares summoning",
+  "subtitles.entity.evoker.prepare_wololo": "Sheepmancer prepares charming",
+
+  "entity.minecraft.illusioner": "Sheepmangician",
+  "subtitles.entity.illusioner.ambient": "Sheepmangician murmurs",
+  "subtitles.entity.illusioner.cast_spell": "Sheepmangician casts spell",
+  "subtitles.entity.illusioner.death": "Sheepmangician dies",
+  "subtitles.entity.illusioner.hurt": "Sheepmangician hurts",
+  "subtitles.entity.illusioner.mirror_move": "Sheepmangician displaces",
+  "subtitles.entity.illusioner.prepare_blindness": "Sheepmangician prepares blindness",
+  "subtitles.entity.illusioner.prepare_mirror": "Sheepmangician prepares mirror image",
+
+  "advancements.adventure.whos_the_pillager_now.title": "Who's a Sheepman Now?",
+  "advancements.adventure.whos_the_pillager_now.description": "Give a Sheepman a taste of his own medicine"
+}

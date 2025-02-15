@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:adventure/shape_of_my_heart",
+  "criteria": {
+    "make_stoneling": {
+      "trigger": "quark:make_stoneling"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.niknok.beta_rising.young_dreamer.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "quark:diamond_heart"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.niknok.beta_rising.young_dreamer.title"
+    }
+  },
+  "requirements": [
+    [
+      "make_stoneling"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "quark:advancement_flag",
+      "flag": "stoneling_drop_diamond_heart"
+    }
+  ]
+
+}

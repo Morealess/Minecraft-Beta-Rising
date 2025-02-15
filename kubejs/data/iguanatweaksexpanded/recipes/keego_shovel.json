@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 1,
+  "category": "forge_misc",
+  "experience": 30.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:quaron_shovel"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:keego"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:keego_shovel",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 13
+}

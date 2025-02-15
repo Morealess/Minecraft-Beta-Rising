@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 7,
+  "category": "forge_misc",
+  "experience": 15.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:durium_leggings"
+  },
+  "ingredient": {
+    "item": "iguanatweaksexpanded:quaron_ingot"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:quaron_leggings",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 15
+}

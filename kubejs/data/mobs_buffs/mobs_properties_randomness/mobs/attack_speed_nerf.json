@@ -1,0 +1,11 @@
+{
+    "target": "#mobs_buffs:attack_speed_nerf",
+    "attributes": [
+        {
+            "id": "minecraft:generic.attack_speed",
+            "modifier_name": "ITE attack speed nerf",
+            "amount": -0.5,
+            "operation": "multiply_base"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_functional_blocks",
+  "replace": true,
+  "tab_stack": { "name": "aether:present"},
+  "tab_items": [
+    {
+      "name": "aether:ambrosium_torch"
+    },
+    {
+      "name": "aether:altar"
+    },
+    {
+      "name": "aether:freezer"
+    },
+    {
+      "name": "aether:incubator"
+    },
+    {
+      "name": "aether:sun_altar"
+    },
+    {
+      "name": "aether:treasure_chest"
+    },
+    {
+      "name": "aether:chest_mimic"
+    },
+    {
+      "name": "aether:present"
+    }
+  ]
+}

@@ -1,3 +1,53 @@
 {
-  "gameMode.hardcore": "Hardcore Mode"
+	"block.minecraft.oak_door": "Wooden Door",
+	"block.minecraft.oak_fence": "Wooden Fence",
+	"block.minecraft.oak_fence_gate": "Wooden Fence Gate",
+	"block.minecraft.oak_planks": "Wooden Planks",
+	"block.minecraft.oak_slab": "Wooden Slab",
+	"block.minecraft.oak_stairs": "Wooden Stairs",
+
+	"block.minecraft.oak_button": "Wooden Button",
+	"block.minecraft.oak_pressure_plate": "Wooden Pressure Plate",
+	"block.minecraft.oak_trapdoor": "Wooden Trapdoor",
+
+	"block.minecraft.oak_wall_sign": "Wall Sign",
+	"block.minecraft.oak_wall_hanging_sign": "Wall Hanging Sign",
+	"block.minecraft.oak_hanging_sign": "Hanging Sign",
+	"block.minecraft.oak_sign": "Sign",
+	
+	"item.minecraft.oak_boat": "Boat",
+	"item.minecraft.oak_chest_boat": "Boat with Chest",
+
+	"block.minecraft.mangrove_propagule": "Mangrove Sapling",
+	"block.minecraft.potted_mangrove_propagule": "Potted Mangrove Sapling",
+
+	"block.minecraft.crimson_stem": "Crimson Log",
+	"block.minecraft.stripped_crimson_stem": "Stripped Crimson Log",
+	"block.minecraft.warped_stem": "Warped Log",
+	"block.minecraft.stripped_warped_stem": "Stripped Warped Log",
+	"block.minecraft.crimson_hyphae": "Crimson Wood",
+	"block.minecraft.stripped_crimson_hyphae": "Stripped Crimson Wood",
+	"block.minecraft.warped_hyphae": "Warped Wood",
+	"block.minecraft.stripped_warped_hyphae": "Stripped Warped Wood",
+
+	"block.minecraft.ancient_debris": "Netherite Ore",
+	"item.minecraft.netherite_scrap": "Netherite Steel Scrap",
+	"block.minecraft.netherite_block": "Block of Soul Steel",
+	"item.minecraft.netherite_axe": "Soul Steel Axe",
+	"item.minecraft.netherite_boots": "Soul Steel Boots",
+	"item.minecraft.netherite_chestplate": "Soul Steel Chestplate",
+	"item.minecraft.netherite_helmet": "Soul Steel Helmet",
+	"item.minecraft.netherite_hoe": "Soul Steel Hoe",
+	"item.minecraft.netherite_ingot": "Soul Steel Ingot",
+	"item.minecraft.netherite_leggings": "Soul Steel Leggings",
+	"item.minecraft.netherite_pickaxe": "Soul Steel Pickaxe",
+	"item.minecraft.netherite_shovel": "Soul Steel Shovel",
+	"item.minecraft.netherite_sword": "Soul Steel Sword",
+	"advancements.husbandry.netherite_hoe.description": "Use a Soul Steel Ingot to upgrade a Hoe, and then reevaluate your life choices",
+	"advancements.nether.netherite_armor.description": "Get a full suit of Soul Steel armor",
+	"item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "Add Soul Steel Ingot",
+	"item.minecraft.smithing_template.netherite_upgrade.ingredients": "Soul Steel Ingot",
+	"subtitles.item.armor.equip_netherite": "Soul Steel armor clanks",
+	"trim_material.minecraft.netherite": "Soul Steel Material",
+	"upgrade.minecraft.netherite_upgrade": "Soul Steel Upgrade"
 }

@@ -1,0 +1,11 @@
+{
+    "target": "#mobs_buffs:spiders",
+    "attributes": [
+        {
+            "id": "minecraft:generic.movement_speed",
+            "modifier_name": "Speedy Spiders",
+            "amount": 0.20,
+            "operation": "multiply_base"
+        }
+    ]
+}

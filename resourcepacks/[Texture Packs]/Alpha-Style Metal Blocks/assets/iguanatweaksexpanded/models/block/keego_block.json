@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/ore_block",
+	"textures": {
+		"bottom": "iguanatweaksexpanded:block/keego_block_bottom",
+		"side": "iguanatweaksexpanded:block/keego_block_side",
+		"top": "iguanatweaksexpanded:block/keego_block_top",
+		"particle": "iguanatweaksexpanded:block/keego_block_top"
+	}
+}

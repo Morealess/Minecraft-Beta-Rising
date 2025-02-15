@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/on_topic",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:fletching_table"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.fletch_this.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.fletch_this.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"fletch_this": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:fletching_table"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"fletch_this"
+		]
+	]
+}

@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:blaze",
+        "minecraft:enderman",
+        "minecraft:ghast",
+        "minecraft:magma_cube",
+        "minecraft:strider",
+        "minecraft:wither",
+        "minecraft:wither_skeleton",
+        "minecraft:zoglin",
+        "minecraft:zombified_piglin",
+        {
+            "id": "quark:foxhound",
+            "required": false
+        },
+        {
+            "id": "aether:fire_minion",
+            "required": false
+        }
+    ]
+}

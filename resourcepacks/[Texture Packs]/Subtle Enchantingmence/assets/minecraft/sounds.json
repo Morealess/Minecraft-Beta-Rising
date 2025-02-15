@@ -1,0 +1,7 @@
+{
+  "entity.experience_orb.pickup": {
+    "replace": "true",
+    "sounds": [ "random/orb" ],
+    "subtitle": "subtitles.entity.experience_orb.pickup"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "values": [
+        "#minecraft:is_overworld",
+        "#moderner_beta:is_beta",
+        "moderner_beta:alpha"
+    ]
+}

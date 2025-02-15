@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/ice_bucket_challenge",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:enchanting_table"
+		},
+		"title":
+		{
+			"translate": "advancements.niknok.beta_rising.enchanter_2.title"
+		},
+		"description":
+		{
+			"translate": "advancements.niknok.beta_rising.enchanter_2.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"enchanter":
+		{
+			"trigger": "minecraft:recipe_crafted",
+			"conditions":
+			{
+				"recipe_id": "minecraft:enchanting_table"
+			}
+		}
+	},
+	"requirements":
+	[
+		["enchanter"]
+	]
+}

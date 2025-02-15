@@ -1,0 +1,43 @@
+{
+	"parent": "niknok:minecraft/acquire_hardware",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:diamond_ore"
+		},
+		"title":
+		{
+			"translate": "DIAMONDS!"
+		},
+		"description":
+		{
+			"translate": "§7Acquire diamonds with your iron tools."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"diamonds":
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions":
+			{
+				"items":
+				[{
+					"items":
+					[
+						"minecraft:diamond"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":
+	[
+		["diamonds"]
+	]
+}

@@ -1,0 +1,420 @@
+{
+  "tab_enabled": true,
+  "tab_name": "combat",
+  "replace": true,
+  "tab_stack": {"name":"minecraft:golden_sword"},
+  "tab_items": [
+    {
+      "name": "minecraft:wooden_sword"
+    },
+    {
+      "name": "minecraft:stone_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_sword"
+    },
+    {
+      "name": "minecraft:iron_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_sword"
+    },
+    {
+      "name": "minecraft:golden_sword"
+    },
+    {
+      "name": "minecraft:diamond_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_sword"
+    },
+    {
+      "name": "minecraft:leather_helmet"
+    },
+    {
+      "name": "minecraft:leather_chestplate"
+    },
+    {
+      "name": "minecraft:leather_leggings"
+    },
+    {
+      "name": "minecraft:leather_boots"
+    },
+    {
+      "name": "aether:leather_gloves"
+    },
+    {
+      "name": "minecraft:chainmail_helmet"
+    },
+    {
+      "name": "minecraft:chainmail_chestplate"
+    },
+    {
+      "name": "minecraft:chainmail_leggings"
+    },
+    {
+      "name": "minecraft:chainmail_boots"
+    },
+    {
+      "name": "aether:chainmail_gloves"
+    },
+    {
+      "name": "minecraft:iron_helmet"
+    },
+    {
+      "name": "minecraft:iron_chestplate"
+    },
+    {
+      "name": "minecraft:iron_leggings"
+    },
+    {
+      "name": "minecraft:iron_boots"
+    },
+    {
+      "name": "aether:iron_gloves"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_boots"
+    },
+    {
+      "name": "minecraft:golden_helmet"
+    },
+    {
+      "name": "minecraft:golden_chestplate"
+    },
+    {
+      "name": "minecraft:golden_leggings"
+    },
+    {
+      "name": "minecraft:golden_boots"
+    },
+    {
+      "name": "aether:golden_gloves"
+    },
+    {
+      "name": "minecraft:diamond_helmet"
+    },
+    {
+      "name": "minecraft:diamond_chestplate"
+    },
+    {
+      "name": "minecraft:diamond_leggings"
+    },
+    {
+      "name": "minecraft:diamond_boots"
+    },
+    {
+      "name": "aether:diamond_gloves"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_boots"
+    },
+    {
+      "name": "minecraft:turtle_helmet"
+    },
+    {
+      "name": "minecraft:shulker_shell"
+    },
+    {
+      "name": "minecraft:leather_horse_armor"
+    },
+    {
+      "name": "minecraft:iron_horse_armor"
+    },
+    {
+      "name": "minecraft:golden_horse_armor"
+    },
+    {
+      "name": "minecraft:diamond_horse_armor"
+    },
+    {
+      "name": "minecraft:totem_of_undying"
+    },
+    {
+      "name": "minecraft:tnt"
+    },
+    {
+      "name": "minecraft:end_crystal"
+    },
+    {
+      "name": "supplementaries:bomb"
+    },
+    {
+      "name": "supplementaries:bomb_blue"
+    },
+    {
+      "name": "minecraft:snowball"
+    },
+    {
+      "name": "minecraft:egg"
+    },
+    {
+      "name": "supplementaries:quiver"
+    },
+    {
+      "name": "minecraft:bow"
+    },
+    {
+      "name": "minecraft:crossbow"
+    },
+    {
+      "name": "minecraft:firework_rocket"
+    },
+    {
+      "name": "minecraft:arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:ice_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:quartz_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:diamond_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:explosive_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:torch_arrow"
+    },
+    {
+      "name": "minecraft:spectral_arrow"
+    },
+    {
+      "name": "supplementaries:rope_arrow"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:water\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:mundane\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:thick\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:awkward\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:night_vision\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_night_vision\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:invisibility\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_invisibility\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:fire_resistance\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_fire_resistance\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:water_breathing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_water_breathing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:healing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_healing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:harming\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_harming\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:weakness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_weakness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:luck\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:slow_falling\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_slow_falling\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"aether:remedy\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"aether:inebriation\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"iguanatweaksexpanded:regen_wither\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"iguanatweaksexpanded:recall\"}"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+
+#Bunny Head Ripping
+[BunnyHeadRipping]
+	#Players slain by Killer Bunnies drop their heads (x% chance)
+	PlayerHeadDropChance = 100
+	#Skeletons slain by Killer Bunnies drop their skulls (x% chance)
+	SkeletonHeadDropChance = 50
+	#Zombies slain by Killer Bunnies drop their heads (x% chance)
+	ZombieHeadDropChance = 50
+	#Wither Skeletons slain by Killer Bunnies drop their skulls (x% chance)
+	WitherSkeletonHeadDropChance = 50
+	#Piglins slain by Killer Bunnies drop their heads (x% chance)
+	PiglinHeadDropChance = 50
+	#The Ender Dragon drop its head if killed by a rabbit (x% chance). Impossible unless tame the rabbit using other mods
+	DragonHeadDropChance = 100
+	#Creepers slain by Killer Bunnies drop their heads (x% chance)
+	CreeperHeadDropChance = 50
+
+#General Settings
+[General]
+	#Can regular rabbits transformed by Weakness effect
+	CanWeaknessTransform = true
+	#killer Bunny spawning rate (x out of 10000), also affects potion transformation (x out of 10000 per tick)
+	TransformingChance = 4
+
+#Bunny Targeting
+[BunnyTargeting]
+	#Killer Bunnies attack Piglins/Piglin Brutes
+	BunnyAttacksPiglins = true
+	#Killer Bunnies attack Creepers
+	BunnyAttacksCreepers = true
+	#Killer Bunnies attack Villagers/Illagers/Witches
+	BunnyAttacksVillagerLikes = true
+	#Killer Bunnies attack Zombies/Skeletons/Wither Skeletons; Players are always being attacked though
+	BunnyAttacksPlayerLikes = true
+

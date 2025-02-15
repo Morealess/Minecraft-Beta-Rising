@@ -1,7 +1,7 @@
 [
   {
-    "block": "#forge:ores/quartz",
+    "block": "minecraft:nether_gold_ore",
     "entity": "minecraft:zombified_piglin",
-    "range": 32.0
+    "range": 8.0
   }
 ]

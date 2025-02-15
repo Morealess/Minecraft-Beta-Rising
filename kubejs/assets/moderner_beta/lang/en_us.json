@@ -1,0 +1,78 @@
+{
+    "generator.moderner_beta.moderner_beta": "Modern Beta",
+
+    "createWorld.customize.modern_beta.title": "Modern Beta World Customization",
+    "createWorld.customize.modern_beta.title.chunk": "Modern Beta Chunk Customization",
+    "createWorld.customize.modern_beta.title.biome": "Modern Beta Biome Customization",
+    "createWorld.customize.modern_beta.title.cave_biome": "Modern Beta Cave Biome Customization",
+    "createWorld.customize.modern_beta.title.preset": "Modern Beta World Presets",
+    
+    "text.autoconfig.moderner_beta.title": "Modern Beta Configuration",
+    "text.autoconfig.moderner_beta.option.fixedSeed.@Tooltip[0]": "For use on servers with Modern Beta.",
+    "text.autoconfig.moderner_beta.option.useFixedSeed.@Tooltip[0]": "For use on servers with Modern Beta.",
+
+    "biome.moderner_beta.beta_forest": "Beta Forest",
+    "biome.moderner_beta.beta_oak_forest": "Beta Oak Forest",
+    "biome.moderner_beta.beta_shrubland": "Beta Shrubland",
+    "biome.moderner_beta.beta_desert": "Beta Desert",
+    "biome.moderner_beta.beta_savanna": "Beta Savanna",
+    "biome.moderner_beta.beta_plains": "Beta Plains",
+    "biome.moderner_beta.beta_seasonal_forest": "Beta Seasonal Forest",
+    "biome.moderner_beta.beta_rainforest": "Beta Rainforest",
+    "biome.moderner_beta.beta_swampland": "Beta Swampland",
+    "biome.moderner_beta.beta_taiga": "Beta Taiga",
+    "biome.moderner_beta.beta_oak_taiga": "Beta Oak Taiga",
+    "biome.moderner_beta.beta_tundra": "Beta Tundra",
+    "biome.moderner_beta.beta_ice_desert": "Beta Ice Desert",
+    "biome.moderner_beta.beta_sky": "Beta Sky",
+    
+    "biome.moderner_beta.beta_ocean": "Beta Ocean",
+    "biome.moderner_beta.beta_lukewarm_ocean": "Beta Lukewarm Ocean",
+    "biome.moderner_beta.beta_warm_ocean": "Beta Warm Ocean",
+    "biome.moderner_beta.beta_cold_ocean": "Beta Cold Ocean",
+    "biome.moderner_beta.beta_frozen_ocean": "Beta Frozen Ocean",
+    
+    "biome.moderner_beta.alpha": "Alpha",
+    "biome.moderner_beta.alpha_winter": "Alpha Winter",
+    
+    "biome.moderner_beta.infdev_611": "Infdev 611",
+    "biome.moderner_beta.infdev_420": "Infdev 420",
+    "biome.moderner_beta.infdev_415": "Infdev 415",
+    "biome.moderner_beta.infdev_325": "Infdev 325",
+    "biome.moderner_beta.infdev_227": "Infdev 227",
+
+    "biome.moderner_beta.indev_normal": "Indev Normal",
+    "biome.moderner_beta.indev_hell": "Indev Hell",
+    "biome.moderner_beta.indev_paradise": "Indev Paradise",
+    "biome.moderner_beta.indev_woods": "Indev Woods",
+    "biome.moderner_beta.classic_14a_08": "Classic 0.0.14a_08",
+
+    "biome.moderner_beta.pe_forest": "PE Forest",
+    "biome.moderner_beta.pe_shrubland": "PE Shrubland",
+    "biome.moderner_beta.pe_desert": "PE Desert",
+    "biome.moderner_beta.pe_savanna": "PE Savanna",
+    "biome.moderner_beta.pe_plains": "PE Plains",
+    "biome.moderner_beta.pe_seasonal_forest": "PE Seasonal Forest",
+    "biome.moderner_beta.pe_rainforest": "PE Rainforest",
+    "biome.moderner_beta.pe_swampland": "PE Swampland",
+    "biome.moderner_beta.pe_taiga": "PE Taiga",
+    "biome.moderner_beta.pe_tundra": "PE Tundra",
+    "biome.moderner_beta.pe_ice_desert": "PE Ice Desert",
+    
+    "biome.moderner_beta.pe_ocean": "PE Ocean",
+    "biome.moderner_beta.pe_lukewarm_ocean": "PE Lukewarm Ocean",
+    "biome.moderner_beta.pe_warm_ocean": "PE Warm Ocean",
+    "biome.moderner_beta.pe_cold_ocean": "PE Cold Ocean",
+    "biome.moderner_beta.pe_frozen_ocean": "PE Frozen Ocean",
+
+    "biome.moderner_beta.late_beta_extreme_hills": "Late Beta Extreme Hills",
+    "biome.moderner_beta.late_beta_ice_plains": "Late Beta Ice Plains",
+    "biome.moderner_beta.late_beta_plains": "Late Beta Plains",
+    "biome.moderner_beta.late_beta_swampland": "Late Beta Swampland",
+    "biome.moderner_beta.late_beta_taiga": "Late Beta Taiga",
+
+    "biome.moderner_beta.early_release_extreme_hills": "Early Release Extreme Hills",
+    "biome.moderner_beta.early_release_ice_plains": "Early Release Ice Plains",
+    "biome.moderner_beta.early_release_swampland": "Early Release Swampland",
+    "biome.moderner_beta.early_release_taiga": "Early Release Taiga"
+}

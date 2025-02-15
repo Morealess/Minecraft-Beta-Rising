@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SP",
+    "FS"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:sticks"
+    },
+    "P": {
+      "item": "supplementaries:flax"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:firestarter"
+  }
+}

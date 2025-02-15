@@ -1,0 +1,44 @@
+{
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:book"
+		},
+		"title":
+		{
+			"translate": "advancements.niknok.beta_rising.root.title"
+		},
+		"description":
+		{
+			"translate": "advancements.niknok.beta_rising.root.description"
+		},
+		"frame": "goal",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/block/cobblestone.png"
+	},
+	"criteria":
+	{
+		"root":
+		{
+			"trigger": "minecraft:location",
+			"conditions":
+			{
+				"dimension":
+				{
+					"tag": "niknok:adv_root"
+				}
+			}
+		}
+	},
+	"requirements": 
+		[
+			["root"]
+		],
+		"rewards":
+		{
+			"function": "niknok:advancements/setup"
+		}
+}

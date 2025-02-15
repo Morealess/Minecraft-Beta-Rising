@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "nec:oak_trapped_chest",
+    "nec:spruce_trapped_chest",
+    "nec:birch_trapped_chest",
+    "nec:jungle_trapped_chest",
+    "nec:acacia_trapped_chest",
+    "nec:cherry_trapped_chest",
+    "nec:dark_oak_trapped_chest",
+    "nec:mangrove_trapped_chest",
+    "nec:bamboo_trapped_chest",
+    "nec:crimson_trapped_chest",
+    "nec:warped_trapped_chest",
+    "nec:red_trapped_chest",
+    "nec:orange_trapped_chest",
+    "nec:yellow_trapped_chest",
+    "nec:lime_trapped_chest",
+    "nec:green_trapped_chest",
+    "nec:blue_trapped_chest",
+    "nec:cyan_trapped_chest",
+    "nec:light_blue_trapped_chest",
+    "nec:purple_trapped_chest",
+    "nec:pink_trapped_chest",
+    "nec:magenta_trapped_chest",
+    "nec:brown_trapped_chest",
+    "nec:white_trapped_chest",
+    "nec:light_gray_trapped_chest",
+    "nec:gray_trapped_chest",
+    "nec:black_trapped_chest"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"parent": "niknok:minecraft/enchanter",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:bookshelf"
+		},
+		"title":
+		{
+			"translate": "Librarian"
+		},
+		"description":
+		{
+			"translate": "§7Build some bookshelves to improve your enchantment table."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"librarian":
+		{
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"requirements":
+	[
+		["librarian"]
+	]
+}

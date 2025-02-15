@@ -1,0 +1,20 @@
+Programmer Art Continuation Project 
+Base v2.0.2
+Legacy v1.3_01
+Classic 1.3_01
+
+CREDITS:
+
+mzovistired/mzov/jen - Lead Artist, made most original textures across all variants. (over 500!)
+
+Webaccount284 - New skins updated to fit og artstyle, most of the Bedrock Port.
+
+Vanilla Tweaks: https://vanillatweaks.net/ - A few tweaks were used to restore certain models and ui elements. (mostly on beta and alpha addons.)
+
+SOCIALS:
+
+Follow me on Bluesky for drawings and Project updates! https://bsky.app/profile/mzovjn.bsky.social
+
+Hop on the discord for support, WIP builds, and bedrock tests! https://discord.gg/sSmGMDSrGG (Permanent Invite)
+
+(THIS IS THE ORIGINAL AND UNEDITED "PACP_2.0.4_Standard" by ^ these beautiful people - just has added few specialized changes; compiled into 1 location as 1 pack for ease of access and simplification of distribution for use in the Beta Rising modpack! Enjoy. :D

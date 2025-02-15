@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/cultivation",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:cloth"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.give_me_your_dress.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.give_me_your_dress.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"give_me_your_dress": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:cloth"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"give_me_your_dress"
+		]
+	]
+}

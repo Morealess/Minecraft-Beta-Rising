@@ -2,20 +2,54 @@
   "minecraft:sweeping",
   "minecraft:mending",
 
-  "minecraft:protection",
+  "minecraft:riptide",
+  "minecraft:channeling",
+  "minecraft:impaling",
+  "minecraft:loyalty",
+
+  "iguanatweaksreborn:sharpness",
+  "minecraft:smite",
+  "minecraft:bane_of_arthropods",
+  "iguanatweaksreborn:fire_aspect",
+  "iguanatweaksreborn:knockback",
+
+  "iguanatweaksreborn:protection",
+  "iguanatweaksreborn:fire_protection",
   "minecraft:projectile_protection",
   "minecraft:feather_falling",
-  "minecraft:fire_protection",
   "minecraft:blast_protection",
+  "iguanatweaksexpanded:magic_protection",
+  "iguanatweaksexpanded:melee_protection",
 
-  "iguanatweaksreborn:bane_of_sssss",
-  "iguanatweaksreborn:sharpness",
-  "iguanatweaksreborn:fire_aspect",
-  "iguanatweaksreborn:smite",
-  "iguanatweaksreborn:knockback",
+  "iguanatweaksreborn:critical",
+  "iguanatweaksexpanded:swift_strike",
+  "iguanatweaksexpanded:healthy",
+  "iguanatweaksexpanded:zippy",
+  "iguanatweaksexpanded:hoppy",
+  "iguanatweaksexpanded:double_jump",
+  "iguanatweaksexpanded:steady_fall",
+  "iguanatweaksexpanded:slow_strike_curse",
+  "iguanatweaksexpanded:air_stealer",
+  "iguanatweaksexpanded:gravity_defying",
+  "iguanatweaksexpanded:sprint_pack",
+  "iguanatweaksexpanded:blasting",
+  "iguanatweaksexpanded:vindication",
+  "iguanatweaksexpanded:recovery",
+  "iguanatweaksexpanded:explosive",
+  "iguanatweaksexpanded:reach",
+  "iguanatweaksexpanded:rage",
+  "iguanatweaksexpanded:retreat",
+  "iguanatweaksexpanded:adrenaline",
+
   "iguanatweaksreborn:luck",
 
-  "iguanatweaksexpanded:healthy",
+  "iguanatweaksexpanded:steel_fall_curse",
+  "cursery:curse_slowness",
+  "cursery:curse_blindness",
+
+  "cursery:curse_anvil",
+  "cursery:curse_hungryhealth",
+  "cursery:curse_hungry",
 
   "shieldsplus:recoil",
   "shieldsplus:reflection",
@@ -24,8 +58,7 @@
   "shieldsplus:ablaze",
   "shieldsplus:lightweight",
   "shieldsplus:fast_recovery",
-  "shieldsplus:shield_bash"
-
-
-
+  "shieldsplus:shield_bash",
+  "shieldsplus:perfect_parry",
+  "shieldsplus:celestial_guardian"
 ]

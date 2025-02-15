@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:diamond_tip"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.diamond_tip.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.diamond_tip.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "niknok:beta_rising/diamonds_2",
+	"criteria": {
+		"diamond_tip": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:diamond_tip"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"diamond_tip"
+		]
+	]
+}

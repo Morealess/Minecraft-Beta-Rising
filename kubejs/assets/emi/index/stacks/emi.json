@@ -1,0 +1,34 @@
+{
+    "removed": [
+      "item:moonlight:placeable_item",
+      "item:minecraft:bundle",
+      "item:betterbundles:copper_bundle",
+      "item:betterbundles:iron_bundle",
+      "item:betterbundles:silver_bundle",
+      "item:betterbundles:gold_bundle",
+      "item:betterbundles:diamond_bundle",
+      "item:betterbundles:netherite_bundle",
+      "item:shieldsplus:wooden_shield",
+      "item:shieldsplus:stone_shield",
+      "item:shieldsplus:iron_shield",
+      "item:shieldsplus:golden_shield",
+      "item:shieldsplus:diamond_shield",
+      "item:shieldsplus:netherite_shield",
+      "item:igleelib:blaze_shard",
+      "item:igleelib:modium_ingot",
+      "item:igleelib:derium_ingot",
+      "item:igleelib:blazum_ingot",
+      "item:igleelib:lavium_ingot",
+      "item:igleelib:iglium_upgrade_smithing_template",
+      "item:igleelib:modium_block",
+      "item:igleelib:derium_block",
+      "item:igleelib:blazum_block",
+      "item:igleelib:lavium_block"
+    ],
+    "added": [
+      {
+        "stack": "item:minecraft:enchanting_table",
+        "after": "item:supplementaries:speaker_block"
+      }
+    ]
+  }

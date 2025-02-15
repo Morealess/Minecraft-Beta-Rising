@@ -1,0 +1,43 @@
+{
+	"parent": "niknok:minecraft/time_to_strike",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:leather"
+		},
+		"title":
+		{
+			"translate": "Cow Tipper"
+		},
+		"description":
+		{
+			"translate": "§7Harvest some leather."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"cowtipper":
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions":
+			{
+				"items":
+				[{
+					"items":
+					[
+						"minecraft:leather"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":
+	[
+		["cowtipper"]
+	]
+}

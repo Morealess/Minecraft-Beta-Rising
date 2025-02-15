@@ -5,6 +5,6 @@
   "doPistonClunk": true,
   "skeletonShootPurpleArrow": false,
   "useOldInventoryLayout": false,
-  "enablePotionGlint": true,
+  "enablePotionGlint": false,
   "useOldPotionColors": false
 }

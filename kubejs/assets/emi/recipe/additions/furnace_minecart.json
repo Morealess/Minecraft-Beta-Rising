@@ -1,0 +1,9 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "item:minecraft:furnace_minecart"
+    ],
+    "text": "emi.info.forgery.furnace_minecart"
+}
+

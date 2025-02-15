@@ -1,0 +1,1 @@
+execute at @p if entity @p in minecraft:the_end run advancement grant @p[limit=1000,distance=..300] only niknok:minecraft/the_end_dragon

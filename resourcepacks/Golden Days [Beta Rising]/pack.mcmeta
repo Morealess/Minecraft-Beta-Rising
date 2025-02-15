@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 24
+        },
+        "description": "§6Golden Days §8- §2Base §7(Beta)\n§8by PoeticRainbow"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": [22, 69],
+                "directory": "1_20_2"
+            }
+        ]
+    }
+}

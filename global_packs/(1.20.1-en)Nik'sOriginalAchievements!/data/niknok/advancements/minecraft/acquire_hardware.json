@@ -1,0 +1,43 @@
+{
+	"parent": "niknok:minecraft/hot_topic",
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		"title":
+		{
+			"translate": "Acquire Hardware"
+		},
+		"description":
+		{
+			"translate": "§7Smelt an iron ingot."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria":
+	{
+		"hardware":
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions":
+			{
+				"items":
+				[{
+					"items":
+					[
+						"minecraft:iron_ingot"
+					]
+				}]
+			}
+		}
+	},
+	"requirements":
+	[
+		["hardware"]
+	]
+}

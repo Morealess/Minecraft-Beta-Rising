@@ -1,0 +1,45 @@
+{
+	"parent": "niknok:beta_rising/stuck_in_bedrock",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:keego_pickaxe"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.momentum.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.momentum.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"keego": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:keego_pickaxe",
+							"iguanatweaksexpanded:keego_axe",
+							"iguanatweaksexpanded:keego_shovel",
+							"iguanatweaksexpanded:keego_sword",
+							"iguanatweaksexpanded:keego_hoe",
+							"iguanatweaksexpanded:keego_helmet",
+							"iguanatweaksexpanded:keego_chestplate",
+							"iguanatweaksexpanded:keego_leggings",
+							"iguanatweaksexpanded:keego_boots"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"keego"
+		]
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"parent": "niknok:beta_rising/alloying",
+	"display": {
+		"icon": {
+			"item": "iguanatweaksexpanded:durium_pickaxe"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.stiffer_than_iron.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.stiffer_than_iron.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"durium_gear": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iguanatweaksexpanded:durium_pickaxe",
+							"iguanatweaksexpanded:durium_axe",
+							"iguanatweaksexpanded:durium_shovel",
+							"iguanatweaksexpanded:durium_hoe",
+							"iguanatweaksexpanded:durium_sword",
+							"iguanatweaksexpanded:durium_helmet",
+							"iguanatweaksexpanded:durium_chestplate",
+							"iguanatweaksexpanded:durium_leggings",
+							"iguanatweaksexpanded:durium_boots",
+							"iguanatweaksexpanded:durium_shield"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"durium_gear"
+		]
+	]
+}

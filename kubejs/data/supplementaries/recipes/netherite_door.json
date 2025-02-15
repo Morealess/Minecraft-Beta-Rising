@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "iguanatweaksexpanded:durium_ingot"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "supplementaries:netherite_door"
+  },
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "netherite_door"
+    }
+  ]
+}

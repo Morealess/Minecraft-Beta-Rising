@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [48, 48],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-16, -16, 0, 16, 16, 16],
+					"uvNorth": [32, 16, 16, 0],
+					"uvEast": [32, 16, 16, 0],
+					"uvSouth": [48, 16, 32, 0],
+					"uvWest": [32, 16, 16, 0],
+					"uvUp": [16, 16, 0, 0],
+					"uvDown": [16, 16, 0, 0]
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

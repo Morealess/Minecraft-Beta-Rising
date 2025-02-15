@@ -1,0 +1,13 @@
+{
+  "icon": "icon.png",
+  "description": "",
+  "packs": [
+    "golden-days-adjustments-1.20.1.zip",
+    "golden-days-alpha-1.20.x-1.10.0.zip",
+    "Old Sounds - pre-Beta 1.8 Classic version.zip",
+    "old-sounds-default-version.zip",
+    "PACP Alpha-Fied.zip",
+    "PACP Beta-Fied.zip"
+  ],
+  "hidden": false
+}
