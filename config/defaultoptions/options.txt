@@ -42,7 +42,7 @@ ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","iguanatweaksexpanded:assets_override","Beta Rising Resources","Default Skin Pack","Illagers to Sheeple","Jappa-Styled Pigmen","file/Programmer Art [Beta Rising]","file/Golden Days [Beta Rising]","file/[Texture Packs]/golden-days-adjustments-1.20.1","file/[Addon Packs]/golden-days-adjustments-1.20.1.zip","file/[Texture Packs]/Player Reborn","file/[Texture Packs]/Dark Armor Icons (G.D.)"]
+resourcePacks:["vanilla","mod_resources","fabric","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","iguanatweaksexpanded:assets_override","Beta Rising Resources","Default Skin Pack","Illagers to Sheeple","Jappa-Styled Pigmen","file/Programmer Art [Beta Rising]","file/Golden Days [Beta Rising]","file/[Addon Packs]/golden-days-adjustments-1.20.1.zip","file/[Texture Packs]/Player Reborn","file/[Texture Packs]/Dark Armor Icons (G.D.)"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

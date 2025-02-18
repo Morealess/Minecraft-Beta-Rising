@@ -39,13 +39,13 @@ key_key.structure_gel.open_building_tool_gui:key.keyboard.r:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
-key_key.aether.open_accessories.desc:key.keyboard.i:NONE
+key_key.aether.open_accessories.desc:key.keyboard.unknown:NONE
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space:NONE
 key_key.aether.invisibility_toggle.desc:key.keyboard.v:NONE
 key_placebo.toggleTrails:key.keyboard.unknown:NONE
 key_placebo.toggleWings:key.keyboard.unknown:NONE
 key_key.spyglass-improvements.use:key.keyboard.c:NONE
-key_key.curios.open.desc:key.keyboard.unknown:NONE
+key_key.curios.open.desc:key.keyboard.i:NONE
 key_key.lightoverlay.enable_overlay:key.keyboard.f7:NONE
 key_key.nostalgic_tweaks.open_config:key.keyboard.unknown:NONE
 key_key.nostalgic_tweaks.toggle_fog:key.keyboard.f:NONE
