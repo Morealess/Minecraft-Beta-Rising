@@ -8,7 +8,7 @@
 			"name": "Material modifier",
 			"slot": "mainhand",
 			"attribute": "minecraft:generic.attack_damage",
-			"amount": -1.0,
+			"amount": -0.5,
 			"operation": "addition"
 		}
 	]

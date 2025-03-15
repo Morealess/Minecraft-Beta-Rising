@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:valkyrie_helmet",
+        "aether:valkyrie_chestplate",
+        "aether:valkyrie_leggings",
+        "aether:valkyrie_boots"
+    ]
+}

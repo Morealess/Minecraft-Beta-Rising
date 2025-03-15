@@ -1,6 +1,6 @@
 {
 	"advancements.niknok.beta_rising.root.title": "Minecraft: Beta Rising",
-	"advancements.niknok.beta_rising.root.description": "§7Welcome back to the 'Golden Age' of Minecraft, resurrected from the ground up and reimagined in a brand new light for 1.20.1! These quests will help to uncover the overhauled progression, new mechanics, and guide you along your journey.",
+	"advancements.niknok.beta_rising.root.description": "§7Welcome back to the 'Golden Age' of Minecraft, resurrected from the ground up and reimagined in a brand new light for 1.20.1! These quests will help to uncover the overhauled progression, new mechanics and guide you on your journey.",
 	
 	"advancements.niknok.beta_rising.enchanter_2.title": "Enchanter",
 	"advancements.niknok.beta_rising.enchanter_2.description": "§7Use a book, obsidian, and diamonds to construct an enchantment table.",
@@ -119,7 +119,7 @@
 	"advancements.niknok.beta_rising.hot_tourist_destinations.title": "Hot Tourist Destinations",
 	"advancements.niknok.beta_rising.hot_tourist_destinations.description": "§7Explore all Nether biomes.",
 
-	"advancements.niknok.beta_rising.corundum_corundum.title": "Corundum, Conundrum",
+	"advancements.niknok.beta_rising.corundum_corundum.title": "Corundum Conundrum", 
 	"advancements.niknok.beta_rising.corundum_corundum.description": "§7Collect every color of Corundum Cluster.",
 
 	"advancements.niknok.beta_rising.wood_you_look_at_that.title": "Wood You Look at That?",
@@ -155,9 +155,6 @@
 	"advancements.niknok.beta_rising.exploding_101.title": "Exploding 101",
 	"advancements.niknok.beta_rising.exploding_101.description": "§7Craft Explosive Arrows.",
 
-	"advancements.niknok.beta_rising.inertia_is_a_property_of_matter.title": "Inertia is a Property of Matter",
-	"advancements.niknok.beta_rising.inertia_is_a_property_of_matter.description": "§7Fall off a Hammock.",
-
 	"advancements.niknok.beta_rising.infusing_items.title": "Infusing Items",
 	"advancements.niknok.beta_rising.infusing_items.description": "§7Use a Cleansed Lapis to infuse an item and enchant it to it's maximum power.",
 
@@ -178,9 +175,6 @@
 
 	"advancements.niknok.beta_rising.suit_up.title": "Suit Up",
 	"advancements.niknok.beta_rising.suit_up.description": "§7Craft Iron Armor by upgrading Leather in a Forge.",
-
-	"advancements.niknok.beta_rising.sweet_dreams.title": "Sweet Dreams",
-	"advancements.niknok.beta_rising.sweet_dreams.description": "§7Sleep in a Bed to change your respawn point.",
 
 	"advancements.niknok.beta_rising.taste_the_rainbow.title": "Taste the Rainbow",
 	"advancements.niknok.beta_rising.taste_the_rainbow.description": "§7Wear a full set of armor with Rainbow Runes applied.",
@@ -217,12 +211,6 @@
 
 	"advancements.niknok.beta_rising.getting_ahead.title": "Getting Ahead",
 	"advancements.niknok.beta_rising.getting_ahead.description": "Get your own player head from a named Snow Golem killed by a Witch.",
-
-	"advancements.niknok.beta_rising.shape_of_my_heart.title": "Shape of My Heart",
-	"advancements.niknok.beta_rising.shape_of_my_heart.description": "Sneak up to a Stoneling underground and break its shell to get its Heart.",
-	
-	"advancements.niknok.beta_rising.young_dreamer.title": "Young Dreamer",
-	"advancements.niknok.beta_rising.young_dreamer.description": "Give a Stoneling a new body by using its Heart of Diamond on any stone.",
 
 	"advancements.niknok.beta_rising.what_ever_sinks_your_boat.title": "What Ever Sinks Your Boat",
 	"advancements.niknok.beta_rising.what_ever_sinks_your_boat.description": "§7Did you really think that would work?",

@@ -2,7 +2,7 @@
 
 SUPER IMPORTANT NOTE: Also... 
 
--Replaced "enchanting_table.png" & "icons.png" (identical as before, but changes lapis as enchanting orbs & food icons to hearts to ensure food tooltips represents correct healing!)
+-Replaced "enchanting_table.png" & "icons.png" (identical to before, but changes the enchanting orb icons to lapis & food icons to hearts to ensure food tooltips represents correct healing!)
 -Replaced flint and steel texture as STEEL
 -Reverts "Infested" blocks > "Monster Egg" blocks
 -"Reminiscence Fixes" Inc: Replaces bucket textures, Restores OG fish lang entries, Adds candles block/item textures, replaces some "Reminiscence" original Supplementaries textures with fixed versions.

@@ -202,7 +202,7 @@
 	  "frame": "challenge",
 	  "hidden": false,
 	  "icon": {
-		"item": "wood_you_dye:blue_planks"
+		"item": "wood_you_dye:purple_planks"
 	  },
 	  "show_toast": true,
 	  "title": {

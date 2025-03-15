@@ -1,0 +1,1 @@
+gamerule iguanatweaks:doSeasonGrassGrowDeath false

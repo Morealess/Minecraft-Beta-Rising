@@ -6,7 +6,7 @@
 	#generateReport
 	generateReport = false
 	#suppressMinecraftMobReporting
-	suppressMinecraftMobReporting = true
+	suppressMinecraftMobReporting = false
 	#fixEmptyNether
 	fixEmptyNether = false
 	#Use the 'BiomeMobWeight.csv' file to balance Biome spawn values

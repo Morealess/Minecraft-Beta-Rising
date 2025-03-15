@@ -1,0 +1,13 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "item:lootbags:loot_bag{Color:11184810,Loot:\"lootbags:loot_bags/common\",Name:\"Common Lootbag\",Type:\"COMMON\"}",
+      "item:lootbags:loot_bag{Color:5635925,Loot:\"lootbags:loot_bags/uncommon\",Name:\"Uncommon Lootbag\",Type:\"UNCOMMON\"}",
+      "item:lootbags:loot_bag{Color:170,Loot:\"lootbags:loot_bags/rare\",Name:\"Rare Lootbag\",Type:\"RARE\"}",
+      "item:lootbags:loot_bag{Color:11141290,Loot:\"lootbags:loot_bags/epic\",Name:\"Epic Lootbag\",Type:\"EPIC\"}",
+      "item:lootbags:loot_bag{Color:16755200,Loot:\"lootbags:loot_bags/legendary\",Name:\"Legendary Lootbag\",Type:\"LEGENDARY\"}"
+    ],
+    "text": "emi.info.lootbags.various_loot_bags"
+}
+

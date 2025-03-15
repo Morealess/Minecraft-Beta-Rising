@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:holystone_helmet",
+        "aether:holystone_chestplate",
+        "aether:holystone_leggings",
+        "aether:holystone_boots"
+    ]
+}

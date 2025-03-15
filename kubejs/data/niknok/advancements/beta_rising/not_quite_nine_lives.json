@@ -1,5 +1,5 @@
 {
-  "parent": "niknok:beta_rising/the_nether",
+  "parent": "niknok:beta_rising/who_is_cutting_onions",
   "criteria": {
     "charge_respawn_anchor": {
       "conditions": {

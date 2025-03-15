@@ -1,0 +1,86 @@
+* This is the StructMobWeight report file that is output every time the server starts.
+* 
+* Spawn Balance Utility (SBU) will use this file ONLY if it is renamed to StructMobWeight.csv.
+* Lines starting with '*' are comments and ignored
+* It allows you to add and remove mobs and adjust their spawnweights for Structures
+* like shipwrecks, nether fortresses, water monuments, etc.
+* 
+1, minecraft:ancient_city, HEADING, header:ignore, 0, 0, 0
+2, battletowers:bamboo_tower, HEADING, header:ignore, 0, 0, 0
+3, minecraft:bastion_remnant, HEADING, header:ignore, 0, 0, 0
+4, aether:bronze_dungeon, HEADING, header:ignore, 0, 0, 0
+5, minecraft:buried_treasure, HEADING, header:ignore, 0, 0, 0
+6, battletowers:cobblestone_tower, HEADING, header:ignore, 0, 0, 0
+7, minecraft:desert_pyramid, HEADING, header:ignore, 0, 0, 0
+8, minecraft:end_city, HEADING, header:ignore, 0, 0, 0
+9, minecraft:fortress, HEADING, header:ignore, 0, 0, 0
+10, minecraft:fortress, MONSTER, minecraft:blaze, 10, 2, 3
+11, minecraft:fortress, MONSTER, minecraft:zombified_piglin, 5, 4, 4
+12, minecraft:fortress, MONSTER, minecraft:wither_skeleton, 8, 5, 5
+13, minecraft:fortress, MONSTER, minecraft:skeleton, 2, 5, 5
+14, minecraft:fortress, MONSTER, minecraft:magma_cube, 3, 4, 4
+15, aether:gold_dungeon, HEADING, header:ignore, 0, 0, 0
+16, minecraft:igloo, HEADING, header:ignore, 0, 0, 0
+17, moderner_beta:indev_stronghold, HEADING, header:ignore, 0, 0, 0
+18, minecraft:jungle_pyramid, HEADING, header:ignore, 0, 0, 0
+19, aether:large_aercloud, HEADING, header:ignore, 0, 0, 0
+20, watching:leafless_grove, HEADING, header:ignore, 0, 0, 0
+21, watching:logless_tree/acacia, HEADING, header:ignore, 0, 0, 0
+22, watching:logless_tree/birch, HEADING, header:ignore, 0, 0, 0
+23, watching:logless_tree/oak, HEADING, header:ignore, 0, 0, 0
+24, watching:logless_tree/spruce, HEADING, header:ignore, 0, 0, 0
+25, minecraft:mansion, HEADING, header:ignore, 0, 0, 0
+26, minecraft:mineshaft, HEADING, header:ignore, 0, 0, 0
+27, minecraft:mineshaft_mesa, HEADING, header:ignore, 0, 0, 0
+28, minecraft:monument, HEADING, header:ignore, 0, 0, 0
+29, minecraft:monument, MONSTER, minecraft:guardian, 1, 2, 4
+30, watching:mossy_pyramid, HEADING, header:ignore, 0, 0, 0
+31, minecraft:nether_fossil, HEADING, header:ignore, 0, 0, 0
+32, minecraft:ocean_ruin_cold, HEADING, header:ignore, 0, 0, 0
+33, minecraft:ocean_ruin_warm, HEADING, header:ignore, 0, 0, 0
+34, watching:ocean_sand_pyramid, HEADING, header:ignore, 0, 0, 0
+35, minecraft:pillager_outpost, HEADING, header:ignore, 0, 0, 0
+36, minecraft:pillager_outpost, MONSTER, minecraft:pillager, 1, 1, 1
+37, lost_aether_content:platinum_dungeon, HEADING, header:ignore, 0, 0, 0
+38, battletowers:red_sandstone_tower, HEADING, header:ignore, 0, 0, 0
+39, watching:redstone_torch_trail, HEADING, header:ignore, 0, 0, 0
+40, iguanatweaksexpanded:respawn_obelisk_birch, HEADING, header:ignore, 0, 0, 0
+41, iguanatweaksexpanded:respawn_obelisk_deepslate, HEADING, header:ignore, 0, 0, 0
+42, iguanatweaksexpanded:respawn_obelisk_desert, HEADING, header:ignore, 0, 0, 0
+43, iguanatweaksexpanded:respawn_obelisk_jungle, HEADING, header:ignore, 0, 0, 0
+44, iguanatweaksexpanded:respawn_obelisk_ocean, HEADING, header:ignore, 0, 0, 0
+45, iguanatweaksexpanded:respawn_obelisk_snow, HEADING, header:ignore, 0, 0, 0
+46, iguanatweaksexpanded:respawn_obelisk_stonebrick, HEADING, header:ignore, 0, 0, 0
+47, minecraft:ruined_portal, HEADING, header:ignore, 0, 0, 0
+48, minecraft:ruined_portal_desert, HEADING, header:ignore, 0, 0, 0
+49, minecraft:ruined_portal_jungle, HEADING, header:ignore, 0, 0, 0
+50, minecraft:ruined_portal_mountain, HEADING, header:ignore, 0, 0, 0
+51, minecraft:ruined_portal_nether, HEADING, header:ignore, 0, 0, 0
+52, minecraft:ruined_portal_ocean, HEADING, header:ignore, 0, 0, 0
+53, minecraft:ruined_portal_swamp, HEADING, header:ignore, 0, 0, 0
+54, watching:sand_pyramid, HEADING, header:ignore, 0, 0, 0
+55, battletowers:sandstone_tower, HEADING, header:ignore, 0, 0, 0
+56, minecraft:shipwreck, HEADING, header:ignore, 0, 0, 0
+57, minecraft:shipwreck_beached, HEADING, header:ignore, 0, 0, 0
+58, aether:silver_dungeon, HEADING, header:ignore, 0, 0, 0
+59, battletowers:stone_tower, HEADING, header:ignore, 0, 0, 0
+60, minecraft:stronghold, HEADING, header:ignore, 0, 0, 0
+61, minecraft:swamp_hut, HEADING, header:ignore, 0, 0, 0
+62, minecraft:swamp_hut, MONSTER, minecraft:witch, 1, 1, 1
+63, minecraft:swamp_hut, CREATURE, minecraft:cat, 1, 1, 1
+64, watching:torch_cave, HEADING, header:ignore, 0, 0, 0
+65, watching:torch_tunnel/1x2/torchless_tunnel, HEADING, header:ignore, 0, 0, 0
+66, watching:torch_tunnel/1x2/tunnel, HEADING, header:ignore, 0, 0, 0
+67, watching:torch_tunnel/2x2_tunnel, HEADING, header:ignore, 0, 0, 0
+68, minecraft:trail_ruins, HEADING, header:ignore, 0, 0, 0
+69, battletowers:underground_bamboo_tower, HEADING, header:ignore, 0, 0, 0
+70, battletowers:underground_cobblestone_tower, HEADING, header:ignore, 0, 0, 0
+71, battletowers:underground_red_sandstone_tower, HEADING, header:ignore, 0, 0, 0
+72, battletowers:underground_sandstone_tower, HEADING, header:ignore, 0, 0, 0
+73, battletowers:underground_stone_tower, HEADING, header:ignore, 0, 0, 0
+74, minecraft:village_desert, HEADING, header:ignore, 0, 0, 0
+75, minecraft:village_plains, HEADING, header:ignore, 0, 0, 0
+76, minecraft:village_savanna, HEADING, header:ignore, 0, 0, 0
+77, minecraft:village_snowy, HEADING, header:ignore, 0, 0, 0
+78, minecraft:village_taiga, HEADING, header:ignore, 0, 0, 0
+79, supplementaries:way_sign, HEADING, header:ignore, 0, 0, 0

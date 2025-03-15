@@ -31,6 +31,12 @@
         "minecraft:zombie_horse",
         "minecraft:strider",
         "minecraft:snow_golem",
-        "minecraft:iron_golem"
+        "minecraft:iron_golem",
+        "aether:phyg",
+        "aether:flying_cow",
+        "aether:sheepuff",
+        "aether:moa",
+        "aether:aerbunny",
+        "aether:valkyrie"
     ]
 }

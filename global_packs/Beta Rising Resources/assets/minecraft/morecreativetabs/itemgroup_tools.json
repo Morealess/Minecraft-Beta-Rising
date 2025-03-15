@@ -80,6 +80,36 @@
       "name": "iguanatweaksexpanded:durium_hammer"
     },
     {
+      "name": "iguanatweaksexpanded:quaron_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_hammer"
+    },
+    {
       "name": "minecraft:golden_shovel"
     },
     {
@@ -110,21 +140,6 @@
       "name": "iguanatweaksexpanded:diamond_hammer"
     },
     {
-      "name": "iguanatweaksexpanded:quaron_shovel"
-    },
-    {
-      "name": "iguanatweaksexpanded:quaron_pickaxe"
-    },
-    {
-      "name": "iguanatweaksexpanded:quaron_axe"
-    },
-    {
-      "name": "iguanatweaksexpanded:quaron_hoe"
-    },
-    {
-      "name": "iguanatweaksexpanded:quaron_hammer"
-    },
-    {
       "name": "iguanatweaksexpanded:solarium_shovel"
     },
     {
@@ -138,21 +153,6 @@
     },
     {
       "name": "iguanatweaksexpanded:solarium_hammer"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_shovel"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_pickaxe"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_axe"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_hoe"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_hammer"
     },
     {
       "name": "minecraft:bucket"
@@ -395,7 +395,24 @@
       "name": "minecraft:writable_book"
     },
     {
-      "name": "quark:diamond_heart"
+      "name": "lootbags:loot_bag",
+      "nbt": "{Color:11184810,Loot:\"lootbags:loot_bags/common\",Name:\"Common Lootbag\",Type:\"COMMON\"}"
+    },
+    {
+      "name": "lootbags:loot_bag",
+      "nbt": "{Color:5635925,Loot:\"lootbags:loot_bags/uncommon\",Name:\"Uncommon Lootbag\",Type:\"UNCOMMON\"}"
+    },
+    {
+      "name": "lootbags:loot_bag",
+      "nbt": "{Color:170,Loot:\"lootbags:loot_bags/rare\",Name:\"Rare Lootbag\",Type:\"RARE\"}"
+    },
+    {
+      "name": "lootbags:loot_bag",
+      "nbt": "{Color:11141290,Loot:\"lootbags:loot_bags/epic\",Name:\"Epic Lootbag\",Type:\"EPIC\"}"
+    },
+    {
+      "name": "lootbags:loot_bag",
+      "nbt": "{Color:16755200,Loot:\"lootbags:loot_bags/legendary\",Name:\"Legendary Lootbag\",Type:\"LEGENDARY\"}"
     },
     {
       "name": "quark:soul_bead"
@@ -595,16 +612,16 @@
       "name": "aether:music_disc_ascending_dawn"
     },
     {
-      "name": "aether:music_disc_chinchilla"
-    },
-    {
-      "name": "aether:music_disc_high"
+      "name": "lost_aether_content:music_disc_sovereign_of_the_skies"
     },
     {
       "name": "lost_aether_content:music_disc_legacy"
     },
     {
-      "name": "lost_aether_content:music_disc_sovereign_of_the_skies"
+      "name": "aether:music_disc_chinchilla"
+    },
+    {
+      "name": "aether:music_disc_high"
     },
     {
       "name": "quark:music_disc_endermosh"

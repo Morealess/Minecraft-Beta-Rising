@@ -18,6 +18,7 @@ Beta Rising Changelog:
 - Added the default ancient debris block model. (to use PACP's textures... even tho ancient debris is disabled... why not?)
 - Fixed the copper and netherite ingot textures to match Programmer Art ingots.
 - Fixed zombie pigman texture to match Programmer Art.
+- Disabled original/conflicting bucket textures, as Programmer Art fixes them.
 - Changed the cherry sapling texture to match birch wood logs.
 - Changed oak hanging signs textures for Beta Rising. (stripped logs base/face > logs/planks.)
 - Changed phantom texture to use it's black texture for Beta Rising.

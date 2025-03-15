@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "#moderner_beta:is_taiga",
-    "#moderner_beta:is_tundra"
+    "#moderner_beta:is_tundra",
+    "moderner_beta:beta_frozen_ocean",
+    "moderner_beta:pe_frozen_ocean"
   ]
 }

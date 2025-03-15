@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Initializes some default things that can be overriden"
+  }
+}

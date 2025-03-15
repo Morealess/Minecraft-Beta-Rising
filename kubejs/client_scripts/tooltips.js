@@ -63,6 +63,8 @@ ItemEvents.tooltip((event) => {
     event.add("supplementaries:sack", "§cSlows down if 2 or more are carried");
     event.add("supplementaries:safe", "§7§oKey Lockable");
 
+    event.add(["iguanatweaksexpanded:keego_helmet", "iguanatweaksexpanded:keego_chestplate", "iguanatweaksexpanded:keego_leggings", "iguanatweaksexpanded:keego_boots", "iguanatweaksexpanded:keego_shovel", "iguanatweaksexpanded:keego_pickaxe", "iguanatweaksexpanded:keego_axe", "iguanatweaksexpanded:keego_hoe", "iguanatweaksexpanded:keego_hammer", "iguanatweaksexpanded:keego_sword"], [Text.empty(), "§bMomentum Based"]);
+
     // Hold Shift Tooltip
     event.addAdvanced(Ingredient.of("minecraft:enchanted_book"), (item, advanced, text) => {
       if (event.shift) {

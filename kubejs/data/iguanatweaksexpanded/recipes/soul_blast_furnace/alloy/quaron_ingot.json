@@ -1,0 +1,22 @@
+{
+  "type": "iguanatweaksexpanded:multi_item_soul_blasting",
+  "category": "soul_blast_furnace_misc",
+  "cookingtime": 1200,
+  "experience": 8.0,
+  "ingredients": [
+    {
+      "tag": "minecraft:unrefined_iron_ores"
+    },
+    {
+      "item": "minecraft:amethyst_cluster"
+    },
+    {
+      "item": "minecraft:amethyst_cluster"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "output_increase": 0.3,
+  "result": "iguanatweaksexpanded:quaron_ingot"
+}

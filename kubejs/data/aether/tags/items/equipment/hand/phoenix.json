@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#aether:equipment/hand/tools/phoenix",
+        "lost_aether_content:phoenix_sword"
+    ]
+}

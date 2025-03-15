@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "I": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    "CI",
+    "IC"
+  ],
+  "result": {
+    "count": 2,
+    "item": "quark:permafrost"
+  },
+  "show_notification": true
+}

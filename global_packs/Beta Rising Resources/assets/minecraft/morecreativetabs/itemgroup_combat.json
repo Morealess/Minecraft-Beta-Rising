@@ -20,19 +20,19 @@
       "name": "iguanatweaksexpanded:durium_sword"
     },
     {
+      "name": "iguanatweaksexpanded:quaron_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_sword"
+    },
+    {
       "name": "minecraft:golden_sword"
     },
     {
       "name": "minecraft:diamond_sword"
     },
     {
-      "name": "iguanatweaksexpanded:quaron_sword"
-    },
-    {
       "name": "iguanatweaksexpanded:solarium_sword"
-    },
-    {
-      "name": "iguanatweaksexpanded:keego_sword"
     },
     {
       "name": "minecraft:leather_helmet"
@@ -47,9 +47,6 @@
       "name": "minecraft:leather_boots"
     },
     {
-      "name": "aether:leather_gloves"
-    },
-    {
       "name": "minecraft:chainmail_helmet"
     },
     {
@@ -60,9 +57,6 @@
     },
     {
       "name": "minecraft:chainmail_boots"
-    },
-    {
-      "name": "aether:chainmail_gloves"
     },
     {
       "name": "minecraft:iron_helmet"
@@ -77,9 +71,6 @@
       "name": "minecraft:iron_boots"
     },
     {
-      "name": "aether:iron_gloves"
-    },
-    {
       "name": "iguanatweaksexpanded:durium_helmet"
     },
     {
@@ -90,36 +81,6 @@
     },
     {
       "name": "iguanatweaksexpanded:durium_boots"
-    },
-    {
-      "name": "minecraft:golden_helmet"
-    },
-    {
-      "name": "minecraft:golden_chestplate"
-    },
-    {
-      "name": "minecraft:golden_leggings"
-    },
-    {
-      "name": "minecraft:golden_boots"
-    },
-    {
-      "name": "aether:golden_gloves"
-    },
-    {
-      "name": "minecraft:diamond_helmet"
-    },
-    {
-      "name": "minecraft:diamond_chestplate"
-    },
-    {
-      "name": "minecraft:diamond_leggings"
-    },
-    {
-      "name": "minecraft:diamond_boots"
-    },
-    {
-      "name": "aether:diamond_gloves"
     },
     {
       "name": "iguanatweaksexpanded:quaron_helmet"
@@ -134,18 +95,6 @@
       "name": "iguanatweaksexpanded:quaron_boots"
     },
     {
-      "name": "iguanatweaksexpanded:solarium_helmet"
-    },
-    {
-      "name": "iguanatweaksexpanded:solarium_chestplate"
-    },
-    {
-      "name": "iguanatweaksexpanded:solarium_leggings"
-    },
-    {
-      "name": "iguanatweaksexpanded:solarium_boots"
-    },
-    {
       "name": "iguanatweaksexpanded:keego_helmet"
     },
     {
@@ -156,6 +105,42 @@
     },
     {
       "name": "iguanatweaksexpanded:keego_boots"
+    },
+    {
+      "name": "minecraft:golden_helmet"
+    },
+    {
+      "name": "minecraft:golden_chestplate"
+    },
+    {
+      "name": "minecraft:golden_leggings"
+    },
+    {
+      "name": "minecraft:golden_boots"
+    },
+    {
+      "name": "minecraft:diamond_helmet"
+    },
+    {
+      "name": "minecraft:diamond_chestplate"
+    },
+    {
+      "name": "minecraft:diamond_leggings"
+    },
+    {
+      "name": "minecraft:diamond_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_boots"
     },
     {
       "name": "minecraft:turtle_helmet"
@@ -227,10 +212,10 @@
       "name": "iguanatweaksexpanded:torch_arrow"
     },
     {
-      "name": "minecraft:spectral_arrow"
+      "name": "supplementaries:rope_arrow"
     },
     {
-      "name": "supplementaries:rope_arrow"
+      "name": "minecraft:spectral_arrow"
     },
     {
       "name": "minecraft:tipped_arrow",

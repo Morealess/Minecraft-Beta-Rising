@@ -3,6 +3,7 @@
         "minecraft:chicken",
         "minecraft:cat",
         "minecraft:fox",
-        "minecraft:rabbit"
+        "minecraft:rabbit",
+        "aether:aerbunny"
     ]
 }

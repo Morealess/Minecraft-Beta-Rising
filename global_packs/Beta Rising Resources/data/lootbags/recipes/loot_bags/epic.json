@@ -1,0 +1,14 @@
+{
+  "type": "lootbags:loot",
+  "name": "Epic Lootbag",
+  "color": "#AA00AA",
+  "rarity": "EPIC",
+  "output": {
+    "entries": [
+      {
+        "weight": 1,
+        "stack": "supplementaries:cartographers_quill"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Common Lootbag",
+  "color": "#AAAAAA",
+  "rarity": "COMMON",
+  "output": {
+    "table": "nova_structures:chests/ruin_loot_master"
+  }
+}

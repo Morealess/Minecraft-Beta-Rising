@@ -5,6 +5,21 @@
   "tab_stack": { "name": "aether:valkrie_chestplate"},
   "tab_items": [
     {
+      "name": "aether:leather_gloves"
+    },
+    {
+      "name": "aether:chainmail_gloves"
+    },
+    {
+      "name": "aether:iron_gloves"
+    },
+    {
+      "name": "aether:golden_gloves"
+    },
+    {
+      "name": "aether:diamond_gloves"
+    },
+    {
       "name": "aether:zanite_helmet"
     },
     {
@@ -153,6 +168,9 @@
     },
     {
       "name": "lost_aether_content:phoenix_cape"
+    },
+    {
+      "name": "aether:golden_feather"
     },
     {
       "name": "aether:regeneration_stone"

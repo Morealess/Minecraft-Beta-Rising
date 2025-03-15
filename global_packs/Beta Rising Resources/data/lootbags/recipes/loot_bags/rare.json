@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Rare Lootbag",
+  "color": "#0000AA",
+  "rarity": "RARE",
+  "output": {
+    "table": "minecraft:chests/ancient_city"
+  }
+}

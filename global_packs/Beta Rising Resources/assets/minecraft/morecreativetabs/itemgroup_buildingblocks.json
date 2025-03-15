@@ -131,6 +131,21 @@
       "name": "minecraft:cobblestone_wall"
     },
     {
+      "name": "quark:cobblestone_bricks"
+    },
+    {
+      "name": "quark:cobblestone_bricks_stairs"
+    },
+    {
+      "name": "quark:cobblestone_bricks_slab"
+    },
+    {
+      "name": "quark:cobblestone_bricks_wall"
+    },
+    {
+      "name": "quark:cobblestone_bricks"
+    },
+    {
       "name": "minecraft:mossy_cobblestone"
     },
     {
@@ -143,6 +158,18 @@
       "name": "minecraft:mossy_cobblestone_wall"
     },
     {
+      "name": "quark:mossy_cobblestone_bricks"
+    },
+    {
+      "name": "quark:mossy_cobblestone_bricks_stairs"
+    },
+    {
+      "name": "quark:mossy_cobblestone_bricks_slab"
+    },
+    {
+      "name": "quark:mossy_cobblestone_bricks_wall"
+    },
+    {
       "name": "minecraft:smooth_stone"
     },
     {
@@ -152,10 +179,10 @@
       "name": "quark:sturdy_stone"
     },
     {
-      "name": "minecraft:cobblestone"
+      "name": "minecraft:stone_bricks"
     },
     {
-      "name": "minecraft:stone_bricks"
+      "name": "minecraft:cracked_stone_bricks"
     },
     {
       "name": "minecraft:stone_brick_stairs"
@@ -209,6 +236,24 @@
       "name": "minecraft:polished_granite"
     },
     {
+      "name": "quark:granite_bricks"
+    },
+    {
+      "name": "quark:chiseled_granite_bricks"
+    },
+    {
+      "name": "quark:granite_pillar"
+    },
+    {
+      "name": "quark:granite_bricks_stairs"
+    },
+    {
+      "name": "quark:granite_bricks_slab"
+    },
+    {
+      "name": "quark:granite_bricks_wall"
+    },
+    {
       "name": "minecraft:polished_granite_stairs"
     },
     {
@@ -230,6 +275,24 @@
       "name": "minecraft:polished_diorite"
     },
     {
+      "name": "quark:diorite_bricks"
+    },
+    {
+      "name": "quark:chiseled_diorite_bricks"
+    },
+    {
+      "name": "quark:diorite_pillar"
+    },
+    {
+      "name": "quark:diorite_bricks_stairs"
+    },
+    {
+      "name": "quark:diorite_bricks_slab"
+    },
+    {
+      "name": "quark:diorite_bricks_wall"
+    },
+    {
       "name": "minecraft:polished_diorite_stairs"
     },
     {
@@ -249,6 +312,24 @@
     },
     {
       "name": "minecraft:polished_andesite"
+    },
+    {
+      "name": "quark:andesite_bricks"
+    },
+    {
+      "name": "quark:chiseled_andesite_bricks"
+    },
+    {
+      "name": "quark:andesite_pillar"
+    },
+    {
+      "name": "quark:andesite_bricks_stairs"
+    },
+    {
+      "name": "quark:andesite_bricks_slab"
+    },
+    {
+      "name": "quark:andesite_bricks_wall"
     },
     {
       "name": "minecraft:polished_andesite_stairs"
@@ -279,6 +360,87 @@
     },
     {
       "name": "quark:permafrost_bricks_wall"
+    },
+    {
+      "name": "minecraft:dripstone_block"
+    },
+    {
+      "name": "quark:dripstone_block_stairs"
+    },
+    {
+      "name": "quark:dripstone_block_slab"
+    },
+    {
+      "name": "quark:dripstone_block_wall"
+    },
+    {
+      "name": "quark:polished_dripstone"
+    },
+    {
+      "name": "quark:dripstone_bricks"
+    },
+    {
+      "name": "quark:chiseled_dripstone_bricks"
+    },
+    {
+      "name": "quark:dripstone_pillar"
+    },
+    {
+      "name": "quark:dripstone_bricks"
+    },
+    {
+      "name": "quark:dripstone_bricks_stairs"
+    },
+    {
+      "name": "quark:dripstone_bricks_slab"
+    },
+    {
+      "name": "quark:dripstone_bricks_wall"
+    },
+    {
+      "name": "quark:polished_dripstone_stairs"
+    },
+    {
+      "name": "quark:polished_dripstone_slab"
+    },
+    {
+      "name": "minecraft:tuff"
+    },
+    {
+      "name": "quark:tuff_stairs"
+    },
+    {
+      "name": "quark:tuff_slab"
+    },
+    {
+      "name": "quark:tuff_wall"
+    },
+    {
+      "name": "quark:polished_tuff"
+    },
+    {
+      "name": "quark:tuff_bricks"
+    },
+    {
+      "name": "quark:chiseled_tuff_bricks"
+    },
+    {
+      "name": "quark:tuff_pillar"
+    },
+    {
+      "name": "quark:tuff_bricks_stairs"
+    },
+    {
+      "name": "quark:tuff_bricks_slab"
+    },
+    {
+      "name": "quark:tuff_bricks_wall"
+    },
+    {
+      "name": "quark:polished_tuff_stairs"
+    },
+    {
+      "name": "quark:polished_tuff_slab"
     },
     {
       "name": "minecraft:deepslate"
@@ -368,6 +530,18 @@
       "name": "minecraft:brick_wall"
     },
     {
+      "name": "quark:dirt_bricks"
+    },
+    {
+      "name": "quark:dirt_bricks_stairs"
+    },
+    {
+      "name": "quark:dirt_bricks_slab"
+    },
+    {
+      "name": "quark:dirt_bricks_wall"
+    },
+    {
       "name": "minecraft:packed_mud"
     },
     {
@@ -422,6 +596,18 @@
       "name": "minecraft:cut_sandstone_slab"
     },
     {
+      "name": "quark:sandstone_bricks"
+    },
+    {
+      "name": "quark:sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:sandstone_bricks_wall"
+    },
+    {
       "name": "minecraft:red_sandstone"
     },
     {
@@ -450,6 +636,18 @@
     },
     {
       "name": "minecraft:cut_red_sandstone_slab"
+    },
+    {
+      "name": "quark:red_sandstone_bricks"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_stairs"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_slab"
+    },
+    {
+      "name": "quark:red_sandstone_bricks_wall"
     },
     {
       "name": "quark:soul_sandstone"
@@ -519,6 +717,18 @@
     },
     {
       "name": "minecraft:netherrack"
+    },
+    {
+      "name": "quark:netherrack_bricks"
+    },
+    {
+      "name": "quark:netherrack_bricks_stairs"
+    },
+    {
+      "name": "quark:netherrack_bricks_slab"
+    },
+    {
+      "name": "quark:netherrack_bricks_wall"
     },
     {
       "name": "minecraft:nether_bricks"
@@ -635,6 +845,60 @@
       "name": "supplementaries:blackstone_tile_wall"
     },
     {
+      "name": "quark:blackstone_bricks"
+    },
+    {
+      "name": "quark:blackstone_bricks_stairs"
+    },
+    {
+      "name": "quark:blackstone_bricks_slab"
+    },
+    {
+      "name": "quark:blackstone_bricks_wall"
+    },
+    {
+      "name": "quark:myalite"
+    },
+    {
+      "name": "quark:myalite_stairs"
+    },
+    {
+      "name": "quark:myalite_slab"
+    },
+    {
+      "name": "quark:myalite_wall"
+    },
+    {
+      "name": "quark:polished_myalite"
+    },
+    {
+      "name": "quark:myalite_bricks"
+    },
+    {
+      "name": "quark:chiseled_myalite_bricks"
+    },
+    {
+      "name": "quark:myalite_pillar"
+    },
+    {
+      "name": "quark:myalite_bricks_stairs"
+    },
+    {
+      "name": "quark:myalite_bricks_slab"
+    },
+    {
+      "name": "quark:myalite_bricks_wall"
+    },
+    {
+      "name": "quark:polished_myalite_stairs"
+    },
+    {
+      "name": "quark:polished_myalite_slab"
+    },
+    {
+      "name": "quark:dusky_myalite"
+    },
+    {
       "name": "minecraft:end_stone"
     },
     {
@@ -698,6 +962,18 @@
       "name": "minecraft:iron_block"
     },
     {
+      "name": "quark:raw_iron_bricks"
+    },
+    {
+      "name": "quark:raw_iron_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_iron_bricks_slab"
+    },
+    {
+      "name": "quark:raw_iron_bricks_wall"
+    },
+    {
       "name": "minecraft:iron_bars"
     },
     {
@@ -753,6 +1029,18 @@
     },
     {
       "name": "minecraft:gold_block"
+    },
+    {
+      "name": "quark:raw_gold_bricks"
+    },
+    {
+      "name": "quark:raw_gold_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_gold_bricks_slab"
+    },
+    {
+      "name": "quark:raw_gold_bricks_wall"
     },
     {
       "name": "quark:gold_bars"
@@ -819,6 +1107,18 @@
     },
     {
       "name": "minecraft:copper_block"
+    },
+    {
+      "name": "quark:raw_copper_bricks"
+    },
+    {
+      "name": "quark:raw_copper_bricks_stairs"
+    },
+    {
+      "name": "quark:raw_copper_bricks_slab"
+    },
+    {
+      "name": "quark:raw_copper_bricks_wall"
     },
     {
       "name": "minecraft:cut_copper"

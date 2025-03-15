@@ -1,0 +1,6 @@
+The original "ore block" drops.
+
+Changelog:
+
+-Restores drops for copper, gold, iron and durium ores.
+-Adds recipes for raw ore blocks.

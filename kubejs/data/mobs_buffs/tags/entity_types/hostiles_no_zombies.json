@@ -22,9 +22,22 @@
         "minecraft:silverfish",
         "minecraft:slime",
         "minecraft:stray",
+        "minecraft:vex",
         "minecraft:vindicator",
-        "minecraft:warden",
         "minecraft:witch",
-        "minecraft:zoglin"
+        "minecraft:wither_skeleton",
+        "minecraft:zoglin",
+        "quark:foxhound",
+        "quark:wraith",
+        "aether:blue_swet",
+        "aether:golden_swet",
+        "aether:whirlwind",
+        "aether:evil_whirlwind",
+        "aether:aechor_plant",
+        "aether:cockatrice",
+        "aether:zephyr",
+        "aether:mimic",
+        "aether:sentry",
+        "aether:fire_minion"
     ]
 }

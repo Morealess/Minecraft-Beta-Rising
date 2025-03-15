@@ -1,4 +1,8 @@
 {
+	"options.title": "",
+	"options.chat.title": "Multiplayer Settings...",
+	"options.accessibility.title": "Snooper Settings...",
+
 	"block.minecraft.powered_rail": "Golden Powered Rail",
     
     "block.minecraft.ancient_debris": "Netherite Ore",
@@ -29,6 +33,5 @@
 	"morecreativetabs.aether_armor_and_accessories": "Aether Armor & Accessories",
 	"morecreativetabs.aether_food_and_drinks": "Aether Food & Drinks",
 	"morecreativetabs.aether_ingredients": "Aether Ingredients",
-	"morecreativetabs.aether_spawn_eggs": "Aether Spawn Eggs",
-	"morecreativetabs.disabled": "Disabled"
+	"morecreativetabs.aether_spawn_eggs": "Aether Spawn Eggs"
 }

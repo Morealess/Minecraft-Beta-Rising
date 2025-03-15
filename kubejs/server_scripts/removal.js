@@ -434,28 +434,15 @@ global.itemsToErase = [
     'minecraft:music_disc_5',
 
     // Too Many Blocks
-    '/quark:granite(.*)/',
-    '/quark:diorite(.*)/',
-    '/quark:andesite(.*)/',
-    '/quark:(.*)calcite(.*)/',
-    '/quark:(.*)dripstone(.*)/',
-    '/quark:(.*)tuff(.*)/',
-    
     'minecraft:calcite',
-    'minecraft:tuff',
+    '/quark:(.*)calcite(.*)/',
 
-    '/quark:raw(.*)bricks(.*)/',
-    '/quark:(.*)sandstone_bricks(.*)/',
-    '/quark:(.*)cobblestone_bricks(.*)/',
-    '/quark:dirt_bricks(.*)/',
-    '/quark:netherrack_bricks(.*)/',
+    'minecraft:shroomlight',
 
     'minecraft:polished_blackstone_pressure_plate',
     'minecraft:polished_blackstone_button',
     'aether:holystone_button',
     'aether:holystone_pressure_plate',
-    
-    'minecraft:shroomlight',
 
     // Wood
     '/quark:(.*)vertical(.*)/',
@@ -474,20 +461,9 @@ global.itemsToErase = [
     '/quark:(.*)jasper(.*)/',
     '/quark:(.*)shale(.*)/',
 
-    'quark:polished_myalite',
-    'quark:polished_myalite_slab',
-    'quark:polished_myalite_stairs',
-    'quark:myalite_wall',
-    'quark:myalite_slab',
-    'quark:myalite_stairs',
-    'quark:myalite_bricks',
-    'quark:myalite_bricks_wall',
-    'quark:myalite_bricks_slab',
-    'quark:myalite_bricks_stairs',
-    'quark:chiseled_myalite_bricks',
-    'quark:myalite_pillar',
-
-    // Misc 
+    // Misc
+    'quark:diamond_heart',
+    'quark:ravager_hide',
     'quark:forgotten_hat',
     'quark:torch_arrow',
     'quark:pickarang',
@@ -539,17 +515,16 @@ global.itemsToErase = [
     'quark:gunpowder_sack',
     'quark:sugar_cane_block',
     'quark:cactus_block',
+    'quark:bonded_ravager_hide',
 
     // Spawn Eggs // Mobs
     'quark:forgotten_spawn_egg',
     'quark:shiba_spawn_egg',
     'quark:toretoise_spawn_egg',
     'quark:crab_spawn_egg',
-    //'quark:stoneling_spawn_egg',
-
+    'quark:stoneling_spawn_egg',
     'supplementaries:red_merchant_spawn_egg',
     'sleep_tight:bedbug_spawn_egg',
-
     'minecraft:husk_spawn_egg',
     'minecraft:stray_spawn_egg',
     //'minecraft:polar_bear_spawn_egg',

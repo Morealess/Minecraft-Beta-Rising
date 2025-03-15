@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#aether:equipment/hand/tools/skyroot",
+        "aether:skyroot_sword"
+    ]
+}

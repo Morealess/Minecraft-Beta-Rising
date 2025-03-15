@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:zanite_helmet",
+        "aether:zanite_chestplate",
+        "aether:zanite_leggings",
+        "aether:zanite_boots"
+    ]
+}

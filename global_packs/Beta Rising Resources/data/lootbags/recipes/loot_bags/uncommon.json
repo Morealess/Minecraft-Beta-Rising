@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Uncommon Lootbag",
+  "color": "#55FF55",
+  "rarity": "UNCOMMON",
+  "output": {
+    "table": "minecraft:chests/simple_dungeon"
+  }
+}

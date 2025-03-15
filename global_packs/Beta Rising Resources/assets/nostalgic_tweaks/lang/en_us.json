@@ -1,3 +1,5 @@
 {
-  "gui.nostalgic_tweaks.screen.pause.achievements": "Advancements"
+  "gui.nostalgic_tweaks.screen.pause.achievements": "Advancements",
+  "gui.nostalgic_tweaks.screen.death.game_over": "You Died!",
+  "gui.nostalgic_tweaks.screen.death.title_menu": "Title Screen"
 }

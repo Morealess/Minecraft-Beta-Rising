@@ -92,6 +92,9 @@
       "name": "minecraft:andesite"
     },
     {
+      "name": "minecraft:tuff"
+    },
+    {
       "name": "minecraft:dripstone_block"
     },
     {
@@ -167,16 +170,16 @@
       "name": "minecraft:deepslate_copper_ore"
     },
     {
-      "name": "iguanatweaksexpanded:sand_durium_ore"
-    },
-    {
-      "name": "iguanatweaksexpanded:gravel_durium_ore"
+      "name": "iguanatweaksexpanded:dirt_durium_ore"
     },
     {
       "name": "iguanatweaksexpanded:clay_durium_ore"
     },
     {
-      "name": "iguanatweaksexpanded:dirt_durium_ore"
+      "name": "iguanatweaksexpanded:gravel_durium_ore"
+    },
+    {
+      "name": "iguanatweaksexpanded:sand_durium_ore"
     },
     {
       "name": "iguanatweaksexpanded:durium_ore"
@@ -221,13 +224,13 @@
       "name": "minecraft:nether_gold_ore"
     },
     {
+      "name": "minecraft:nether_quartz_ore"
+    },
+    {
       "name": "iguanatweaksexpanded:soul_sand_hellish_coal_ore"
     },
     {
       "name": "iguanatweaksexpanded:soul_soil_hellish_coal_ore"
-    },
-    {
-      "name": "minecraft:nether_quartz_ore"
     },
     {
       "name": "minecraft:raw_iron_block"

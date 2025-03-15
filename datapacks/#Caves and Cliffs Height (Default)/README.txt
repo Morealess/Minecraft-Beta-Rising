@@ -1,7 +1,5 @@
-Because the world height has been reduced, and to use this datapack (ideally), you probably will want to do this.
+The world height has been reduced! (And it needed to be accounted for with these changes,) so to *ideally* use this datapack, you probably will want to do this.
 
-Edit these 2 Nostalgic Tweaks' config values and revert them back to default:
+Edit this config from Nostalgic Tweaks back to its default value:
 
     "voidParticleStart": 17 > -47
-    "voidParticleDensity": 10 > 20
-

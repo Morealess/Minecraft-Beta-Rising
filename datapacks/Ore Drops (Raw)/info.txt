@@ -1,0 +1,6 @@
+The modern "raw item" drops.
+
+Changelog:
+
+-Overrides all files from the global datapack "Ore Drops (Block)" back to their defaults.
+-Changes copper ore to drop 1 raw copper rather than 2-5, to match iron/gold.

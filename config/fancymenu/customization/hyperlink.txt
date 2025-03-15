@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:6209d87d-5edb-4ca3-b6d4-c500ded22e27-1739401067971] = [groups:][instances:]
+  [loading_requirement_container_meta:cac60a2b-bb08-489d-adee-515178391e0b-1739950082363] = [groups:][instances:]
 }
 
 customization {
@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   interactable = true
-  source = [Minecraft: Beta Rising v2.0](https://www.curseforge.com/minecraft/modpacks/beta-rising)
+  source = [Minecraft: Beta Rising v2.1](https://www.curseforge.com/minecraft/modpacks/beta-rising)
   source_mode = direct
   shadow = true
   scale = 1.0

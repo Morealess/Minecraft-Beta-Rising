@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#aether:equipment/hand/tools/holystone",
+        "aether:holystone_sword"
+    ]
+}

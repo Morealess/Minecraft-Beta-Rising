@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:obsidian_helmet",
+        "aether:obsidian_chestplate",
+        "aether:obsidian_leggings",
+        "aether:obsidian_boots"
+    ]
+}

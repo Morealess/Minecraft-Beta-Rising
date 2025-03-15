@@ -1,0 +1,21 @@
+{
+  "type": "iguanatweaksexpanded:multi_item_blasting",
+  "category": "blast_furnace_misc",
+  "cookingtime": 800,
+  "experience": 8.0,
+  "ingredients": [
+    {
+      "tag": "minecraft:unrefined_iron_ores"
+    },
+    {
+      "item": "minecraft:amethyst_cluster"
+    },
+    {
+      "item": "minecraft:amethyst_cluster"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result": "iguanatweaksexpanded:quaron_ingot"
+}

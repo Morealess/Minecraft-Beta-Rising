@@ -60,8 +60,8 @@ ServerEvents.tags('item', event => {
     event.add('minecraft:villager_plantable_seeds', ['iguanatweaksreborn:carrot_seeds', 'iguanatweaksreborn:rooted_potato'])
     event.add('forge:seeds', ['iguanatweaksreborn:sweet_berry_seeds', 'iguanatweaksreborn:carrot_seeds', 'iguanatweaksreborn:rooted_potato'])
 
-    event.remove('forge:stone', 'quark:myalite')
-    event.add('minecraft:stone_tool_materials', ['#forge:stone', '#forge:cobblestone', 'minecraft:dripstone_block', 'minecraft:tuff', 'minecraft:calcite'])
+    event.remove('forge:stone', 'quark:myalite', 'quark:polished_myalite')
+    event.add('minecraft:stone_tool_materials', ['#forge:stone', '#forge:cobblestone', 'minecraft:dripstone_block', 'quark:polished_dripstone', 'minecraft:tuff', 'quark:polished_tuff','minecraft:calcite', 'quark:polished_calcite'])
 
     event.removeAll('amendments:sets_on_fire')
 

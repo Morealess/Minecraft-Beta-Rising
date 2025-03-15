@@ -1,0 +1,31 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:skeleton_horse",
+        "minecraft:zombie_horse",
+        "minecraft:horse",
+        "minecraft:camel",
+        "minecraft:llama",
+        "minecraft:panda",
+        "minecraft:cat",
+        "minecraft:ocelot",
+        "minecraft:chicken",
+        "minecraft:cow",
+        "minecraft:donkey",
+        "minecraft:fox",
+        "minecraft:goat",
+        "minecraft:mule",
+        "minecraft:mooshroom",
+        "minecraft:pig",
+        "minecraft:sheep",
+        "minecraft:sniffer",
+        "minecraft:strider",
+        "minecraft:pufferfish",
+        "aether:phyg",
+        "aether:flying_cow",
+        "aether:sheepuff",
+        "aether:moa",
+        "aether:aerbunny",
+        "aether:cockatrice"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "pattern": [
+    "111",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "supplementaries:rope"
+    },
+    "1": {
+      "item": "minecraft:light_gray_carpet"
+    }
+  },
+  "result": {
+    "item": "sleep_tight:hammock_light_gray"
+  }
+}

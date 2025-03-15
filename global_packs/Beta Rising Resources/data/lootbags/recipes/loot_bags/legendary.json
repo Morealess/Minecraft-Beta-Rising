@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Legendary Lootbag",
+  "color": "#FFAA00",
+  "rarity": "LEGENDARY",
+  "output": {
+    "table": "minecraft:chests/shipwreck_treasure"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#aether:equipment/hand/tools/gravitite",
+        "aether:gravitite_sword"
+    ]
+}

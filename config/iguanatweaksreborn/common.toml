@@ -494,7 +494,7 @@
 		#Disables normal skeletons from spawning in Fortresses. Requires a minecraft restart
 		"Remove skeletons from Fortresses" = false
 		#Enables a data pack that makes Guardians spawn in deep oceans. These guardians have half health compared to monument guardians.
-		"Guardians in Deep Oceans" = true
+		"Guardians in Deep Oceans" = false
 
 	#Changes to mob spawn with Serene Seasons installed
 	[Mobs."Season Spawning"]
@@ -504,16 +504,16 @@
 		[Mobs."Season Spawning".Despawning]
 			#Despawn Distance on winter, note that lower values increase the mobs around the player.
 			#Range: > -2147483648
-			Winter = 48
+			Winter = 96
 			#Despawn Distance on spring, note that lower values increase the mobs around the player.
 			#Range: > -2147483648
-			Spring = 64
+			Spring = 128
 			#Despawn Distance on summer, note that lower values increase the mobs around the player.
 			#Range: > -2147483648
-			Summer = 64
+			Summer = 128
 			#Despawn Distance on autumn, note that lower values increase the mobs around the player.
 			#Range: > -2147483648
-			Autumn = 64
+			Autumn = 128
 
 		[Mobs."Season Spawning"."Hostile Cap"]
 			#Hostile Mobs cap on winter.
@@ -702,7 +702,7 @@
 	#Change, through data packs, the properties of blocks, from hardness to explosion resistance to speed and jump factors
 	[Mining."Block Data"]
 		#If true, a data pack is enabled that changes various blocks hardness, like ores and crops, and some blocks slowdown.
-		"Block Data Data Pack" = true
+		"Block Data Data Pack" = false
 
 	#Various changes for different materials and ores.
 	[Mining."Materials and ores"]
@@ -920,7 +920,7 @@
 	#Crops tweaks and less yield from crops
 	"Enable Crops" = true
 	#Slower Hoes and more fragile. Hoes Properties are controlled via json in this feature's folder
-	"Enable Hoes" = false
+	"Enable Hoes" = true
 	#Increase uses for bone meal and nerf its use on some plants
 	"Enable Bone meal" = true
 	#Slower Plants (non-crops) growing. Plants properties are controlled via json in this feature's folder
@@ -986,7 +986,7 @@
 	#Slower Hoes and more fragile. Hoes Properties are controlled via json in this feature's folder
 	[Farming.Hoes]
 		#Range: > 1
-		"Durability used on till" = 2
+		"Durability used on till" = 1
 		"Trigger only for farmland" = true
 
 	#Increase uses for bone meal and nerf its use on some plants
@@ -1011,7 +1011,7 @@
 			#Range: 0.0 ~ 25.0
 			Minimum = 2.0
 			#Range: 0.0 ~ 25.0
-			Maximum = 3.0
+			Maximum = 5.0
 
 	#Slower Plants (non-crops) growing. Plants properties are controlled via json in this feature's folder
 	[Farming."Plants Growth"]
@@ -1083,7 +1083,7 @@
 		#Respiration decreases air consumption by 50% per level instead of 100%.
 		"Respiration Nerf" = false
 		#Change the bonus efficiency formula from `lvl*lvl+1` to `tool_efficiency * (0.5*lvl)`
-		"Better Efficiency Formula" = false
+		"Better Efficiency Formula" = true
 		#The ore_drops formula is changed to 20%/50%/85%/125% drop increase from 33%/75%/120%/166%
 		"Nerf fortune" = true
 		#Set arrow's damage increase with the Power enchantment (vanilla is 0.5). If set to a value != 0.5 the flat 0.5 bonus is also removed. Set to 0.5 to disable.

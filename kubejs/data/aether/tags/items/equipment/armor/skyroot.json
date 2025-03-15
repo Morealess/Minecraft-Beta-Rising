@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:skyroot_helmet",
+        "aether:skyroot_chestplate",
+        "aether:skyroot_leggings",
+        "aether:skyroot_boots"
+    ]
+}

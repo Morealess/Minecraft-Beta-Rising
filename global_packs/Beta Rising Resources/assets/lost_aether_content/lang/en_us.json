@@ -1,0 +1,10 @@
+{
+	"item.lost_aether_content.music_disc_legacy": "Legacy Music Disc",
+	"item.lost_aether_content.music_disc_legacy.desc": "Jon Lachney - Legacy",
+
+	"item.lost_aether_content.music_disc_sovereign_of_the_skies": "Welcoming Skies Music Disc",
+	"item.lost_aether_content.music_disc_sovereign_of_the_skies.desc": "Voyed - Welcoming Skies",
+
+	"lore.item.lost_aether_content.music_disc_legacy": "A music disk that plays Legacy by xJonL.",
+	"lore.item.lost_aether_content.music_disc_sovereign_of_the_skies": "A music disk that plays Welcoming Skies by Voyed."
+}

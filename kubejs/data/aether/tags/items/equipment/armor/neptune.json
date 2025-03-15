@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aether:neptune_helmet",
+        "aether:neptune_chestplate",
+        "aether:neptune_leggings",
+        "aether:neptune_boots"
+    ]
+}

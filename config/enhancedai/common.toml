@@ -163,7 +163,7 @@
 		#If true cave spiders' thrown web will poison entities hit like when they hit the entity melee.
 		"Cave spiders poisonous webs" = true
 		#If true, spiders will gain a speed boost when they hit the target.
-		"Apply Speed on hit" = true
+		"Apply Speed on hit" = false
 		#If true entities will get slowness when hit.
 		"Apply Slowness" = true
 
@@ -556,9 +556,9 @@
 		#How far away can the mobs see the player. This overrides the vanilla value (16 for most mobs). Setting 'Max' to 0 will leave the follow range as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute. Only mobs in the entity type tag `enhancedai:change_follow_range` will be affected by this override
 		[Mobs.Targeting."Follow Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 32.0
+			Minimum = 24.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 32.0
+			Maximum = 24.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'. Only mobs in the entity type tag `enhancedai:apply_xray` will be affected by this override.
 		[Mobs.Targeting."XRay Range Override"]
@@ -719,7 +719,7 @@
 	[Drowneds."Drowned Swimming"]
 		#Multiplier for the swim speed of Drowneds. Note that the swim speed is also affected by the Movement Feature. Set to 0 to disable the multiplier.
 		#Range: 0.0 ~ 4.0
-		"Swim Speed Multiplier" = 0.25
+		"Swim Speed Multiplier" = 0.15
 
 [Creepers]
 	#Various changes to Creepers exploding. Ignoring Walls, Walking Fuse and smarter exploding based off explosion size. Only creepers in the enhancedai:change_creeper_swell entity type tag are affected by this feature.
@@ -894,7 +894,7 @@
 		"Flee speed Multiplier Far" = 1.0
 		#Movement speed multiplier when aggroed.
 		#Range: 0.0 ~ 4.0
-		"Movement Speed Multiplier" = 1.25
+		"Movement Speed Multiplier" = 1.1
 		#Animals' knockback attribute will be set to this value.
 		#Range: 0.0 ~ 128.0
 		Knockback = 1.25

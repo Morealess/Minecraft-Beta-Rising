@@ -126,7 +126,7 @@
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = false
+	"Raw Metal Bricks" = true
 	Rope = false
 	"Shear Vines" = true
 	Shingles = true
@@ -141,7 +141,7 @@
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
 	"Wooden Posts" = false
-	"More Stone Variants" = false
+	"More Stone Variants" = true
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -207,15 +207,15 @@
 		#This also comes with a utility recipe for Red Nether Bricks
 		"Enable Blue Nether Bricks" = true
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
-		"Enable Sandstone Bricks" = false
+		"Enable Sandstone Bricks" = true
 		#This also includes Mossy Cobblestone Bricks
-		"Enable Cobblestone Bricks" = false
+		"Enable Cobblestone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Blackstone Bricks" = false
+		"Enable Blackstone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Dirt Bricks" = false
+		"Enable Dirt Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Netherrack Bricks" = false
+		"Enable Netherrack Bricks" = true
 
 	[building.rainbow_lamps]
 		"Light Level" = 15
@@ -521,7 +521,7 @@
 	"Double Door Opening" = true
 	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = false
 	"Gold Tools Have Fortune" = false
@@ -604,7 +604,7 @@
 		#DO NOT ship enabled this in a modpack, please.
 		"Custom Emote Debug" = false
 		"Button Shift X" = 0
-		"Button Shift Y" = 0
+		"Button Shift Y" = -1000
 
 	[tweaks.enhanced_ladders]
 		#Allowed values: (,0]
@@ -777,7 +777,7 @@
 	"Glimmering Weald" = false
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
-	"New Stone Types" = false
+	"New Stone Types" = true
 	"No More Lava Pockets" = false
 	Permafrost = true
 	"Spiral Spires" = true
@@ -1172,9 +1172,9 @@
 			Dimensions = ["minecraft:the_nether"]
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
-		"Enable Jasper" = true
-		"Enable Shale" = true
+		"Enable Limestone" = false
+		"Enable Jasper" = false
+		"Enable Shale" = false
 		"Enable Myalite" = true
 		"Add New Stones To Mason Trades" = true
 
@@ -1294,8 +1294,8 @@
 
 		[world.permafrost.generation_settings]
 			#Allowed values: [0,)
-			Rarity = 2
-			"Min Y Level" = 105
+			Rarity = 5
+			"Min Y Level" = -64
 			"Max Y Level" = 140
 			#Allowed values: [0,)
 			"Horizontal Size" = 72
@@ -1314,13 +1314,13 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[world.permafrost.generation_settings.biomes.tags]
-					"Biome Tags" = []
-					"Is Blacklist" = true
+					"Biome Tags" = ["forge:is_snowy"]
+					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[world.permafrost.generation_settings.biomes.biomes]
-					Biomes = ["minecraft:frozen_peaks"]
-					"Is Blacklist" = false
+					Biomes = []
+					"Is Blacklist" = true
 
 	[world.spiral_spires]
 		Rarity = 200
@@ -1351,7 +1351,7 @@
 	Forgotten = false
 	Foxhound = true
 	Shiba = false
-	Stonelings = true
+	Stonelings = false
 	Toretoise = false
 	Wraith = true
 
