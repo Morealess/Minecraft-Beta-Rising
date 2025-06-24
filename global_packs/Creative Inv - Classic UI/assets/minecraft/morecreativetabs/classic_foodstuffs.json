@@ -1,0 +1,200 @@
+{
+  "tab_enabled": true,
+  "tab_name": "foodstuffs",
+  "tab_stack": { "name": "minecraft:apple"},
+  "tab_items": [
+    {
+      "name": "minecraft:apple"
+    },
+    {
+      "name": "minecraft:mushroom_stew"
+    },
+    {
+      "name": "minecraft:bread"
+    },
+    {
+      "name": "minecraft:porkchop"
+    },
+    {
+      "name": "minecraft:cooked_porkchop"
+    },
+    {
+      "name": "minecraft:golden_apple"
+    },
+    {
+      "name": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "name": "minecraft:cod"
+    },
+    {
+      "name": "minecraft:salmon"
+    },
+    {
+      "name": "minecraft:tropical_fish"
+    },
+    {
+      "name": "minecraft:pufferfish"
+    },
+    {
+      "name": "minecraft:cooked_cod"
+    },
+    {
+      "name": "minecraft:cooked_salmon"
+    },
+    {
+      "name": "minecraft:cake"
+    },
+    {
+      "name": "minecraft:cookie"
+    },
+    {
+      "name": "minecraft:melon_slice"
+    },
+    {
+      "name": "minecraft:dried_kelp"
+    },
+    {
+      "name": "minecraft:beef"
+    },
+    {
+      "name": "minecraft:cooked_beef"
+    },
+    {
+      "name": "minecraft:chicken"
+    },
+    {
+      "name": "minecraft:cooked_chicken"
+    },
+    {
+      "name": "minecraft:rotten_flesh"
+    },
+    {
+      "name": "yaam:jerky"
+    },
+    {
+      "name": "minecraft:spider_eye"
+    },
+    {
+      "name": "minecraft:carrot"
+    },
+    {
+      "name": "minecraft:potato"
+    },
+    {
+      "name": "minecraft:baked_potato"
+    },
+    {
+      "name": "minecraft:poisonous_potato"
+    },
+    {
+      "name": "minecraft:golden_carrot"
+    },
+    {
+      "name": "minecraft:pumpkin_pie"
+    },
+    {
+      "name": "supplementaries:pancake"
+    },
+    {
+      "name": "iguanatweaksexpanded:over_easy_egg"
+    },
+    {
+      "name": "supplementaries:candy"
+    },
+    {
+      "name": "minecraft:sweet_berries"
+    },
+    {
+      "name": "minecraft:glow_berries"
+    },
+    {
+      "name": "minecraft:honey_bottle"
+    },
+    {
+      "name": "minecraft:chorus_fruit"
+    },
+    {
+      "name": "minecraft:beetroot"
+    },
+    {
+      "name": "minecraft:beetroot_soup"
+    },
+    {
+      "name": "minecraft:mutton"
+    },
+    {
+      "name": "minecraft:cooked_mutton"
+    },
+    {
+      "name": "minecraft:rabbit"
+    },
+    {
+      "name": "minecraft:cooked_rabbit"
+    },
+    {
+      "name": "minecraft:rabbit_stew"
+    },
+    {
+      "name": "iguanatweaksexpanded:red_mushroom_stew"
+    },
+    {
+      "name": "iguanatweaksexpanded:brown_mushroom_stew"
+    },
+    {
+      "name": "iguanatweaksexpanded:netherized_stew"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:saturation\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:night_vision\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:fire_resistance\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:blindness\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:weakness\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:regeneration\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:jump_boost\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:poison\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:wither\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"aether:inebriation\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:slow_falling\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:slowness\"}]}"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"minecraft:speed\"}]}"
+    }
+  ]
+}

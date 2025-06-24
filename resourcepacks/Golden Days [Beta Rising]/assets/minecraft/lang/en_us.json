@@ -1,15 +1,18 @@
 {
+  "resourcePack.vanilla.description": "The modern look and feel of Minecraft",
+  "resourcePack.vanilla.name": "Default",
+  
   "item.minecraft.warped_fungus_on_a_stick": "Warped Mushroom on a Stick",
+
   "options.resourcepack": "Mods and Texture Packs...",
   "resourcePack.openFolder": "Open Texture Pack Folder",
   "resourcePack.title": "Select Texture Packs",
   "resourcePack.available.title": "Available Texture Packs",
   "resourcePack.selected.title": "Selected Texture Packs",
   "Pack.folderInfo": "(Place texture pack files here)",
-  "resourcePack.vanilla.description": "The default look and feel of Minecraft",
-  "resourcePack.vanilla.name": "Default",
   "deathScreen.title": "Game over!",
   "deathScreen.titleScreen": "Title menu",
+  "menu.game": "Game menu",
   "block.minecraft.grass": "Grass",
   "block.minecraft.short_grass": "Grass",
   "block.minecraft.fern": "Fern",

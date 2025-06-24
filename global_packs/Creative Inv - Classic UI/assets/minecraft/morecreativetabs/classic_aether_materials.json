@@ -1,0 +1,28 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_materials",
+  "tab_stack": { "name": "aether:ambrosium_shard"},
+  "tab_items": [
+    {
+      "name": "aether:zanite_gemstone"
+    },
+    {
+      "name": "aether:ambrosium_shard"
+    },
+    {
+      "name": "aether:golden_amber"
+    },
+    {
+      "name": "aether:aechor_petal"
+    },
+    {
+      "name": "aether:swet_ball"
+    },
+    {
+      "name": "aether:skyroot_stick"
+    },
+    {
+      "name": "aether:enchanted_gravitite"
+    }
+  ]
+}

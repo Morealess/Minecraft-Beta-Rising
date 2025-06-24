@@ -1,0 +1,88 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_armor",
+  "tab_stack": { "name": "aether:gravitite_helmet"},
+  "tab_items": [
+    {
+      "name": "aether:zanite_helmet"
+    },
+    {
+      "name": "aether:zanite_chestplate"
+    },
+    {
+      "name": "aether:zanite_leggings"
+    },
+    {
+      "name": "aether:zanite_boots"
+    },
+    {
+      "name": "aether:gravitite_helmet"
+    },
+    {
+      "name": "aether:gravitite_chestplate"
+    },
+    {
+      "name": "aether:gravitite_leggings"
+    },
+    {
+      "name": "aether:gravitite_boots"
+    },
+    {
+      "name": "aether:neptune_helmet"
+    },
+    {
+      "name": "aether:neptune_chestplate"
+    },
+    {
+      "name": "aether:neptune_leggings"
+    },
+    {
+      "name": "aether:neptune_boots"
+    },
+    {
+      "name": "aether:phoenix_helmet"
+    },
+    {
+      "name": "aether:phoenix_chestplate"
+    },
+    {
+      "name": "aether:phoenix_leggings"
+    },
+    {
+      "name": "aether:phoenix_boots"
+    },
+    {
+      "name": "aether:obsidian_helmet"
+    },
+    {
+      "name": "aether:obsidian_chestplate"
+    },
+    {
+      "name": "aether:obsidian_leggings"
+    },
+    {
+      "name": "aether:obsidian_boots"
+    },
+    {
+      "name": "aether:valkyrie_helmet"
+    },
+    {
+      "name": "aether:valkyrie_chestplate"
+    },
+    {
+      "name": "aether:valkyrie_leggings"
+    },
+    {
+      "name": "aether:valkyrie_boots"
+    },
+    {
+      "name": "aether:sentry_boots"
+    },
+    {
+      "name": "lost_aether_content:agility_boots"
+    },
+    {
+      "name": "lost_aether_content:swetty_mask"
+    }
+  ]
+}

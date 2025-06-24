@@ -2,13 +2,12 @@
   "type": "iguanatweaksexpanded:multi_item_soul_blasting",
   "category": "soul_blast_furnace_misc",
   "cookingtime": 100,
-  "experience": 1.4,
+  "experience": 2.8,
   "group": "redstone",
   "ingredients": [
     {
       "item": "minecraft:deepslate_redstone_ore"
     }
   ],
-  "output_increase": 0.3,
   "result": "minecraft:redstone"
 }

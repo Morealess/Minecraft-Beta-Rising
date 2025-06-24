@@ -1,0 +1,61 @@
+{
+  "tab_enabled": true,
+  "tab_name": "transportation",
+  "tab_stack": {"name":"iguanatweaksexpanded:golden_powered_rail"},
+  "tab_items": [
+    {
+      "name": "minecraft:powered_rail"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_powered_rail"
+    },
+    {
+      "name": "minecraft:detector_rail"
+    },
+    {
+      "name": "minecraft:rail"
+    },
+    {
+      "name": "minecraft:activator_rail"
+    },
+    {
+      "name": "minecraft:saddle"
+    },
+    {
+      "name": "minecraft:minecart"
+    },
+    {
+      "name": "minecraft:chest_minecart"
+    },
+    {
+      "name": "minecraft:furnace_minecart"
+    },
+    {
+      "name": "supplementaries:dispenser_minecart"
+    },
+    {
+      "name": "minecraft:tnt_minecart"
+    },
+    {
+      "name": "minecraft:hopper_minecart"
+    },
+    {
+      "name": "minecraft:carrot_on_a_stick"
+    },
+    {
+      "name": "minecraft:oak_boat"
+    },
+    {
+      "name": "minecraft:oak_chest_boat"
+    },
+    {
+      "name": "minecraft:bamboo_raft"
+    },
+    {
+      "name": "minecraft:bamboo_chest_raft"
+    },
+    {
+      "name": "obsidianboat:obsidian_boat"
+    }
+  ]
+}

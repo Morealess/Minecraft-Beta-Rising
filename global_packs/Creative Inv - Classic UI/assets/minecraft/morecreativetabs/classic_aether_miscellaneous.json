@@ -1,0 +1,133 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_miscellaneous",
+  "tab_stack": { "name": "aether:bronze_dungeon_key"},
+  "tab_items": [
+    {
+      "name": "lost_aether_content:noble_armor_trim_smithing_template"
+    },
+    {
+      "name": "aether:aether_portal_frame"
+    },
+    {
+      "name": "aether:victory_medal"
+    },
+    {
+      "name": "aether:bronze_dungeon_key"
+    },
+    {
+      "name": "aether:silver_dungeon_key"
+    },
+    {
+      "name": "aether:gold_dungeon_key"
+    },
+    {
+      "name": "lost_aether_content:platinum_key"
+    },
+    {
+      "name": "aether:cold_parachute"
+    },
+    {
+      "name": "aether:golden_parachute"
+    },
+    {
+      "name": "aether:blue_moa_egg"
+    },
+    {
+      "name": "aether:white_moa_egg"
+    },
+    {
+      "name": "aether:black_moa_egg"
+    },
+    {
+      "name": "lost_aether_content:orange_moa_egg"
+    },
+    {
+      "name": "lost_aether_content:brown_moa_egg"
+    },
+    {
+      "name": "aether:life_shard"
+    },
+    {
+      "name": "aether:cloud_staff"
+    },
+    {
+      "name": "aether:nature_staff"
+    },
+    {
+      "name": "aether:music_disc_aether_tune"
+    },
+    {
+      "name": "aether:music_disc_ascending_dawn"
+    },
+    {
+      "name": "lost_aether_content:music_disc_sovereign_of_the_skies"
+    },
+    {
+      "name": "lost_aether_content:music_disc_legacy"
+    },
+    {
+      "name": "aether:music_disc_chinchilla"
+    },
+    {
+      "name": "aether:music_disc_high"
+    },
+    {
+      "name": "aether:book_of_lore"
+    },
+    {
+      "name": "aether:aether_portal_frame"
+    },
+    {
+      "name": "aether:moa_spawn_egg"
+    },
+    {
+      "name": "aether:phyg_spawn_egg"
+    },
+    {
+      "name": "aether:flying_cow_spawn_egg"
+    },
+    {
+      "name": "aether:sheepuff_spawn_egg"
+    },
+    {
+      "name": "aether:aerbunny_spawn_egg"
+    },
+    {
+      "name": "aether:aerwhale_spawn_egg"
+    },
+    {
+      "name": "aether:blue_swet_spawn_egg"
+    },
+    {
+      "name": "aether:golden_swet_spawn_egg"
+    },
+    {
+      "name": "aether:cockatrice_spawn_egg"
+    },
+    {
+      "name": "aether:sentry_spawn_egg"
+    },
+    {
+      "name": "aether:zephyr_spawn_egg"
+    },
+    {
+      "name": "aether:aechor_plant_spawn_egg"
+    },
+    {
+      "name": "aether:mimic_spawn_egg"
+    },
+    {
+      "name": "aether:evil_whirlwind_spawn_egg"
+    },
+    {
+      "name": "aether:fire_minion_spawn_egg"
+    },
+    {
+      "name": "aether:whirlwind_spawn_egg"
+    },
+    {
+      "name": "aether:valkyrie_spawn_egg"
+    }
+  ]
+}

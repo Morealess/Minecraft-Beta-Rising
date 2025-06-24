@@ -1,0 +1,1777 @@
+{
+  "tab_enabled": true,
+  "tab_name": "coloredBlocks",
+  "tab_stack": { "name": "minecraft:cyan_wool"},
+  "tab_items": [
+    {
+      "name": "minecraft:white_wool"
+    },
+    {
+      "name": "minecraft:light_gray_wool"
+    },
+    {
+      "name": "minecraft:gray_wool"
+    },
+    {
+      "name": "minecraft:black_wool"
+    },
+    {
+      "name": "minecraft:brown_wool"
+    },
+    {
+      "name": "minecraft:red_wool"
+    },
+    {
+      "name": "minecraft:orange_wool"
+    },
+    {
+      "name": "minecraft:yellow_wool"
+    },
+    {
+      "name": "minecraft:lime_wool"
+    },
+    {
+      "name": "minecraft:green_wool"
+    },
+    {
+      "name": "minecraft:cyan_wool"
+    },
+    {
+      "name": "minecraft:light_blue_wool"
+    },
+    {
+      "name": "minecraft:blue_wool"
+    },
+    {
+      "name": "minecraft:purple_wool"
+    },
+    {
+      "name": "minecraft:magenta_wool"
+    },
+    {
+      "name": "minecraft:pink_wool"
+    },
+    {
+      "name": "minecraft:white_carpet"
+    },
+    {
+      "name": "minecraft:light_gray_carpet"
+    },
+    {
+      "name": "minecraft:gray_carpet"
+    },
+    {
+      "name": "minecraft:black_carpet"
+    },
+    {
+      "name": "minecraft:brown_carpet"
+    },
+    {
+      "name": "minecraft:red_carpet"
+    },
+    {
+      "name": "minecraft:orange_carpet"
+    },
+    {
+      "name": "minecraft:yellow_carpet"
+    },
+    {
+      "name": "minecraft:lime_carpet"
+    },
+    {
+      "name": "minecraft:green_carpet"
+    },
+    {
+      "name": "minecraft:cyan_carpet"
+    },
+    {
+      "name": "minecraft:light_blue_carpet"
+    },
+    {
+      "name": "minecraft:blue_carpet"
+    },
+    {
+      "name": "minecraft:purple_carpet"
+    },
+    {
+      "name": "minecraft:magenta_carpet"
+    },
+    {
+      "name": "minecraft:pink_carpet"
+    },
+    {
+      "name": "wood_you_dye:white_planks"
+    },
+    {
+      "name": "wood_you_dye:white_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:white_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:white_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:white_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:white_plank_door"
+    },
+    {
+      "name": "wood_you_dye:white_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:white_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:white_plank_button"
+    },
+    {
+      "name": "wood_you_dye:light_gray_planks"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_door"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_button"
+    },
+    {
+      "name": "wood_you_dye:gray_planks"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_door"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_button"
+    },
+    {
+      "name": "wood_you_dye:black_planks"
+    },
+    {
+      "name": "wood_you_dye:black_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:black_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:black_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:black_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:black_plank_door"
+    },
+    {
+      "name": "wood_you_dye:black_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:black_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:black_plank_button"
+    },
+    {
+      "name": "wood_you_dye:brown_planks"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_door"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_button"
+    },
+    {
+      "name": "wood_you_dye:red_planks"
+    },
+    {
+      "name": "wood_you_dye:red_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:red_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:red_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:red_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:red_plank_door"
+    },
+    {
+      "name": "wood_you_dye:red_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:red_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:red_plank_button"
+    },
+    {
+      "name": "wood_you_dye:orange_planks"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_door"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_button"
+    },
+    {
+      "name": "wood_you_dye:yellow_planks"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_door"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_button"
+    },
+    {
+      "name": "wood_you_dye:lime_planks"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_door"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_button"
+    },
+    {
+      "name": "wood_you_dye:green_planks"
+    },
+    {
+      "name": "wood_you_dye:green_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:green_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:green_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:green_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:green_plank_door"
+    },
+    {
+      "name": "wood_you_dye:green_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:green_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:green_plank_button"
+    },
+    {
+      "name": "wood_you_dye:cyan_planks"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_door"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_button"
+    },
+    {
+      "name": "wood_you_dye:light_blue_planks"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_door"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_button"
+    },
+    {
+      "name": "wood_you_dye:blue_planks"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_door"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_button"
+    },
+    {
+      "name": "wood_you_dye:purple_planks"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_door"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_button"
+    },
+    {
+      "name": "wood_you_dye:magenta_planks"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_door"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_button"
+    },
+    {
+      "name": "wood_you_dye:pink_planks"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_stairs"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_slab"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_fence"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_door"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_button"
+    },
+    {
+      "name": "minecraft:terracotta"
+    },
+    {
+      "name": "quark:shingles"
+    },
+    {
+      "name": "quark:shingles_stairs"
+    },
+    {
+      "name": "quark:shingles_slab"
+    },
+    {
+      "name": "minecraft:white_terracotta"
+    },
+    {
+      "name": "quark:white_shingles"
+    },
+    {
+      "name": "quark:white_shingles_stairs"
+    },
+    {
+      "name": "quark:white_shingles_slab"
+    },
+    {
+      "name": "minecraft:light_gray_terracotta"
+    },
+    {
+      "name": "quark:light_gray_shingles"
+    },
+    {
+      "name": "quark:light_gray_shingles_stairs"
+    },
+    {
+      "name": "quark:light_gray_shingles_slab"
+    },
+    {
+      "name": "minecraft:gray_terracotta"
+    },
+    {
+      "name": "quark:gray_shingles"
+    },
+    {
+      "name": "quark:gray_shingles_stairs"
+    },
+    {
+      "name": "quark:gray_shingles_slab"
+    },
+    {
+      "name": "minecraft:black_terracotta"
+    },
+    {
+      "name": "quark:black_shingles"
+    },
+    {
+      "name": "quark:black_shingles_stairs"
+    },
+    {
+      "name": "quark:black_shingles_slab"
+    },
+    {
+      "name": "minecraft:brown_terracotta"
+    },
+    {
+      "name": "quark:brown_shingles"
+    },
+    {
+      "name": "quark:brown_shingles_stairs"
+    },
+    {
+      "name": "quark:brown_shingles_slab"
+    },
+    {
+      "name": "minecraft:red_terracotta"
+    },
+    {
+      "name": "quark:red_shingles"
+    },
+    {
+      "name": "quark:red_shingles_stairs"
+    },
+    {
+      "name": "quark:red_shingles_slab"
+    },
+    {
+      "name": "minecraft:orange_terracotta"
+    },
+    {
+      "name": "quark:orange_shingles"
+    },
+    {
+      "name": "quark:orange_shingles_stairs"
+    },
+    {
+      "name": "quark:orange_shingles_slab"
+    },
+    {
+      "name": "minecraft:yellow_terracotta"
+    },
+    {
+      "name": "quark:yellow_shingles"
+    },
+    {
+      "name": "quark:yellow_shingles_stairs"
+    },
+    {
+      "name": "quark:yellow_shingles_slab"
+    },
+    {
+      "name": "minecraft:lime_terracotta"
+    },
+    {
+      "name": "quark:lime_shingles"
+    },
+    {
+      "name": "quark:lime_shingles_stairs"
+    },
+    {
+      "name": "quark:lime_shingles_slab"
+    },
+    {
+      "name": "minecraft:green_terracotta"
+    },
+    {
+      "name": "quark:green_shingles"
+    },
+    {
+      "name": "quark:green_shingles_stairs"
+    },
+    {
+      "name": "quark:green_shingles_slab"
+    },
+    {
+      "name": "minecraft:cyan_terracotta"
+    },
+    {
+      "name": "quark:cyan_shingles"
+    },
+    {
+      "name": "quark:cyan_shingles_stairs"
+    },
+    {
+      "name": "quark:cyan_shingles_slab"
+    },
+    {
+      "name": "minecraft:light_blue_terracotta"
+    },
+    {
+      "name": "quark:light_blue_shingles"
+    },
+    {
+      "name": "quark:light_blue_shingles_stairs"
+    },
+    {
+      "name": "quark:light_blue_shingles_slab"
+    },
+    {
+      "name": "minecraft:blue_terracotta"
+    },
+    {
+      "name": "quark:blue_shingles"
+    },
+    {
+      "name": "quark:blue_shingles_stairs"
+    },
+    {
+      "name": "quark:blue_shingles_slab"
+    },
+    {
+      "name": "minecraft:purple_terracotta"
+    },
+    {
+      "name": "quark:purple_shingles"
+    },
+    {
+      "name": "quark:purple_shingles_stairs"
+    },
+    {
+      "name": "quark:purple_shingles_slab"
+    },
+    {
+      "name": "minecraft:magenta_terracotta"
+    },
+    {
+      "name": "quark:magenta_shingles"
+    },
+    {
+      "name": "quark:magenta_shingles_stairs"
+    },
+    {
+      "name": "quark:magenta_shingles_slab"
+    },
+    {
+      "name": "minecraft:pink_terracotta"
+    },
+    {
+      "name": "quark:pink_shingles"
+    },
+    {
+      "name": "quark:pink_shingles_stairs"
+    },
+    {
+      "name": "quark:pink_shingles_slab"
+    },
+    {
+      "name": "minecraft:white_concrete"
+    },
+    {
+      "name": "minecraft:light_gray_concrete"
+    },
+    {
+      "name": "minecraft:gray_concrete"
+    },
+    {
+      "name": "minecraft:black_concrete"
+    },
+    {
+      "name": "minecraft:brown_concrete"
+    },
+    {
+      "name": "minecraft:red_concrete"
+    },
+    {
+      "name": "minecraft:orange_concrete"
+    },
+    {
+      "name": "minecraft:yellow_concrete"
+    },
+    {
+      "name": "minecraft:lime_concrete"
+    },
+    {
+      "name": "minecraft:green_concrete"
+    },
+    {
+      "name": "minecraft:cyan_concrete"
+    },
+    {
+      "name": "minecraft:light_blue_concrete"
+    },
+    {
+      "name": "minecraft:blue_concrete"
+    },
+    {
+      "name": "minecraft:purple_concrete"
+    },
+    {
+      "name": "minecraft:magenta_concrete"
+    },
+    {
+      "name": "minecraft:pink_concrete"
+    },
+    {
+      "name": "minecraft:white_concrete_powder"
+    },
+    {
+      "name": "minecraft:light_gray_concrete_powder"
+    },
+    {
+      "name": "minecraft:gray_concrete_powder"
+    },
+    {
+      "name": "minecraft:black_concrete_powder"
+    },
+    {
+      "name": "minecraft:brown_concrete_powder"
+    },
+    {
+      "name": "minecraft:red_concrete_powder"
+    },
+    {
+      "name": "minecraft:orange_concrete_powder"
+    },
+    {
+      "name": "minecraft:yellow_concrete_powder"
+    },
+    {
+      "name": "minecraft:lime_concrete_powder"
+    },
+    {
+      "name": "minecraft:green_concrete_powder"
+    },
+    {
+      "name": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "name": "minecraft:light_blue_concrete_powder"
+    },
+    {
+      "name": "minecraft:blue_concrete_powder"
+    },
+    {
+      "name": "minecraft:purple_concrete_powder"
+    },
+    {
+      "name": "minecraft:magenta_concrete_powder"
+    },
+    {
+      "name": "minecraft:pink_concrete_powder"
+    },
+    {
+      "name": "minecraft:white_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:light_gray_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:gray_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:black_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:brown_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:red_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:orange_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:yellow_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:lime_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:green_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:cyan_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:blue_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:purple_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:magenta_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:pink_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:glass"
+    },
+    {
+      "name": "quark:framed_glass"
+    },
+    {
+      "name": "minecraft:tinted_glass"
+    },
+    {
+      "name": "quark:dirty_glass"
+    },
+    {
+      "name": "minecraft:white_stained_glass"
+    },
+    {
+      "name": "minecraft:light_gray_stained_glass"
+    },
+    {
+      "name": "minecraft:gray_stained_glass"
+    },
+    {
+      "name": "minecraft:black_stained_glass"
+    },
+    {
+      "name": "minecraft:brown_stained_glass"
+    },
+    {
+      "name": "minecraft:red_stained_glass"
+    },
+    {
+      "name": "minecraft:orange_stained_glass"
+    },
+    {
+      "name": "minecraft:yellow_stained_glass"
+    },
+    {
+      "name": "minecraft:lime_stained_glass"
+    },
+    {
+      "name": "minecraft:green_stained_glass"
+    },
+    {
+      "name": "minecraft:cyan_stained_glass"
+    },
+    {
+      "name": "minecraft:light_blue_stained_glass"
+    },
+    {
+      "name": "minecraft:blue_stained_glass"
+    },
+    {
+      "name": "minecraft:purple_stained_glass"
+    },
+    {
+      "name": "minecraft:magenta_stained_glass"
+    },
+    {
+      "name": "minecraft:pink_stained_glass"
+    },
+    {
+      "name": "quark:white_framed_glass"
+    },
+    {
+      "name": "quark:light_gray_framed_glass"
+    },
+    {
+      "name": "quark:gray_framed_glass"
+    },
+    {
+      "name": "quark:black_framed_glass"
+    },
+    {
+      "name": "quark:brown_framed_glass"
+    },
+    {
+      "name": "quark:red_framed_glass"
+    },
+    {
+      "name": "quark:orange_framed_glass"
+    },
+    {
+      "name": "quark:yellow_framed_glass"
+    },
+    {
+      "name": "quark:lime_framed_glass"
+    },
+    {
+      "name": "quark:green_framed_glass"
+    },
+    {
+      "name": "quark:cyan_framed_glass"
+    },
+    {
+      "name": "quark:light_blue_framed_glass"
+    },
+    {
+      "name": "quark:blue_framed_glass"
+    },
+    {
+      "name": "quark:purple_framed_glass"
+    },
+    {
+      "name": "quark:magenta_framed_glass"
+    },
+    {
+      "name": "quark:pink_framed_glass"
+    },
+    {
+      "name": "minecraft:glass_pane"
+    },
+    {
+      "name": "quark:framed_glass_pane"
+    },
+    {
+      "name": "quark:dirty_glass_pane"
+    },
+    {
+      "name": "minecraft:white_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:light_gray_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:gray_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:black_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:brown_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:red_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:orange_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:yellow_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:lime_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:green_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:cyan_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:light_blue_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:blue_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:purple_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:magenta_stained_glass_pane"
+    },
+    {
+      "name": "minecraft:pink_stained_glass_pane"
+    },
+    {
+      "name": "quark:white_framed_glass_pane"
+    },
+    {
+      "name": "quark:light_gray_framed_glass_pane"
+    },
+    {
+      "name": "quark:gray_framed_glass_pane"
+    },
+    {
+      "name": "quark:black_framed_glass_pane"
+    },
+    {
+      "name": "quark:brown_framed_glass_pane"
+    },
+    {
+      "name": "quark:red_framed_glass_pane"
+    },
+    {
+      "name": "quark:orange_framed_glass_pane"
+    },
+    {
+      "name": "quark:yellow_framed_glass_pane"
+    },
+    {
+      "name": "quark:lime_framed_glass_pane"
+    },
+    {
+      "name": "quark:green_framed_glass_pane"
+    },
+    {
+      "name": "quark:cyan_framed_glass_pane"
+    },
+    {
+      "name": "quark:light_blue_framed_glass_pane"
+    },
+    {
+      "name": "quark:blue_framed_glass_pane"
+    },
+    {
+      "name": "quark:purple_framed_glass_pane"
+    },
+    {
+      "name": "quark:magenta_framed_glass_pane"
+    },
+    {
+      "name": "quark:pink_framed_glass_pane"
+    },
+    {
+      "name": "minecraft:chest"
+    },
+    {
+      "name": "minecraft:trapped_chest"
+    },
+    {
+      "name": "nec:white_chest"
+    },
+    {
+      "name": "nec:white_trapped_chest"
+    },
+    {
+      "name": "nec:light_gray_chest"
+    },
+    {
+      "name": "nec:light_gray_trapped_chest"
+    },
+    {
+      "name": "nec:gray_chest"
+    },
+    {
+      "name": "nec:gray_trapped_chest"
+    },
+    {
+      "name": "nec:black_chest"
+    },
+    {
+      "name": "nec:black_trapped_chest"
+    },
+    {
+      "name": "nec:brown_chest"
+    },
+    {
+      "name": "nec:brown_trapped_chest"
+    },
+    {
+      "name": "nec:red_chest"
+    },
+    {
+      "name": "nec:red_trapped_chest"
+    },
+    {
+      "name": "nec:orange_chest"
+    },
+    {
+      "name": "nec:orange_trapped_chest"
+    },
+    {
+      "name": "nec:yellow_chest"
+    },
+    {
+      "name": "nec:yellow_trapped_chest"
+    },
+    {
+      "name": "nec:lime_chest"
+    },
+    {
+      "name": "nec:lime_trapped_chest"
+    },
+    {
+      "name": "nec:green_chest"
+    },
+    {
+      "name": "nec:green_trapped_chest"
+    },
+    {
+      "name": "nec:cyan_chest"
+    },
+    {
+      "name": "nec:cyan_trapped_chest"
+    },
+    {
+      "name": "nec:light_blue_chest"
+    },
+    {
+      "name": "nec:light_blue_trapped_chest"
+    },
+    {
+      "name": "nec:blue_chest"
+    },
+    {
+      "name": "nec:blue_trapped_chest"
+    },
+    {
+      "name": "nec:purple_chest"
+    },
+    {
+      "name": "nec:purple_trapped_chest"
+    },
+    {
+      "name": "nec:magenta_chest"
+    },
+    {
+      "name": "nec:magenta_trapped_chest"
+    },
+    {
+      "name": "nec:pink_chest"
+    },
+    {
+      "name": "nec:pink_trapped_chest"
+    },
+    {
+      "name": "supplementaries:present"
+    },
+    {
+      "name": "supplementaries:present_white"
+    },
+    {
+      "name": "supplementaries:present_light_gray"
+    },
+    {
+      "name": "supplementaries:present_gray"
+    },
+    {
+      "name": "supplementaries:present_black"
+    },
+    {
+      "name": "supplementaries:present_brown"
+    },
+    {
+      "name": "supplementaries:present_red"
+    },
+    {
+      "name": "supplementaries:present_orange"
+    },
+    {
+      "name": "supplementaries:present_yellow"
+    },
+    {
+      "name": "supplementaries:present_lime"
+    },
+    {
+      "name": "supplementaries:present_green"
+    },
+    {
+      "name": "supplementaries:present_cyan"
+    },
+    {
+      "name": "supplementaries:present_light_blue"
+    },
+    {
+      "name": "supplementaries:present_blue"
+    },
+    {
+      "name": "supplementaries:present_purple"
+    },
+    {
+      "name": "supplementaries:present_magenta"
+    },
+    {
+      "name": "supplementaries:present_pink"
+    },
+    {
+      "name": "supplementaries:trapped_present"
+    },
+    {
+      "name": "supplementaries:trapped_present_white"
+    },
+    {
+      "name": "supplementaries:trapped_present_light_gray"
+    },
+    {
+      "name": "supplementaries:trapped_present_gray"
+    },
+    {
+      "name": "supplementaries:trapped_present_black"
+    },
+    {
+      "name": "supplementaries:trapped_present_brown"
+    },
+    {
+      "name": "supplementaries:trapped_present_red"
+    },
+    {
+      "name": "supplementaries:trapped_present_orange"
+    },
+    {
+      "name": "supplementaries:trapped_present_yellow"
+    },
+    {
+      "name": "supplementaries:trapped_present_lime"
+    },
+    {
+      "name": "supplementaries:trapped_present_green"
+    },
+    {
+      "name": "supplementaries:trapped_present_cyan"
+    },
+    {
+      "name": "supplementaries:trapped_present_light_blue"
+    },
+    {
+      "name": "supplementaries:trapped_present_blue"
+    },
+    {
+      "name": "supplementaries:trapped_present_purple"
+    },
+    {
+      "name": "supplementaries:trapped_present_magenta"
+    },
+    {
+      "name": "supplementaries:trapped_present_pink"
+    },
+    {
+      "name": "minecraft:white_bed"
+    },
+    {
+      "name": "minecraft:light_gray_bed"
+    },
+    {
+      "name": "minecraft:gray_bed"
+    },
+    {
+      "name": "minecraft:black_bed"
+    },
+    {
+      "name": "minecraft:brown_bed"
+    },
+    {
+      "name": "minecraft:red_bed"
+    },
+    {
+      "name": "minecraft:orange_bed"
+    },
+    {
+      "name": "minecraft:yellow_bed"
+    },
+    {
+      "name": "minecraft:lime_bed"
+    },
+    {
+      "name": "minecraft:green_bed"
+    },
+    {
+      "name": "minecraft:cyan_bed"
+    },
+    {
+      "name": "minecraft:light_blue_bed"
+    },
+    {
+      "name": "minecraft:blue_bed"
+    },
+    {
+      "name": "minecraft:purple_bed"
+    },
+    {
+      "name": "minecraft:magenta_bed"
+    },
+    {
+      "name": "minecraft:pink_bed"
+    },
+    {
+      "name": "sleep_tight:hammock_white"
+    },
+    {
+      "name": "sleep_tight:hammock_light_gray"
+    },
+    {
+      "name": "sleep_tight:hammock_gray"
+    },
+    {
+      "name": "sleep_tight:hammock_black"
+    },
+    {
+      "name": "sleep_tight:hammock_brown"
+    },
+    {
+      "name": "sleep_tight:hammock_red"
+    },
+    {
+      "name": "sleep_tight:hammock_orange"
+    },
+    {
+      "name": "sleep_tight:hammock_yellow"
+    },
+    {
+      "name": "sleep_tight:hammock_lime"
+    },
+    {
+      "name": "sleep_tight:hammock_green"
+    },
+    {
+      "name": "sleep_tight:hammock_cyan"
+    },
+    {
+      "name": "sleep_tight:hammock_light_blue"
+    },
+    {
+      "name": "sleep_tight:hammock_blue"
+    },
+    {
+      "name": "sleep_tight:hammock_purple"
+    },
+    {
+      "name": "sleep_tight:hammock_magenta"
+    },
+    {
+      "name": "sleep_tight:hammock_pink"
+    },
+    {
+      "name": "quark:white_stool"
+    },
+    {
+      "name": "quark:light_gray_stool"
+    },
+    {
+      "name": "quark:gray_stool"
+    },
+    {
+      "name": "quark:black_stool"
+    },
+    {
+      "name": "quark:brown_stool"
+    },
+    {
+      "name": "quark:red_stool"
+    },
+    {
+      "name": "quark:orange_stool"
+    },
+    {
+      "name": "quark:yellow_stool"
+    },
+    {
+      "name": "quark:lime_stool"
+    },
+    {
+      "name": "quark:green_stool"
+    },
+    {
+      "name": "quark:cyan_stool"
+    },
+    {
+      "name": "quark:light_blue_stool"
+    },
+    {
+      "name": "quark:blue_stool"
+    },
+    {
+      "name": "quark:purple_stool"
+    },
+    {
+      "name": "quark:magenta_stool"
+    },
+    {
+      "name": "quark:pink_stool"
+    },
+    {
+      "name": "minecraft:candle"
+    },
+    {
+      "name": "minecraft:white_candle"
+    },
+    {
+      "name": "minecraft:light_gray_candle"
+    },
+    {
+      "name": "minecraft:gray_candle"
+    },
+    {
+      "name": "minecraft:black_candle"
+    },
+    {
+      "name": "minecraft:brown_candle"
+    },
+    {
+      "name": "minecraft:red_candle"
+    },
+    {
+      "name": "minecraft:orange_candle"
+    },
+    {
+      "name": "minecraft:yellow_candle"
+    },
+    {
+      "name": "minecraft:lime_candle"
+    },
+    {
+      "name": "minecraft:green_candle"
+    },
+    {
+      "name": "minecraft:cyan_candle"
+    },
+    {
+      "name": "minecraft:light_blue_candle"
+    },
+    {
+      "name": "minecraft:blue_candle"
+    },
+    {
+      "name": "minecraft:purple_candle"
+    },
+    {
+      "name": "minecraft:magenta_candle"
+    },
+    {
+      "name": "minecraft:pink_candle"
+    },
+    {
+      "name": "supplementaries:candle_holder"
+    },
+    {
+      "name": "supplementaries:candle_holder_white"
+    },
+    {
+      "name": "supplementaries:candle_holder_light_gray"
+    },
+    {
+      "name": "supplementaries:candle_holder_gray"
+    },
+    {
+      "name": "supplementaries:candle_holder_black"
+    },
+    {
+      "name": "supplementaries:candle_holder_brown"
+    },
+    {
+      "name": "supplementaries:candle_holder_red"
+    },
+    {
+      "name": "supplementaries:candle_holder_orange"
+    },
+    {
+      "name": "supplementaries:candle_holder_yellow"
+    },
+    {
+      "name": "supplementaries:candle_holder_lime"
+    },
+    {
+      "name": "supplementaries:candle_holder_green"
+    },
+    {
+      "name": "supplementaries:candle_holder_cyan"
+    },
+    {
+      "name": "supplementaries:candle_holder_light_blue"
+    },
+    {
+      "name": "supplementaries:candle_holder_blue"
+    },
+    {
+      "name": "supplementaries:candle_holder_purple"
+    },
+    {
+      "name": "supplementaries:candle_holder_magenta"
+    },
+    {
+      "name": "supplementaries:candle_holder_pink"
+    },
+    {
+      "name": "minecraft:white_banner"
+    },
+    {
+      "name": "minecraft:light_gray_banner"
+    },
+    {
+      "name": "minecraft:gray_banner"
+    },
+    {
+      "name": "minecraft:black_banner"
+    },
+    {
+      "name": "minecraft:brown_banner"
+    },
+    {
+      "name": "minecraft:red_banner"
+    },
+    {
+      "name": "minecraft:orange_banner"
+    },
+    {
+      "name": "minecraft:yellow_banner"
+    },
+    {
+      "name": "minecraft:lime_banner"
+    },
+    {
+      "name": "minecraft:green_banner"
+    },
+    {
+      "name": "minecraft:cyan_banner"
+    },
+    {
+      "name": "minecraft:light_blue_banner"
+    },
+    {
+      "name": "minecraft:blue_banner"
+    },
+    {
+      "name": "minecraft:purple_banner"
+    },
+    {
+      "name": "minecraft:magenta_banner"
+    },
+    {
+      "name": "minecraft:pink_banner"
+    },
+    {
+      "name": "supplementaries:flag_white"
+    },
+    {
+      "name": "supplementaries:flag_light_gray"
+    },
+    {
+      "name": "supplementaries:flag_gray"
+    },
+    {
+      "name": "supplementaries:flag_black"
+    },
+    {
+      "name": "supplementaries:flag_brown"
+    },
+    {
+      "name": "supplementaries:flag_red"
+    },
+    {
+      "name": "supplementaries:flag_orange"
+    },
+    {
+      "name": "supplementaries:flag_yellow"
+    },
+    {
+      "name": "supplementaries:flag_lime"
+    },
+    {
+      "name": "supplementaries:flag_green"
+    },
+    {
+      "name": "supplementaries:flag_cyan"
+    },
+    {
+      "name": "supplementaries:flag_light_blue"
+    },
+    {
+      "name": "supplementaries:flag_blue"
+    },
+    {
+      "name": "supplementaries:flag_purple"
+    },
+    {
+      "name": "supplementaries:flag_magenta"
+    },
+    {
+      "name": "supplementaries:flag_pink"
+    },
+    {
+      "name": "quark:red_corundum"
+    },
+    {
+      "name": "quark:waxed_red_corundum"
+    },
+    {
+      "name": "quark:red_corundum_pane"
+    },
+    {
+      "name": "quark:red_corundum_cluster"
+    },
+    {
+      "name": "quark:orange_corundum"
+    },
+    {
+      "name": "quark:waxed_orange_corundum"
+    },
+    {
+      "name": "quark:orange_corundum_pane"
+    },
+    {
+      "name": "quark:orange_corundum_cluster"
+    },
+    {
+      "name": "quark:yellow_corundum"
+    },
+    {
+      "name": "quark:waxed_yellow_corundum"
+    },
+    {
+      "name": "quark:yellow_corundum_pane"
+    },
+    {
+      "name": "quark:yellow_corundum_cluster"
+    },
+    {
+      "name": "quark:green_corundum"
+    },
+    {
+      "name": "quark:waxed_green_corundum"
+    },
+    {
+      "name": "quark:green_corundum_pane"
+    },
+    {
+      "name": "quark:green_corundum_cluster"
+    },
+    {
+      "name": "quark:blue_corundum"
+    },
+    {
+      "name": "quark:waxed_blue_corundum"
+    },
+    {
+      "name": "quark:blue_corundum_pane"
+    },
+    {
+      "name": "quark:blue_corundum_cluster"
+    },
+    {
+      "name": "quark:indigo_corundum"
+    },
+    {
+      "name": "quark:waxed_indigo_corundum"
+    },
+    {
+      "name": "quark:indigo_corundum_pane"
+    },
+    {
+      "name": "quark:indigo_corundum_cluster"
+    },
+    {
+      "name": "quark:violet_corundum"
+    },
+    {
+      "name": "quark:waxed_violet_corundum"
+    },
+    {
+      "name": "quark:violet_corundum_pane"
+    },
+    {
+      "name": "quark:violet_corundum_cluster"
+    },
+    {
+      "name": "quark:white_corundum"
+    },
+    {
+      "name": "quark:waxed_white_corundum"
+    },
+    {
+      "name": "quark:white_corundum_pane"
+    },
+    {
+      "name": "quark:white_corundum_cluster"
+    },
+    {
+      "name": "quark:black_corundum"
+    },
+    {
+      "name": "quark:waxed_black_corundum"
+    },
+    {
+      "name": "quark:black_corundum_pane"
+    },
+    {
+      "name": "quark:black_corundum_cluster"
+    },
+    {
+      "name": "quark:red_crystal_lamp"
+    },
+    {
+      "name": "quark:orange_crystal_lamp"
+    },
+    {
+      "name": "quark:yellow_crystal_lamp"
+    },
+    {
+      "name": "quark:green_crystal_lamp"
+    },
+    {
+      "name": "quark:blue_crystal_lamp"
+    },
+    {
+      "name": "quark:indigo_crystal_lamp"
+    },
+    {
+      "name": "quark:violet_crystal_lamp"
+    },
+    {
+      "name": "quark:white_crystal_lamp"
+    },
+    {
+      "name": "quark:black_crystal_lamp"
+    }
+  ]
+}

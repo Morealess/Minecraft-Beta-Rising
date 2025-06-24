@@ -1,6 +1,7 @@
 {
 	"item": "iguanatweaksexpanded:durium_boots",
 	"durability": 520,
+	"enchantability": 4,
 	"armor": 2,
 	"modifiers": [
 

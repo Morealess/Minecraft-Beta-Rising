@@ -1,7 +1,7 @@
 {
 	"item": "#iguanatweaksexpanded:equipment/hand/durium",
 	"durability": 912,
-	"enchantability": 7,
+	"enchantability": 6,
 	"modifiers": [
 		{
 			"uuid": "302332bb-d19b-4f9f-a423-6e305969126f",

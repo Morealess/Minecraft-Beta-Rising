@@ -1,6 +1,7 @@
 {
 	"item": "iguanatweaksexpanded:durium_helmet",
 	"durability": 440,
+	"enchantability": 4,
 	"armor": 2,
 	"modifiers": [
 

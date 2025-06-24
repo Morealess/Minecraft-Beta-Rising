@@ -1,8 +1,23 @@
 type = customizablemenus
 
-mod.adrenix.nostalgic.client.gui.screen.vanilla.title.NostalgicTitleScreen {
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
 net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.DeathScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+mod.adrenix.nostalgic.client.gui.screen.vanilla.title.NostalgicTitleScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
 }
 

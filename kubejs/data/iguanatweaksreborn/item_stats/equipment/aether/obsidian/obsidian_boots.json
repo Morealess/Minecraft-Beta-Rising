@@ -2,7 +2,7 @@
 	"item": "aether:obsidian_boots",
 	"enchantability": 5,
 	"durability": 866,
-	"armor": 2,
+	"armor": 3,
 	"armor_toughness": 0,
 	"knockback_resistance": 0.1,
 	"modifiers": [

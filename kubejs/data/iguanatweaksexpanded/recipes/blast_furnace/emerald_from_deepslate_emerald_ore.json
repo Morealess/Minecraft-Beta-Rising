@@ -9,6 +9,6 @@
       "item": "minecraft:deepslate_emerald_ore"
     }
   ],
-  "output_increase": 1.0,
+  "output_increase": 0.5,
   "result": "minecraft:emerald"
 }

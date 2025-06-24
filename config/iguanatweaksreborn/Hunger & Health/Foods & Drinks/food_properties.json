@@ -2,22 +2,22 @@
   {
     "food": "minecraft:mushroom_stew",
     "nutrition": 10,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "iguanatweaksexpanded:brown_mushroom_stew",
     "nutrition": 9,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "iguanatweaksexpanded:red_mushroom_stew",
     "nutrition": 9,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "minecraft:beetroot_soup",
     "nutrition": 10,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "minecraft:rabbit_stew",
@@ -26,12 +26,12 @@
   {
     "food": "minecraft:suspicious_stew",
     "nutrition": 10,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "iguanatweaksexpanded:netherized_stew",
     "nutrition": 20,
-    "eating_time": 0
+    "eating_time": 1
   },
   {
     "food": "minecraft:apple",

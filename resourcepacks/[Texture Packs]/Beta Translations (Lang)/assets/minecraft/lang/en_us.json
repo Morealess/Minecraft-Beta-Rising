@@ -1,5 +1,4 @@
 {
-  "item.minecraft.warped_fungus_on_a_stick": "Warped Mushroom on a Stick",
   "entity.minecraft.cod": "Fish",
   "item.minecraft.cod": "Raw Fish",
   "item.minecraft.cod_bucket": "Bucket of Fish",
@@ -12,6 +11,9 @@
   "block.minecraft.infested_mossy_stone_bricks": "Mossy Stone Bricks Monster Egg",
   "block.minecraft.infested_stone": "Stone Monster Egg",
   "block.minecraft.infested_stone_bricks": "Stone Bricks Monster Egg",
+
+  "item.minecraft.warped_fungus_on_a_stick": "Warped Mushroom on a Stick",
+
   "options.resourcepack": "Mods and Texture Packs...",
   "resourcePack.openFolder": "Open Texture Pack Folder",
   "resourcePack.title": "Select Texture Packs",
@@ -20,6 +22,7 @@
   "Pack.folderInfo": "(Place texture pack files here)",
   "deathScreen.title": "Game over!",
   "deathScreen.titleScreen": "Title menu",
+  "menu.game": "Game menu",
   "block.minecraft.grass": "Grass",
   "block.minecraft.short_grass": "Grass",
   "block.minecraft.fern": "Fern",

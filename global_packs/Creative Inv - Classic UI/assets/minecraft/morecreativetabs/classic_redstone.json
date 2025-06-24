@@ -1,0 +1,502 @@
+{
+  "tab_enabled": true,
+  "tab_name": "redstone",
+  "tab_stack": { "name" :"minecraft:redstone"},
+  "tab_items": [
+    {
+      "name": "minecraft:redstone"
+    },
+    {
+      "name": "minecraft:redstone_torch"
+    },
+    {
+      "name": "minecraft:redstone_block"
+    },
+    {
+      "name": "minecraft:repeater"
+    },
+    {
+      "name": "minecraft:comparator"
+    },
+    {
+      "name": "quark:redstone_randomizer"
+    },
+    {
+      "name": "minecraft:sticky_piston"
+    },
+    {
+      "name": "minecraft:piston"
+    },
+    {
+      "name": "minecraft:slime_block"
+    },
+    {
+      "name": "minecraft:honey_block"
+    },
+    {
+      "name": "minecraft:observer"
+    },
+    {
+      "name": "supplementaries:relayer"
+    },
+    {
+      "name": "minecraft:hopper"
+    },
+    {
+      "name": "minecraft:dispenser"
+    },
+    {
+      "name": "minecraft:dropper"
+    },
+    {
+      "name": "minecraft:lectern"
+    },
+    {
+      "name": "minecraft:target"
+    },
+    {
+      "name": "minecraft:lever"
+    },
+    {
+      "name": "supplementaries:sconce_lever"
+    },
+    {
+      "name": "supplementaries:crank"
+    },
+    {
+      "name": "minecraft:lightning_rod"
+    },
+    {
+      "name": "supplementaries:wind_vane"
+    },
+    {
+      "name": "minecraft:daylight_detector"
+    },
+    {
+      "name": "sereneseasons:season_sensor"
+    },
+    {
+      "name": "minecraft:sculk_shrieker"
+    },
+    {
+      "name": "minecraft:sculk_sensor"
+    },
+    {
+      "name": "minecraft:calibrated_sculk_sensor"
+    },
+    {
+      "name": "minecraft:tripwire_hook"
+    },
+    {
+      "name": "minecraft:trapped_chest"
+    },
+    {
+      "name": "minecraft:tnt"
+    },
+    {
+      "name": "iguanatweaksexpanded:mining_charge"
+    },
+    {
+      "name": "iguanatweaksexpanded:explosive_barrel"
+    },
+    {
+      "name": "supplementaries:redstone_illuminator"
+    },
+    {
+      "name": "minecraft:redstone_lamp"
+    },
+    {
+      "name": "minecraft:note_block"
+    },
+    {
+      "name": "supplementaries:speaker_block"
+    },
+    {
+      "name": "supplementaries:cog_block"
+    },
+    {
+      "name": "supplementaries:spring_launcher"
+    },
+    {
+      "name": "supplementaries:turn_table"
+    },
+    {
+      "name": "supplementaries:pulley_block"
+    },
+    {
+      "name": "supplementaries:lock_block"
+    },
+    {
+      "name": "supplementaries:bellows"
+    },
+    {
+      "name": "supplementaries:clock_block"
+    },
+    {
+      "name": "supplementaries:crystal_display"
+    },
+    {
+      "name": "supplementaries:faucet"
+    },
+    {
+      "name": "quark:chute"
+    },
+    {
+      "name": "quark:crafter"
+    },
+    {
+      "name": "quark:ender_watcher"
+    },
+    {
+      "name": "quark:gravisand"
+    },
+    {
+      "name": "supplementaries:notice_board"
+    },
+    {
+      "name": "supplementaries:jar"
+    },
+    {
+      "name": "supplementaries:globe"
+    },
+    {
+      "name": "supplementaries:globe_sepia"
+    },
+    {
+      "name": "supplementaries:goblet"
+    },
+    {
+      "name": "supplementaries:hourglass"
+    },
+    {
+      "name": "quark:white_crystal_lamp"
+    },
+    {
+      "name": "quark:orange_crystal_lamp"
+    },
+    {
+      "name": "quark:violet_crystal_lamp"
+    },
+    {
+      "name": "quark:blue_crystal_lamp"
+    },
+    {
+      "name": "quark:yellow_crystal_lamp"
+    },
+    {
+      "name": "quark:green_crystal_lamp"
+    },
+    {
+      "name": "quark:indigo_crystal_lamp"
+    },
+    {
+      "name": "quark:red_crystal_lamp"
+    },
+    {
+      "name": "quark:black_crystal_lamp"
+    },
+    {
+      "name": "minecraft:stone_button"
+    },
+    {
+      "name": "quark:gold_button"
+    },
+    {
+      "name": "quark:iron_button"
+    },
+    {
+      "name": "minecraft:oak_button"
+    },
+    {
+      "name": "wood_you_dye:white_plank_button"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_button"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_button"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_button"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_button"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_button"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_button"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_button"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_button"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_button"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_button"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_button"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_button"
+    },
+    {
+      "name": "wood_you_dye:green_plank_button"
+    },
+    {
+      "name": "wood_you_dye:red_plank_button"
+    },
+    {
+      "name": "wood_you_dye:black_plank_button"
+    },
+    {
+      "name": "minecraft:stone_pressure_plate"
+    },
+    {
+      "name": "minecraft:light_weighted_pressure_plate"
+    },
+    {
+      "name": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "name": "quark:obsidian_pressure_plate"
+    },
+    {
+      "name": "minecraft:oak_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:white_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:green_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:red_plank_pressure_plate"
+    },
+    {
+      "name": "wood_you_dye:black_plank_pressure_plate"
+    },
+    {
+      "name": "minecraft:iron_door"
+    },
+    {
+      "name": "supplementaries:gold_door"
+    },
+    {
+      "name": "supplementaries:netherite_door"
+    },
+    {
+      "name": "minecraft:oak_door"
+    },
+    {
+      "name": "wood_you_dye:white_plank_door"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_door"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_door"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_door"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_door"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_door"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_door"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_door"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_door"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_door"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_door"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_door"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_door"
+    },
+    {
+      "name": "wood_you_dye:green_plank_door"
+    },
+    {
+      "name": "wood_you_dye:red_plank_door"
+    },
+    {
+      "name": "wood_you_dye:black_plank_door"
+    },
+    {
+      "name": "minecraft:iron_trapdoor"
+    },
+    {
+      "name": "supplementaries:gold_trapdoor"
+    },
+    {
+      "name": "supplementaries:netherite_trapdoor"
+    },
+    {
+      "name": "minecraft:oak_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:white_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:green_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:red_plank_trapdoor"
+    },
+    {
+      "name": "wood_you_dye:black_plank_trapdoor"
+    },
+    {
+      "name": "supplementaries:iron_gate"
+    },
+    {
+      "name": "supplementaries:gold_gate"
+    },
+    {
+      "name": "quark:nether_brick_fence_gate"
+    },
+    {
+      "name": "minecraft:oak_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:white_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:orange_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:magenta_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:light_blue_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:yellow_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:lime_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:pink_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:gray_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:light_gray_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:cyan_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:purple_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:blue_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:brown_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:green_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:red_plank_fence_gate"
+    },
+    {
+      "name": "wood_you_dye:black_plank_fence_gate"
+    }
+  ]
+}

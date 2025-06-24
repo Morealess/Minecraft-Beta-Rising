@@ -1,0 +1,11 @@
+{
+  "removed": [
+      "item:minecraft:enchanting_table"
+  ],
+  "added": [
+    {
+      "stack": "item:minecraft:enchanting_table",
+      "after": "item:minecraft:nether_brick_fence"
+    }
+  ]
+}

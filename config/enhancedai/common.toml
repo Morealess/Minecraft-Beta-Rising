@@ -467,7 +467,7 @@
 	[Mobs.Spawning]
 		#How far away from any player monsters will instantly despawn? Vanilla is 128
 		#Range: 0 ~ 128
-		"Monsters Despawning Distance" = 96
+		"Monsters Despawning Distance" = 128
 		#How far away from any player monsters will be able to randomly despawn? Vanilla is 32
 		#Range: 0 ~ 128
 		"Min Monsters Despawning Distance" = 32
@@ -558,7 +558,7 @@
 			#Range: 0.0 ~ 128.0
 			Minimum = 24.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 24.0
+			Maximum = 0.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'. Only mobs in the entity type tag `enhancedai:apply_xray` will be affected by this override.
 		[Mobs.Targeting."XRay Range Override"]
@@ -588,7 +588,7 @@
 	[Mobs."Miner Mobs"]
 		#Chance for a mob in the entity type tag enhancedai:can_be_miner to spawn with the miner ability
 		#Range: 0.0 ~ 1.0
-		"Miner Chance" = 1.0
+		"Miner Chance" = 0.1
 		#Mobs with the miner AI will mine only if they have any tool in the off-hand
 		"Can mine with tool only" = false
 		#Mobs with the miner AI will mine only if their off-hand tool can mine targeted blocks (e.g. zombies with shovels will not mine stone). Blocks that require no tool (e.g. planks) will be minable regardless of proper tool or not.

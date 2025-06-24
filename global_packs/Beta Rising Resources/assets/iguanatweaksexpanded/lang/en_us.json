@@ -1,8 +1,8 @@
 {
-	"item.iguanatweaksexpanded.chained_copper_helmet": "Chained Copper Helmet",
-	"item.iguanatweaksexpanded.chained_copper_chestplate": "Chained Copper Chestplate",
-	"item.iguanatweaksexpanded.chained_copper_leggings": "Chained Copper Leggings",
-	"item.iguanatweaksexpanded.chained_copper_boots": "Chained Copper Boots",
+	"item.iguanatweaksexpanded.chained_copper_helmet": "Studded Helmet",
+	"item.iguanatweaksexpanded.chained_copper_chestplate": "Studded Chestplate",
+	"item.iguanatweaksexpanded.chained_copper_leggings": "Studded Leggings",
+	"item.iguanatweaksexpanded.chained_copper_boots": "Studded Boots",
 
 	"iguanatweaksexpanded.electrocution.damage": " %.1f Electrocution Damage",
 	"iguanatweaksexpanded.electrocution.charge": "  (%f%% Charged)",

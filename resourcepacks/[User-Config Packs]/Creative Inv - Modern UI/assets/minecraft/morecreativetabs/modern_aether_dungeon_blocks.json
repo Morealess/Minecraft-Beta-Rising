@@ -1,0 +1,181 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_dungeon_blocks",
+  "tab_stack": { "name": "aether:light_angelic_stone"},
+  "tab_items": [
+    {
+      "name": "aether:carved_stone"
+    },
+    {
+      "name": "aether:locked_carved_stone"
+    },
+    {
+      "name": "aether:trapped_carved_stone"
+    },
+    {
+      "name": "aether:boss_doorway_carved_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_carved_stone"
+    },
+    {
+      "name": "aether:carved_stairs"
+    },
+    {
+      "name": "aether:carved_slab"
+    },
+    {
+      "name": "aether:carved_wall"
+    },
+    {
+      "name": "aether:sentry_stone"
+    },
+    {
+      "name": "aether:locked_sentry_stone"
+    },
+    {
+      "name": "aether:trapped_sentry_stone"
+    },
+    {
+      "name": "aether:boss_doorway_sentry_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_sentry_stone"
+    },
+    {
+      "name": "aether:angelic_stone"
+    },
+    {
+      "name": "aether:locked_angelic_stone"
+    },
+    {
+      "name": "aether:trapped_angelic_stone"
+    },
+    {
+      "name": "aether:boss_doorway_angelic_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_angelic_stone"
+    },
+    {
+      "name": "aether:angelic_stairs"
+    },
+    {
+      "name": "aether:angelic_slab"
+    },
+    {
+      "name": "aether:angelic_wall"
+    },
+    {
+      "name": "aether:light_angelic_stone"
+    },
+    {
+      "name": "aether:locked_light_angelic_stone"
+    },
+    {
+      "name": "aether:trapped_light_angelic_stone"
+    },
+    {
+      "name": "aether:boss_doorway_light_angelic_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_light_angelic_stone"
+    },
+    {
+      "name": "aether:pillar"
+    },
+    {
+      "name": "aether:pillar_top"
+    },
+    {
+      "name": "aether:hellfire_stone"
+    },
+    {
+      "name": "aether:locked_hellfire_stone"
+    },
+    {
+      "name": "aether:trapped_hellfire_stone"
+    },
+    {
+      "name": "aether:boss_doorway_hellfire_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_hellfire_stone"
+    },
+    {
+      "name": "aether:hellfire_stairs"
+    },
+    {
+      "name": "aether:hellfire_slab"
+    },
+    {
+      "name": "aether:hellfire_wall"
+    },
+    {
+      "name": "aether:light_hellfire_stone"
+    },
+    {
+      "name": "aether:locked_light_hellfire_stone"
+    },
+    {
+      "name": "aether:trapped_light_hellfire_stone"
+    },
+    {
+      "name": "aether:boss_doorway_light_hellfire_stone"
+    },
+    {
+      "name": "aether:treasure_doorway_light_hellfire_stone"
+    },
+    {
+      "name": "lost_aether_content:gale_stone"
+    },
+    {
+      "name": "lost_aether_content:locked_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:trapped_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:boss_doorway_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:treasure_doorway_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:gale_stairs"
+    },
+    {
+      "name": "lost_aether_content:gale_slab"
+    },
+    {
+      "name": "lost_aether_content:gale_wall"
+    },
+    {
+      "name": "lost_aether_content:light_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:locked_light_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:trapped_light_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:boss_doorway_light_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:treasure_doorway_light_gale_stone"
+    },
+    {
+      "name": "lost_aether_content:gale_pillar"
+    },
+    {
+      "name": "lost_aether_content:songstone"
+    },
+    {
+      "name": "aether:treasure_chest"
+    },
+    {
+      "name": "aether:chest_mimic"
+    }
+  ]
+}

@@ -52,12 +52,6 @@ global.itemsToErase = [
     'iguanatweaksexpanded:coated_copper_hoe',
     'iguanatweaksexpanded:coated_copper_hammer',
 
-    // mb add
-    'iguanatweaksexpanded:chained_copper_helmet',
-    'iguanatweaksexpanded:chained_copper_chestplate',
-    'iguanatweaksexpanded:chained_copper_leggings',
-    'iguanatweaksexpanded:chained_copper_boots',
-
     'lost_aether_content:phoenix_sword',
     'lost_aether_content:phoenix_shovel',
     'lost_aether_content:phoenix_pickaxe',

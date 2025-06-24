@@ -33,12 +33,20 @@ key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_key.modernfix.config:key.keyboard.unknown:NONE
+key_key.clientsort.group.sort:key.mouse.middle:NONE
 key_info.structure_gel.building_tool.undo:key.keyboard.z:CONTROL
 key_info.structure_gel.building_tool.redo:key.keyboard.y:CONTROL
 key_key.structure_gel.open_building_tool_gui:key.keyboard.r:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
+key_key.isometriccam.enable_iso:key.keyboard.f10:NONE
+key_key.isometriccam.zoom_in:key.keyboard.keypad.9:NONE
+key_key.isometriccam.zoom_out:key.keyboard.keypad.7:NONE
+key_key.isometriccam.vertical_rotation_up:key.keyboard.keypad.8:NONE
+key_key.isometriccam.vertical_rotation_down:key.keyboard.keypad.2:NONE
+key_key.isometriccam.horizontal_rotation_left:key.keyboard.keypad.4:NONE
+key_key.isometriccam.horizontal_rotation_right:key.keyboard.keypad.6:NONE
 key_key.aether.open_accessories.desc:key.keyboard.unknown:NONE
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space:NONE
 key_key.aether.invisibility_toggle.desc:key.keyboard.v:NONE
@@ -104,4 +112,5 @@ key_quark.keybind.narrator_readout:key.keyboard.unknown:NONE
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown:NONE
 key_quark.keybind.variant_selector:key.keyboard.r:NONE
 key_supplementaries.keybind.quiver:key.keyboard.v:NONE
+key_shfa.toggle_shfa:key.keyboard.h:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE

@@ -2,13 +2,12 @@
   "type": "iguanatweaksexpanded:multi_item_soul_blasting",
   "category": "soul_blast_furnace_misc",
   "cookingtime": 100,
-  "experience": 2.0,
+  "experience": 2.4,
   "group": "hellish_coal",
   "ingredients": [
     {
       "tag": "iguanatweaksexpanded:hellish_coal_ores"
     }
   ],
-  "output_increase": 0.3,
   "result": "iguanatweaksexpanded:hellish_coal"
 }

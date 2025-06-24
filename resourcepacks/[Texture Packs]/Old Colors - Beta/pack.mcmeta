@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Reverts dyeable colors to the pre-1.2.4 spectrum"
+    }
+}

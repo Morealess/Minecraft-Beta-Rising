@@ -1,0 +1,62 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_foods",
+  "tab_stack": { "name": "aether:blue_berry"},
+  "tab_items": [
+    {
+      "name": "aether:blue_berry"
+    },
+    {
+      "name": "aether:enchanted_berry"
+    },
+    {
+      "name": "aether:white_apple"
+    },
+    {
+      "name": "aether:blue_gummy_swet"
+    },
+    {
+      "name": "aether:golden_gummy_swet"
+    },
+    {
+      "name": "aether:healing_stone"
+    },
+    {
+      "name": "aether:candy_cane"
+    },
+    {
+      "name": "aether:gingerbread_man"
+    },
+    {
+      "name": "aether:life_shard"
+    },
+    {
+      "name": "minecraft:suspicious_stew",
+      "nbt": "{Effects:[{EffectDuration:7,EffectId:23,\"forge:effect_id\":\"aether:inebriation\"}]}"
+    },
+    { 
+      "name": "minecraft:potion",
+      "nbt": "{Potion:\"aether:inebriation\"}"
+    },
+    { 
+      "name": "minecraft:splash_potion",
+      "nbt": "{Potion:\"aether:inebriation\"}"
+    },
+    { 
+      "name": "minecraft:lingering_potion",
+      "nbt": "{Potion:\"aether:inebriation\"}"
+    },
+    { 
+      "name": "minecraft:potion",
+      "nbt": "{Potion:\"aether:remedy\"}"
+    },
+    { 
+      "name": "minecraft:splash_potion",
+      "nbt": "{Potion:\"aether:remedy\"}"
+    },
+    { 
+      "name": "minecraft:lingering_potion",
+      "nbt": "{Potion:\"aether:remedy\"}"
+    }
+  ]
+}

@@ -10,9 +10,11 @@
     "Moonlight Mods Dynamic Assets",
     "iguanatweaksexpanded:assets_override",
     "Beta Rising Resources",
+    "Creative Inv - Classic UI",
     "Default Skin Pack",
     "Illagers to Sheeple",
-    "Jappa-Styled Pigmen"
+    "Jappa-Styled Pigmen",
+    "Crooked Sheepmen"
   ],
   "pack_overrides": {
     "hidden": [
@@ -24,15 +26,18 @@
       "Moonlight Mods Dynamic Assets",
       "iguanatweaksexpanded:assets_override",
       "Beta Rising Resources",
+      "Creative Inv - Classic UI",
       "Default Skin Pack",
       "Illagers to Sheeple",
       "Jappa-Styled Pigmen",
+      "Crooked Sheepmen",
       "builtin/aether_colorblind",
       "builtin/aether_125_art",
       "builtin/aether_b173_art",
       "lost_aether_content:classic_pack",
       "nec_resource",
-      "supplementaries:darker_ropes"
+      "supplementaries:darker_ropes",
+      "high_contrast"
     ],
     "$$hidden": {
       "hidden": true

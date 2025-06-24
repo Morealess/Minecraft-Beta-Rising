@@ -60,6 +60,11 @@ ItemEvents.tooltip((event) => {
     });
 
     // Misc
+    event.addAdvanced('lost_aether_content:music_disc_sovereign_of_the_skies', (item, advanced, text) => {
+      text.remove(1);
+        text.add(1, '§7Voyed - Welcoming Skies');
+    });
+
     event.add("supplementaries:sack", "§cSlows down if 2 or more are carried");
     event.add("supplementaries:safe", "§7§oKey Lockable");
 
@@ -72,6 +77,7 @@ ItemEvents.tooltip((event) => {
         text.add("§6Hold §eShift §6to view enchantment descriptions");
       }
     });
+
 });
 
 MoreJSEvents.enchantmentTableTooltip((event) => {

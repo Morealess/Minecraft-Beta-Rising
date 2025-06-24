@@ -21,7 +21,9 @@
     {
       "type": "effect",
       "name": "minecraft:luck",
-      "value": 0.0
+      "value": 0.0,
+      "interactionDuration": 100,
+      "onlyImmuneToNewEffects": true
     }
   ],
   "hideGeneratedTooltip": true,

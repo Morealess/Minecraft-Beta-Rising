@@ -1,6 +1,6 @@
 {
 	"advancements.niknok.beta_rising.root.title": "Minecraft: Beta Rising",
-	"advancements.niknok.beta_rising.root.description": "§7Welcome back to the 'Golden Age' of Minecraft, resurrected from the ground up and reimagined in a brand new light for 1.20.1! These quests will help to uncover the overhauled progression, new mechanics and guide you on your journey.",
+	"advancements.niknok.beta_rising.root.description": "§7Welcome back to the 'Golden Age' of Minecraft, resurrected from the ground up and reimagined in a brand new light for 1.20.1! These quests will help to uncover the overhauled progression, familiarize yourself with new mechanics, and send you off on your journey.",
 	
 	"advancements.niknok.beta_rising.enchanter_2.title": "Enchanter",
 	"advancements.niknok.beta_rising.enchanter_2.description": "§7Use a book, obsidian, and diamonds to construct an enchantment table.",
@@ -160,18 +160,15 @@
 
 	"advancements.niknok.beta_rising.stuck_in_bedrock.title": "Stuck In Bedrock",
 	"advancements.niknok.beta_rising.stuck_in_bedrock.description": "§7Maybe a blast can pop it out of there.",
-
+ 
 	"advancements.niknok.beta_rising.momentum.title": "Momentum",
 	"advancements.niknok.beta_rising.momentum.description": "§7Obtain Ruby Equipment.",
 	
-	"advancements.niknok.beta_rising.metalworks.title": "Metalworks",
+	"advancements.niknok.beta_rising.metalworks.title": "Metal-works",
 	"advancements.niknok.beta_rising.metalworks.description": "§7Construct a Forge to upgrade equipment.",
 
 	"advancements.niknok.beta_rising.lucky_gold.title": "Lucky Gold",
 	"advancements.niknok.beta_rising.lucky_gold.description": "§7Craft a Gold Pickaxe by upgrading a Copper Pickaxe. You'll feel luck run through your veins.",
-
-	"advancements.niknok.beta_rising.golden_armor.title": "Armor Sets",
-	"advancements.niknok.beta_rising.golden_armor.description": "§7Equip a full set of Golden armor. Different armor sets might work well under different circumstances.",
 
 	"advancements.niknok.beta_rising.suit_up.title": "Suit Up",
 	"advancements.niknok.beta_rising.suit_up.description": "§7Craft Iron Armor by upgrading Leather in a Forge.",
@@ -189,7 +186,7 @@
 	"advancements.niknok.beta_rising.warning_unstable.description": "§7Craft a Explosive Barrel.",
 
 	"advancements.niknok.beta_rising.warped_diet.title": "Warped Diet",
-	"advancements.niknok.beta_rising.warped_diet.description": "§7Drink Netherized Stew and rethink your life decisions.",
+	"advancements.niknok.beta_rising.warped_diet.description": "§7Drink Netherized Stew and rethink all your life's decisions.",
 
 	"advancements.niknok.beta_rising.who_watches_the_watcher.title": "Who Watches the Watcher?",
 	"advancements.niknok.beta_rising.who_watches_the_watcher.description": "§7Look at the center of an Ender Watcher.",

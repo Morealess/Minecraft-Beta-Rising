@@ -1,0 +1,704 @@
+{
+  "tab_enabled": true,
+  "tab_name": "combat",
+  "tab_stack": {"name":"minecraft:golden_sword"},
+  "tab_items": [
+    {
+      "name": "minecraft:bow"
+    },
+    {
+      "name": "minecraft:arrow"
+    },
+    {
+      "name": "minecraft:iron_sword"
+    },
+    {
+      "name": "minecraft:wooden_sword"
+    },
+    {
+      "name": "minecraft:stone_sword"
+    },
+    {
+      "name": "minecraft:diamond_sword"
+    },
+    {
+      "name": "minecraft:golden_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_sword"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_sword"
+    },
+    {
+      "name": "minecraft:leather_helmet"
+    },
+    {
+      "name": "minecraft:leather_chestplate"
+    },
+    {
+      "name": "minecraft:leather_leggings"
+    },
+    {
+      "name": "minecraft:leather_boots"
+    },
+    {
+      "name": "minecraft:chainmail_helmet"
+    },
+    {
+      "name": "minecraft:chainmail_chestplate"
+    },
+    {
+      "name": "minecraft:chainmail_leggings"
+    },
+    {
+      "name": "minecraft:chainmail_boots"
+    },
+    {
+      "name": "minecraft:iron_helmet"
+    },
+    {
+      "name": "minecraft:iron_chestplate"
+    },
+    {
+      "name": "minecraft:iron_leggings"
+    },
+    {
+      "name": "minecraft:iron_boots"
+    },
+    {
+      "name": "minecraft:diamond_helmet"
+    },
+    {
+      "name": "minecraft:diamond_chestplate"
+    },
+    {
+      "name": "minecraft:diamond_leggings"
+    },
+    {
+      "name": "minecraft:diamond_boots"
+    },
+    {
+      "name": "minecraft:golden_helmet"
+    },
+    {
+      "name": "minecraft:golden_chestplate"
+    },
+    {
+      "name": "minecraft:golden_leggings"
+    },
+    {
+      "name": "minecraft:golden_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_boots"
+    },
+    {
+      "name": "iguanatweaksexpanded:chained_copper_helmet"
+    },
+    {
+      "name": "iguanatweaksexpanded:chained_copper_chestplate"
+    },
+    {
+      "name": "iguanatweaksexpanded:chained_copper_leggings"
+    },
+    {
+      "name": "iguanatweaksexpanded:chained_copper_boots"
+    },
+    {
+      "name": "minecraft:turtle_helmet"
+    },
+    {
+      "name": "minecraft:shulker_shell"
+    },
+    {
+      "name": "minecraft:totem_of_undying"
+    },
+    {
+      "name": "supplementaries:bomb"
+    },
+    {
+      "name": "supplementaries:bomb_blue"
+    },
+    {
+      "name": "minecraft:crossbow"
+    },
+    {
+      "name": "iguanatweaksexpanded:ice_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:quartz_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:diamond_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:explosive_arrow"
+    },
+    {
+      "name": "iguanatweaksexpanded:torch_arrow"
+    },
+    {
+      "name": "supplementaries:rope_arrow"
+    },
+    {
+      "name": "minecraft:spectral_arrow"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:water\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:mundane\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:thick\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:awkward\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_regeneration\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_swiftness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:fire_resistance\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_fire_resistance\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_poison\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:healing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_healing\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:night_vision\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_night_vision\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:weakness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_weakness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_strength\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_slowness\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_leaping\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:harming\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_harming\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:water_breathing\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_water_breathing\"}"
+    },
+    {
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:invisibility\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_invisibility\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:strong_turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_turtle_master\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:luck\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:slow_falling\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"minecraft:long_slow_falling\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"aether:inebriation\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"aether:remedy\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"iguanatweaksexpanded:regen_wither\"}"
+    },
+    { 
+      "name": "minecraft:tipped_arrow",
+      "nbt": "{Potion:\"iguanatweaksexpanded:recall\"}"
+    },
+    {
+      "name": "minecraft:sentry_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:dune_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:coast_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:wild_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:ward_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:eye_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:vex_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:tide_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:snout_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:rib_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:spire_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:shaper_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:silence_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:raiser_armor_trim_smithing_template"
+    },
+    {
+      "name": "minecraft:host_armor_trim_smithing_template"
+    },
+    {
+      "name": "lost_aether_content:noble_armor_trim_smithing_template"
+    },
+    {
+      "name": "quark:smithing_template_rune"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksreborn:feather_falling\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksreborn:blast_protection\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksreborn:projectile_protection\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:aqua_affinity\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:depth_strider\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:swift_sneak\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksreborn:smite\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksreborn:bane_of_sssss\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:looting\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:power\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:punch\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:flame\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:infinity\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:multishot\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:4s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"stamina:vigour\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:air_born\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:step_up\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:magnetic\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:water_coolant\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:padding\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:part_breaker\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:armor_piercer\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:cryo_aspect\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:smartness\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:knowledgeable\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:soulbound\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:binding_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:tear_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:blood_pact_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:unhurried_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:fragility_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:ender_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:walking_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:void_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:slow_charge_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:dumbness_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:hop_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:obscurity_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:frenzy_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:unstable_motion_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:static_charge_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_heavy_enchant\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_stubby\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_recoil\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_loose\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_hurtful\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_weakness\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_undead\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_poison\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_switchy\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_illusion\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_steelfeet\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_laddering\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_dull\",lvl:5s}]}"
+    }
+  ]
+}

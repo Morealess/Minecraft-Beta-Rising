@@ -2,13 +2,12 @@
   "type": "iguanatweaksexpanded:multi_item_soul_blasting",
   "category": "soul_blast_furnace_misc",
   "cookingtime": 100,
-  "experience": 0.5,
+  "experience": 1.0,
   "group": "gold_ingot",
   "ingredients": [
     {
       "item": "iguanatweaksexpanded:poor_gold_ore"
     }
   ],
-  "output_increase": 0.15,
   "result": "minecraft:gold_ingot"
 }

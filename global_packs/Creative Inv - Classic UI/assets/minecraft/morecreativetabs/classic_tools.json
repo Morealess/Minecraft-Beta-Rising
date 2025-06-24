@@ -1,0 +1,343 @@
+{
+  "tab_enabled": true,
+  "tab_name": "tools",
+  "tab_stack": { "name": "minecraft:iron_axe"},
+  "tab_items": [
+    {
+      "name": "minecraft:iron_shovel"
+    },
+    {
+      "name": "minecraft:iron_pickaxe"
+    },
+    {
+      "name": "minecraft:iron_axe"
+    },
+    {
+      "name": "minecraft:iron_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:iron_hammer"
+    },
+    {
+      "name": "minecraft:flint_and_steel"
+    },
+    {
+      "name": "minecraft:wooden_shovel"
+    },
+    {
+      "name": "minecraft:wooden_pickaxe"
+    },
+    {
+      "name": "minecraft:wooden_axe"
+    },
+    {
+      "name": "minecraft:wooden_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:wooden_hammer"
+    },
+    {
+      "name": "minecraft:stone_shovel"
+    },
+    {
+      "name": "minecraft:stone_pickaxe"
+    },
+    {
+      "name": "minecraft:stone_axe"
+    },
+    {
+      "name": "minecraft:stone_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:stone_hammer"
+    },
+    {
+      "name": "minecraft:diamond_shovel"
+    },
+    {
+      "name": "minecraft:diamond_pickaxe"
+    },
+    {
+      "name": "minecraft:diamond_axe"
+    },
+    {
+      "name": "minecraft:diamond_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:diamond_hammer"
+    },
+    {
+      "name": "minecraft:golden_shovel"
+    },
+    {
+      "name": "minecraft:golden_pickaxe"
+    },
+    {
+      "name": "minecraft:golden_axe"
+    },
+    {
+      "name": "minecraft:golden_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:golden_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:quaron_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:keego_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:durium_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:solarium_hammer"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_shovel"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_pickaxe"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_axe"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_hoe"
+    },
+    {
+      "name": "iguanatweaksexpanded:copper_hammer"
+    },
+    {
+      "name": "minecraft:compass"
+    },
+    {
+      "name": "minecraft:recovery_compass"
+    },
+    {
+      "name": "minecraft:fishing_rod"
+    },
+    {
+      "name": "minecraft:clock"
+    },
+    {
+      "name": "minecraft:spyglass"
+    },
+    {
+      "name": "minecraft:bundle"
+    },
+    {
+      "name": "minecraft:shears"
+    },
+    {
+      "name": "supplementaries:bubble_blower"
+    },
+    {
+      "name": "supplementaries:slingshot"
+    },
+    {
+      "name": "supplementaries:flute"
+    },
+    {
+      "name": "supplementaries:key"
+    },
+    {
+      "name": "supplementaries:wrench"
+    },
+    {
+      "name": "supplementaries:quiver"
+    },
+    {
+      "name": "supplementaries:altimeter"
+    },
+    {
+      "name": "sereneseasons:calendar"
+    },
+    {
+      "name": "iguanatweaksexpanded:firestarter"
+    },
+    {
+      "name": "quark:abacus"
+    },
+    {
+      "name": "quark:bottled_cloud"
+    },
+    {
+      "name": "quark:trowel"
+    },
+    {
+      "name": "minecraft:lead"
+    },
+    {
+      "name": "minecraft:name_tag"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:ponder_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:sing_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:seek_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:feel_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:admire_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:call_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:yearn_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:goat_horn",
+      "nbt": "{instrument:\"minecraft:dream_goat_horn\"}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:5s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:silk_touch\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:lure\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:lucky_hook\",lvl:3s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"supplementaries:stasis\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:expanded\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:veining\",lvl:2s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:exchange\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:soulbound\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:experience_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:tear_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:blood_pact_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:inefficiency_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:short_arm_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"iguanatweaksexpanded:fragility_curse\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_explosive\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_loose\",lvl:1s}]}"
+    },
+    {
+      "name": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"cursery:curse_electrified\",lvl:4s}]}"
+    }
+  ]
+}

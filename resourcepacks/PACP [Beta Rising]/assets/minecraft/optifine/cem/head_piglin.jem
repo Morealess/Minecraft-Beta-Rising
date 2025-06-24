@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "piglin.png",
+	"texture": "pigman.png",
 	"textureSize": [64, 64],
 	"models": [
 		{

@@ -1,6 +1,7 @@
 {
 	"item": "iguanatweaksexpanded:durium_leggings",
 	"durability": 600,
+	"enchantability": 4,
 	"armor": 5,
 	"modifiers": [
 

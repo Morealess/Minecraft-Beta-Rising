@@ -1,0 +1,94 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_building_blocks",
+  "tab_stack": { "name": "aether:holystone_bricks"},
+  "tab_items": [
+    {
+      "name": "aether:skyroot_log"
+    },
+    {
+      "name": "aether:skyroot_wood"
+    },
+    {
+      "name": "aether:golden_oak_log"
+    },
+    {
+      "name": "aether:golden_oak_wood"
+    },
+    {
+      "name": "aether:quicksoil_glass"
+    },
+    {
+      "name": "aether:quicksoil_glass_pane"
+    },
+    {
+      "name": "aether:holystone"
+    },
+    {
+      "name": "aether:holystone_stairs"
+    },
+    {
+      "name": "aether:holystone_slab"
+    },
+    {
+      "name": "aether:holystone_wall"
+    },
+    {
+      "name": "aether:mossy_holystone"
+    },
+    {
+      "name": "aether:mossy_holystone_stairs"
+    },
+    {
+      "name": "aether:mossy_holystone_slab"
+    },
+    {
+      "name": "aether:mossy_holystone_wall"
+    },
+    {
+      "name": "aether:holystone_bricks"
+    },
+    {
+      "name": "aether:holystone_brick_stairs"
+    },
+    {
+      "name": "aether:holystone_brick_slab"
+    },
+    {
+      "name": "aether:holystone_brick_wall"
+    },
+    {
+      "name": "aether:icestone"
+    },
+    {
+      "name": "aether:icestone_stairs"
+    },
+    {
+      "name": "aether:icestone_slab"
+    },
+    {
+      "name": "aether:icestone_wall"
+    },
+    {
+      "name": "aether:ambrosium_block"
+    },
+    {
+      "name": "aether:zanite_block"
+    },
+    {
+      "name": "aether:enchanted_gravitite"
+    },
+    {
+      "name": "aether:aerogel"
+    },
+    {
+      "name": "aether:aerogel_stairs"
+    },
+    {
+      "name": "aether:aerogel_slab"
+    },
+    {
+      "name": "aether:aerogel_wall"
+    }
+  ]
+}

@@ -521,7 +521,7 @@
 			Winter = 90
 			#Hostile Mobs cap on spring.
 			#Range: > -2147483648
-			Spring = 80
+			Spring = 70
 			#Hostile Mobs cap on summer.
 			#Range: > -2147483648
 			Summer = 70
@@ -538,7 +538,7 @@
 			Spring = 20
 			#Animals Mobs cap on summer.
 			#Range: > -2147483648
-			Summer = 25
+			Summer = 20
 			#Animals Mobs cap on autumn.
 			#Range: > -2147483648
 			Autumn = 10

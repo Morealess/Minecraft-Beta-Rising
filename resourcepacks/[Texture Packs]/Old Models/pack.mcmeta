@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Reverts Stair/Wall block items to their pre-1.9 orientations"
+  }
+}

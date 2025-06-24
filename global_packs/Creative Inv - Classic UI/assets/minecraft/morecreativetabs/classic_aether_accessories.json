@@ -1,0 +1,118 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_accessories",
+  "tab_stack": { "name": "aether:gravitite_gloves"},
+  "tab_items": [
+    {
+      "name": "aether:leather_gloves"
+    },
+    {
+      "name": "aether:iron_gloves"
+    },
+    {
+      "name": "aether:golden_gloves"
+    },
+    {
+      "name": "aether:chainmail_gloves"
+    },
+    {
+      "name": "aether:diamond_gloves"
+    },
+    {
+      "name": "aether:zanite_gloves"
+    },
+    {
+      "name": "aether:gravitite_gloves"
+    },
+    {
+      "name": "aether:neptune_gloves"
+    },
+    {
+      "name": "aether:phoenix_gloves"
+    },
+    {
+      "name": "aether:obsidian_gloves"
+    },
+    {
+      "name": "aether:valkyrie_gloves"
+    },
+    {
+      "name": "aether:iron_ring"
+    },
+    {
+      "name": "aether:golden_ring"
+    },
+    {
+      "name": "aether:zanite_ring"
+    },
+    {
+      "name": "aether:ice_ring"
+    },
+    {
+      "name": "aether:iron_pendant"
+    },
+    {
+      "name": "aether:golden_pendant"
+    },
+    {
+      "name": "aether:zanite_pendant"
+    },
+    {
+      "name": "aether:ice_pendant"
+    },
+    {
+      "name": "aether:red_cape"
+    },
+    {
+      "name": "aether:blue_cape"
+    },
+    {
+      "name": "aether:yellow_cape"
+    },
+    {
+      "name": "aether:white_cape"
+    },
+    {
+      "name": "aether:swet_cape"
+    },
+    {
+      "name": "aether:invisibility_cloak"
+    },
+    {
+      "name": "aether:agility_cape"
+    },
+    {
+      "name": "aether:valkyrie_cape"
+    },
+    {
+      "name": "lost_aether_content:phoenix_cape"
+    },
+    {
+      "name": "aether:golden_feather"
+    },
+    {
+      "name": "aether:regeneration_stone"
+    },
+    {
+      "name": "aether:iron_bubble"
+    },
+    {
+      "name": "aether:shield_of_repulsion"
+    },
+    {
+      "name": "lost_aether_content:sentry_shield"
+    },
+    {
+      "name": "lost_aether_content:shield_of_repulsion"
+    },
+    {
+      "name": "lost_aether_content:invincibility_gem"
+    },
+    {
+      "name": "lost_aether_content:flaming_gemstone"
+    },
+    {
+      "name": "lost_aether_content:power_gloves"
+    }
+  ]
+}

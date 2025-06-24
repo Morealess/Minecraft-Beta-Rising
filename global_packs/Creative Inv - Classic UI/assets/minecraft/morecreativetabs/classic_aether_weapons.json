@@ -1,0 +1,67 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_weapons",
+  "tab_stack": { "name": "aether:gravitite_sword"},
+  "tab_items": [
+    {
+      "name": "aether:golden_dart_shooter"
+    },
+    {
+      "name": "aether:poison_dart_shooter"
+    },
+    {
+      "name": "aether:enchanted_dart_shooter"
+    },
+    {
+      "name": "aether:phoenix_bow"
+    },
+    {
+      "name": "aether:golden_dart"
+    },
+    {
+      "name": "aether:poison_dart"
+    },
+    {
+      "name": "aether:enchanted_dart"
+    },
+    {
+      "name": "aether:skyroot_sword"
+    },
+    {
+      "name": "aether:holystone_sword"
+    },
+    {
+      "name": "aether:zanite_sword"
+    },
+    {
+      "name": "aether:gravitite_sword"
+    },
+    {
+      "name": "aether:flaming_sword"
+    },
+    {
+      "name": "aether:lightning_sword"
+    },
+    {
+      "name": "aether:holy_sword"
+    },
+    {
+      "name": "aether:vampire_blade"
+    },
+    {
+      "name": "aether:pig_slayer"
+    },
+    {
+      "name": "aether:candy_cane_sword"
+    },
+    {
+      "name": "aether:hammer_of_kingbdogz"
+    },
+    {
+      "name": "aether:lightning_knife"
+    },
+    {
+      "name": "aether:valkyrie_lance"
+    }
+  ]
+}

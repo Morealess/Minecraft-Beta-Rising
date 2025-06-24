@@ -42,7 +42,7 @@ ao:false
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","iguanatweaksexpanded:assets_override","Beta Rising Resources","Default Skin Pack","Illagers to Sheeple","Jappa-Styled Pigmen","file/Programmer Art [Beta Rising]","file/Golden Days [Beta Rising]","file/[Addon Packs]/golden-days-adjustments-1.20.1.zip","file/[Texture Packs]/Dark Armor Icons (G.D.)","file/[Texture Packs]/Player Reborn","file/[Texture Packs]/Crooked Sheepmen"]
+resourcePacks:["vanilla","mod_resources","fabric","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","iguanatweaksexpanded:assets_override","Beta Rising Resources","Creative Inv - Classic UI","Default Skin Pack","Illagers to Sheeple","Jappa-Styled Pigmen","Crooked Sheepmen","file/Programmer Art [Beta Rising]","file/Golden Days [Beta Rising]","file/[Addon Packs]/golden-days-adjustments-1.20.1.zip","file/[Texture Packs]/Dark Armor Icons (G.D.)","file/[Texture Packs]/Original Herobrine","file/[Texture Packs]/Player Reborn"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

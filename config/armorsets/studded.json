@@ -1,0 +1,33 @@
+{
+  "armorSetName": "studded",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iguanatweaksexpanded:chained_copper_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iguanatweaksexpanded:chained_copper_chestplate",
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iguanatweaksexpanded:chained_copper_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iguanatweaksexpanded:chained_copper_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "stamina:vigour",
+      "value": 0.0,
+      "interactionDuration": 100,
+      "onlyImmuneToNewEffects": true
+    }
+  ],
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "tooltip.translation.spacecatasb.studded"
+  ]
+}

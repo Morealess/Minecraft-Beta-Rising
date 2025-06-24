@@ -1,0 +1,109 @@
+{
+  "tab_enabled": true,
+  "tab_name": "aether_natural_blocks",
+  "tab_stack": { "name": "aether:aether_grass_block"},
+  "tab_items": [
+    {
+      "name": "aether:aether_grass_block"
+    },
+    {
+      "name": "aether:enchanted_aether_grass_block"
+    },
+    {
+      "name": "aether:aether_dirt_path"
+    },
+    {
+      "name": "aether:aether_dirt"
+    },
+    {
+      "name": "aether:aether_farmland"
+    },
+    {
+      "name": "aether:quicksoil"
+    },
+    {
+      "name": "aether:holystone"
+    },
+    {
+      "name": "aether:mossy_holystone"
+    },
+    {
+      "name": "aether:icestone"
+    },
+    {
+      "name": "aether:ambrosium_ore"
+    },
+    {
+      "name": "aether:zanite_ore"
+    },
+    {
+      "name": "aether:gravitite_ore"
+    },
+    {
+      "name": "aether:skyroot_log"
+    },
+    {
+      "name": "aether:golden_oak_log"
+    },
+    {
+      "name": "aether:skyroot_leaves"
+    },
+    {
+      "name": "aether:golden_oak_leaves"
+    },
+    {
+      "name": "aether:crystal_leaves"
+    },
+    {
+      "name": "aether:crystal_fruit_leaves"
+    },
+    {
+      "name": "aether:holiday_leaves"
+    },
+    {
+      "name": "aether:decorated_holiday_leaves"
+    },
+    {
+      "name": "aether:skyroot_sapling"
+    },
+    {
+      "name": "aether:golden_oak_sapling"
+    },
+    {
+      "name": "lost_aether_content:crystal_sapling"
+    },
+    {
+      "name": "lost_aether_content:holiday_sapling"
+    },
+    {
+      "name": "aether:berry_bush_stem"
+    },
+    {
+      "name": "aether:berry_bush"
+    },
+    {
+      "name": "aether:purple_flower"
+    },
+    {
+      "name": "aether:white_flower"
+    },
+    {
+      "name": "aether:cold_aercloud"
+    },
+    {
+      "name": "aether:blue_aercloud"
+    },
+    {
+      "name": "aether:golden_aercloud"
+    },
+    {
+      "name": "lost_aether_content:pink_aercloud"
+    },
+    {
+      "name": "lost_aether_content:enchanted_pink_aercloud"
+    },
+    {
+      "name": "aether:present"
+    }
+  ]
+}

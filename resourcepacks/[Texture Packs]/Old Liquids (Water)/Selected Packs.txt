@@ -1,4 +1,0 @@
-Vanilla Tweaks Resource Pack
-Version: 1.21
-Packs:
-	OldWater (1.12.2 textures replaced with the pre-b1.8 [Golden Days] textures.)

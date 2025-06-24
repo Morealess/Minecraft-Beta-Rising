@@ -1,6 +1,7 @@
 {
 	"item": "iguanatweaksexpanded:durium_chestplate",
 	"durability": 640,
+	"enchantability": 4,
 	"armor": 6,
 	"modifiers": [
 

@@ -6,10 +6,13 @@ SUPER IMPORTANT NOTE: Also...
 -Removed ProgrammerArt/NostalgicTweaks flashy/unnecessary connotations in the menus (@ en_us.json: "resourcePack.title" & "options.title")
 -Fixed mobs playing the OOF sound (restricted to the player only)
 -Updated end_portal_frame_filled.json block model in order to match End Remastered's filled eye size. 8x8 instead of 6x6.
--Deleted 4 original bucket textures, as Programmer Art fixes them
+-Disabled original/conflicting bucket textures, as Programmer Art fixes them
 -Added oak hanging sign textures
 -Added overrides for all slim skins to use Alex's original texture
 -Added overrides for all wide skins to use Steve's original texture
 -Rotated stairs and walls 90° in the inventory back to their pre-1.9 orientation
+-Added "Game menu" localization
+-Changed purple shulkers to a custom color that is more accurate to purple dyed colors
+-Updated the Title Screen / fixed the scaling of the dirt background
 
 (these are the ONLY edits to any original files - anything else is strictly additions)

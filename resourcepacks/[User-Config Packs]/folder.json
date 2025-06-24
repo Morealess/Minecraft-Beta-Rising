@@ -1,0 +1,19 @@
+{
+  "icon": "icon.png",
+  "description": "",
+  "packs": [
+    "!~~~~~~~(Note)~~~~~~~!",
+    "$ Template Skin (Reference)",
+    "Creative Inv - Modern UI",
+    "Loading Screen - Alpha",
+    "Loading Screen - Beta",
+    "Loading Screen - Beta-Release",
+    "Loading Screen - Release",
+    "Loading Screen - Release-Modern",
+    "Title Menu - Beta",
+    "Title Menu - Classic",
+    "Title Menu - Hard Rock",
+    "Title Menu - The Aether"
+  ],
+  "hidden": false
+}

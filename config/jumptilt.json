@@ -1,0 +1,10 @@
+{
+  "note": "Speed can be between 0 (instant tilting) and 1 (tilting off). Amount can be any number. Press F3+T in a world to update config.",
+  "amount": 0.0,
+  "speed": 0.5,
+  "upperClamping": 5.0,
+  "lowerClamping": 0.25,
+  "upperClampBreak": 0.1,
+  "lowerClampBreak": 0.1,
+  "cfgVersion": 1.5
+}

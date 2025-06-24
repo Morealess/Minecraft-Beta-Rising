@@ -29,7 +29,9 @@
     {
       "type": "effect",
       "name": "minecraft:strength",
-      "value": 0.0
+      "value": 0.0,
+      "interactionDuration": 100,
+      "onlyImmuneToNewEffects": true
     }
   ],
   "hideGeneratedTooltip": true,
