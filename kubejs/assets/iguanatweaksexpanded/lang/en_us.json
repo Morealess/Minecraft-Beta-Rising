@@ -1,4 +1,9 @@
 {
+"death.attack.experience_curse": "%s was killed by its own equipment",
+"death.attack.experience_curse.player": "%s was killed by its own equipment",
+"advancements.sr_story.cleansed_lapis.description": "Use a Cleansed Lapis to infuse an item and enchant it to its maximum power",
+"emi.info.iguanatweaksexpanded.cleansed_lapis": "Apply to an item to unlock its full enchantability",
+
 "block.iguanatweaksexpanded.mining_charge": "TNT Charge",
 
 "iguanatweaksexpanded.container.crate": "Crate",

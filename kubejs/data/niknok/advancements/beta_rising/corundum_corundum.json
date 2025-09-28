@@ -1,5 +1,5 @@
 {
-  "parent": "niknok:beta_rising/cultivation",
+  "parent": "niknok:beta_rising/off_topic",
   "criteria": {
     "red": {
       "conditions": {
@@ -116,7 +116,7 @@
       "translate": "advancements.niknok.beta_rising.corundum_corundum.description"
     },
     "frame": "challenge",
-    "hidden": false,
+    "hidden": true,
     "icon": {
       "item": "quark:blue_corundum_cluster"
     },

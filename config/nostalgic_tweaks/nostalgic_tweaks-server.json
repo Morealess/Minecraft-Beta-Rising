@@ -32,10 +32,21 @@
     "piglinOnlyGoldSwordSpawn": false,
     "monsterSpawnCap": 90,
     "animalSpawnCap": 20,
+    "oldAnimalSpawnList": {
+      "list": [
+        "minecraft:chicken",
+        "minecraft:cow",
+        "minecraft:mooshroom",
+        "minecraft:pig",
+        "minecraft:sheep"
+      ],
+      "disabled": false
+    },
     "oldAnimalSpawning": false,
     "disableBabyAnimalSpawning": false,
     "disableAnimalBreeding": false,
     "disableAnimalTempting": false,
+    "keepBabyAnimalWhileOldSpawn": false,
     "disableSheepEatGrass": false,
     "randomSheepWoolRegen": false,
     "oldSheepPunching": false,
@@ -66,6 +77,7 @@
     "arrowSpeed": 70,
     "instantBow": false,
     "invincibleBow": false,
+    "immediateExperiencePickup": false,
     "disableOrbSpawn": false,
     "disableAnvil": false,
     "disableEnchantTable": false,

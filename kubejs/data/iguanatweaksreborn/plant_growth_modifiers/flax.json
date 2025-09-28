@@ -1,0 +1,21 @@
+{
+    "block": "supplementaries:flax",
+    "growth_multiplier": 3,
+    "modifiers": [
+        {
+            "id": "iguanatweaksreborn:sunlight",
+            "min_sunlight": 10,
+            "modifier": 2,
+            "operation": "add"
+        },
+        {
+            "id": "iguanatweaksreborn:season",
+            "seasons": [
+                "WINTER",
+                "AUTUMN"
+            ],
+            "modifier": -1,
+            "operation": "multiply"
+        }
+    ]
+}

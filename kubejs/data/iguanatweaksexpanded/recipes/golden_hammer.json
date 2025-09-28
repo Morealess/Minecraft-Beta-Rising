@@ -1,0 +1,17 @@
+{
+  "type": "iguanatweaksexpanded:forging",
+  "amount": 5,
+  "category": "forge_misc",
+  "experience": 6.0,
+  "gear": {
+    "item": "iguanatweaksexpanded:flint_hammer"
+  },
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "item": "iguanatweaksexpanded:golden_hammer",
+    "nbt": "{Damage:0}"
+  },
+  "smashes_required": 6
+}

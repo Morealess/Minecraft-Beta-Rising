@@ -1,4 +1,4 @@
-// priority: 3
+// priority: 2
 
 console.log("Started tags.js")
 
@@ -52,6 +52,7 @@ ServerEvents.tags('item', event => {
     event.add('forge:ingots', 'iguanatweaksexpanded:durium_ingot')
 
     // no portable stacking
+    event.add('supplementaries:shulker_blacklist', ['minecraft:shulker_box', 'minecraft:white_shulker_box', 'minecraft:orange_shulker_box', 'minecraft:magenta_shulker_box', 'inecraft:light_blue_shulker_box', 'minecraft:yellow_shulker_box', 'minecraft:lime_shulker_box', 'minecraft:pink_shulker_box', 'minecraft:gray_shulker_box', 'minecraft:light_gray_shulker_box', 'minecraft:cyan_shulker_box', 'minecraft:purple_shulker_box', 'minecraft:blue_shulker_box', 'minecraft:brown_shulker_box', 'minecraft:green_shulker_box', 'minecraft:red_shulker_box', 'minecraft:black_shulker_box', 'supplementaries:sack', 'supplementaries:safe', 'iguanatweaksexpanded:crate'])
     event.add('fabrication:include_in_item_inventory_check', ['minecraft:shulker_box', 'minecraft:white_shulker_box', 'minecraft:orange_shulker_box', 'minecraft:magenta_shulker_box', 'inecraft:light_blue_shulker_box', 'minecraft:yellow_shulker_box', 'minecraft:lime_shulker_box', 'minecraft:pink_shulker_box', 'minecraft:gray_shulker_box', 'minecraft:light_gray_shulker_box', 'minecraft:cyan_shulker_box', 'minecraft:purple_shulker_box', 'minecraft:blue_shulker_box', 'minecraft:brown_shulker_box', 'minecraft:green_shulker_box', 'minecraft:red_shulker_box', 'minecraft:black_shulker_box', 'supplementaries:sack', 'supplementaries:safe', 'iguanatweaksexpanded:crate'])
     event.add('fabrication:exclude_from_item_inventory_check', 'minecraft:bundle')
 
@@ -60,7 +61,12 @@ ServerEvents.tags('item', event => {
     event.add('minecraft:villager_plantable_seeds', ['iguanatweaksreborn:carrot_seeds', 'iguanatweaksreborn:rooted_potato'])
     event.add('forge:seeds', ['iguanatweaksreborn:sweet_berry_seeds', 'iguanatweaksreborn:carrot_seeds', 'iguanatweaksreborn:rooted_potato'])
 
+    event.add('sereneseasons:autumn_crops', ['iguanatweaksreborn:sweet_berry_seeds', 'iguanatweaksreborn:carrot_seeds'])
+    event.add('sereneseasons:spring_crops', ['iguanatweaksreborn:sweet_berry_seeds', 'iguanatweaksreborn:carrot_seeds', 'iguanatweaksreborn:rooted_potato'])
+    event.add('sereneseasons:summer_crops', ['iguanatweaksreborn:sweet_berry_seeds'])
+
     event.remove('forge:stone', 'quark:myalite', 'quark:polished_myalite')
+    event.removeAll('quark:stone_tool_materials')
     event.add('minecraft:stone_tool_materials', ['#forge:stone', '#forge:cobblestone', 'minecraft:dripstone_block', 'quark:polished_dripstone', 'minecraft:tuff', 'quark:polished_tuff','minecraft:calcite', 'quark:polished_calcite'])
 
     event.removeAll('amendments:sets_on_fire')

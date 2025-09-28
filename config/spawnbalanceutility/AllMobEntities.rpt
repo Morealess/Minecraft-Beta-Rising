@@ -126,6 +126,7 @@ minecraft:zombie_villager, MONSTER
 minecraft:zombified_piglin, MONSTER
 battletowers:battle_tower_golem, MONSTER
 battletowers:battle_tower_golem_fireball, MISC
+human_reborn:human, MONSTER
 sleep_tight:bed_entity, MISC
 sleep_tight:bedbug, MONSTER
 sleep_tight:dreamer_essence_dummy, MISC

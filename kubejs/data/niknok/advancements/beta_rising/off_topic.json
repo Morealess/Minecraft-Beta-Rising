@@ -1,0 +1,37 @@
+{
+	"parent": "niknok:beta_rising/cozy_beginnings",
+	"display": {
+		"icon": {
+			"item": "minecraft:compass"
+		},
+		"title": {
+			"translate": "advancements.niknok.beta_rising.off_topic.title"
+		},
+		"description": {
+			"translate": "advancements.niknok.beta_rising.off_topic.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"off_topic": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:campfire"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"off_topic"
+		]
+	]
+}

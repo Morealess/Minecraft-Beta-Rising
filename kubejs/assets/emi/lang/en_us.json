@@ -6,7 +6,7 @@
 	"emi.info.forgery.furnace_minecart": "Loads chunks if they have fuel, accepts any fuel, and can be stocked by a hopper.",
 	"emi.info.forgery.powered_off_rail": "When powered off, will stop furnace minecarts and conserve their fuel",
 	"emi.info.forgery.rail_directional": "Placing magenta glazed terracotta under a detector rail makes it only detect minecarts moving in the direction of the arrow.\n Placing magenta glazed terracotta under a powered rail makes it push minecarts in the direction of the arrow, even from a stop.\n They also work as hard stops for carts going the wrong direction. Works similar to a Railcraft Boarding Track.",
-	"emi.info.quark.repair_emerald": "Emerald Equipment is imbued with the power of the sun! Under sunlight, it slowly fixes itself and boosts mining efficiency and attack damage."
-,	"emi.info.lootbags.various_loot_bags": "Loot bags can drop from hostile mobs and contain previously unobtainable, valuable or junk loot based on its level of rarity"
-	
+	"emi.info.quark.repair_emerald": "Emerald Equipment is imbued with the power of the sun! Under sunlight, it slowly fixes itself and boosts mining efficiency and attack damage.",
+	"emi.info.lootbags.various_loot_bags": "Loot bags can drop from hostile mobs and contain previously unobtainable, valuable or junk loot based on its level of rarity",
+	"emi.info.amendments.water_bottle_dye_recipe": "Water in a cauldron can be dyed any color and then bottled-up afterwards for safe keeping!"
 }

@@ -3,3 +3,4 @@
 -Balances/Fixes/Changes armor trim's loot distribution so that unobtainables can be obtained, and shifts placements around to balance their loot tables
 -Changes Aether dungeon chest loot to give Inebriation/Remedy potions rather than buckets
 -Adds Cocoa Beans to junk fishing loot in Jungle biomes (the same rate as bamboo)
+-Makes Mycelium and Podzol transformable in-world from grass blocks with Swet Balls in beta/pe seasonal forest and rainforest biomes respectively

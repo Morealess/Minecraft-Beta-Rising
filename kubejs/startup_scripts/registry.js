@@ -52,6 +52,9 @@ const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
 StartupEvents.registry('item', event => {
     event.createCustom('minecraft:illusioner_spawn_egg', () => 
         new $ForgeSpawnEggItem(() => $EntityType.ILLUSIONER, 9804699, 4547222, new $ItemProperties())).displayName("Sheepmangician Spawn Egg")
+
+    event.createCustom('minecraft:giant_spawn_egg', () => 
+        new $ForgeSpawnEggItem(() => $EntityType.GIANT, 44975, 7969893, new $ItemProperties())).displayName("Giant Spawn Egg")
   })
 
 // New Butcher's Job Block

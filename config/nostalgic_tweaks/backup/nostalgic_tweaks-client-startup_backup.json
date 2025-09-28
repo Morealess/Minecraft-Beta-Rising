@@ -324,6 +324,10 @@
     "oldTitleBackground": false,
     "uncapTitleFPS": false,
     "oldAlphaLogo": false,
+    "useCustomFallingLogo": false,
+    "fallingLogoEditor": "null",
+    "splashOffsetX": 0,
+    "splashOffsetY": 0,
     "titleButtonLayout": "MODERN",
     "includeModsOnTitle": true,
     "removeTitleRealmsButton": false,
@@ -473,10 +477,21 @@
     "piglinOnlyGoldSwordSpawn": false,
     "monsterSpawnCap": 90,
     "animalSpawnCap": 20,
+    "oldAnimalSpawnList": {
+      "list": [
+        "minecraft:chicken",
+        "minecraft:cow",
+        "minecraft:mooshroom",
+        "minecraft:pig",
+        "minecraft:sheep"
+      ],
+      "disabled": false
+    },
     "oldAnimalSpawning": false,
     "disableBabyAnimalSpawning": false,
     "disableAnimalBreeding": false,
     "disableAnimalTempting": false,
+    "keepBabyAnimalWhileOldSpawn": false,
     "disableSheepEatGrass": false,
     "randomSheepWoolRegen": false,
     "oldSheepPunching": false,
@@ -510,6 +525,7 @@
     "invincibleBow": false,
     "disableOrbSpawn": false,
     "disableOrbRendering": false,
+    "immediateExperiencePickup": false,
     "disableAnvil": false,
     "disableEnchantTable": false,
     "staminaSprint": false,
@@ -649,7 +665,7 @@
     "armSwayMirror": false,
     "armSwayIntensity": 100,
     "oldSwing": true,
-    "oldSwingInterrupt": true,
+    "oldSwingInterrupt": false,
     "oldSwingDropping": true,
     "oldClassicAttackSwing": false,
     "oldClassicUseSwing": false,
@@ -672,7 +688,7 @@
     "preventDeathTopple": true
   },
   "swing": {
-    "overrideSpeeds": false,
+    "overrideSpeeds": true,
     "attackGlobalSpeed": -1,
     "useGlobalSpeed": -1,
     "attackItemSpeed": 8,

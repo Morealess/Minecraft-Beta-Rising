@@ -23,12 +23,212 @@
       "item:igleelib:modium_block",
       "item:igleelib:derium_block",
       "item:igleelib:blazum_block",
-      "item:igleelib:lavium_block"
+      "item:igleelib:lavium_block",
+      "item:iguanatweaksexpanded:repair_kit",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:47,g:19,r:26},repair_item:\"minecraft:obsidian\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:95,g:148,r:184},repair_item:\"minecraft:oak_planks\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:60,g:60,r:61},repair_item:\"minecraft:flint\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:10,g:162,r:164},repair_item:\"iguanatweaksexpanded:solarium_ball\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:216,g:216,r:216},repair_item:\"minecraft:iron_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:213,g:133,r:0},repair_item:\"iguanatweaksexpanded:keego\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:111,g:90,r:20},repair_item:\"iguanatweaksexpanded:durium_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:232,g:251,r:161},repair_item:\"minecraft:diamond\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:95,g:245,r:253},repair_item:\"minecraft:gold_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:44,g:55,r:73},repair_item:\"iguanatweaksexpanded:soul_steel_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:69,g:104,r:209},repair_item:\"minecraft:copper_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:67,g:65,r:76},repair_item:\"minecraft:netherite_ingot\"}",
+      "item:iguanatweaksexpanded:repair_kit{color:{b:255,g:190,r:227},repair_item:\"iguanatweaksexpanded:quaron_ingot\"}",
+
+      "item:human_reborn:human_spawn_egg",
+
+      "item:amendments:dye_bottle{color:-5231066}",
+      "fluid:minecraft:water",
+      "fluid:minecraft:lava",
+      "fluid:minecraft:milk",
+
+      "item:minecraft:command_block",
+      "item:minecraft:chain_command_block",
+      "item:minecraft:repeating_command_block",
+      "item:minecraft:command_block_minecart",
+      "item:minecraft:jigsaw",
+      "item:minecraft:structure_block",
+      "item:minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
+      "item:minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
+      "item:minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}",
+      "item:minecraft:structure_block{BlockEntityTag:{mode:\"DATA\"}}",
+      "item:minecraft:structure_void",
+      "item:minecraft:barrier",
+      "item:minecraft:debug_stick",
+      "item:minecraft:light{BlockStateTag:{level:\"15\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"14\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"13\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"12\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"11\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"10\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"9\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"8\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"7\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"6\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"5\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"4\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"3\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"2\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"1\"}}",
+      "item:minecraft:light{BlockStateTag:{level:\"0\"}}",
+      "item:minecraft:painting{EntityTag:{variant:\"minecraft:earth\"}}",
+      "item:minecraft:painting{EntityTag:{variant:\"minecraft:wind\"}}",
+      "item:minecraft:painting{EntityTag:{variant:\"minecraft:water\"}}",
+      "item:minecraft:painting{EntityTag:{variant:\"minecraft:fire\"}}",
+      "item:structure_gel:red_gel",
+      "item:structure_gel:blue_gel",
+      "item:structure_gel:green_gel",
+      "item:structure_gel:cyan_gel",
+      "item:structure_gel:orange_gel",
+      "item:structure_gel:yellow_gel",
+      "item:structure_gel:data_handler",
+      "item:structure_gel:dynamic_spawner",
+      "item:structure_gel:building_tool"
     ],
     "added": [
       {
         "stack": "item:minecraft:enchanting_table",
         "after": "item:supplementaries:speaker_block"
+      },
+
+      {
+        "stack": "item:minecraft:command_block"
+      },
+      {
+        "stack": "item:minecraft:chain_command_block"
+      },
+      {
+        "stack": "item:minecraft:repeating_command_block"
+      },
+      {
+        "stack": "item:minecraft:command_block_minecart"
+      },
+      {
+        "stack": "item:minecraft:jigsaw"
+      },
+      {
+        "stack": "item:minecraft:structure_block"
+      },
+      {
+        "stack": "item:minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}"
+      },
+      {
+        "stack": "item:minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}"
+      },
+      {
+        "stack": "item:minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
+      },
+      {
+        "stack": "item:minecraft:structure_block{BlockEntityTag:{mode:\"DATA\"}}"
+      },
+      {
+        "stack": "item:minecraft:structure_void"
+      },
+      {
+        "stack": "item:minecraft:barrier"
+      },
+      {
+        "stack": "item:minecraft:debug_stick"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"15\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"14\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"13\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"12\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"11\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"10\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"9\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"8\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"7\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"6\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"5\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"4\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"3\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"2\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"1\"}}"
+      },
+      {
+        "stack": "item:minecraft:light{BlockStateTag:{level:\"0\"}}"
+      },
+      {
+        "stack": "item:minecraft:painting{EntityTag:{variant:\"minecraft:earth\"}}"
+      },
+      {
+        "stack": "item:minecraft:painting{EntityTag:{variant:\"minecraft:wind\"}}"
+      },
+      {
+        "stack": "item:minecraft:painting{EntityTag:{variant:\"minecraft:water\"}}"
+      },
+      {
+        "stack": "item:minecraft:painting{EntityTag:{variant:\"minecraft:fire\"}}"
+      },
+      {
+        "stack": "item:structure_gel:red_gel"
+      },
+      {
+        "stack": "item:structure_gel:blue_gel"
+      },
+      {
+        "stack": "item:structure_gel:green_gel"
+      },
+      {
+        "stack": "item:structure_gel:cyan_gel"
+      },
+      {
+        "stack": "item:structure_gel:orange_gel"
+      },
+      {
+        "stack": "item:structure_gel:yellow_gel"
+      },
+      {
+        "stack": "item:structure_gel:data_handler"
+      },
+      {
+        "stack": "item:structure_gel:dynamic_spawner"
+      },
+      {
+        "stack": "item:structure_gel:building_tool"
+      },
+      {
+        "stack": "fluid:minecraft:water"
+      },
+      {
+        "stack": "fluid:minecraft:lava"
+      },
+      {
+        "stack": "fluid:minecraft:milk"
       }
     ]
   }

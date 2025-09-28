@@ -1,4 +1,4 @@
-// priority: 1
+// priority: 0
 
 console.log("Started trades.js")
 

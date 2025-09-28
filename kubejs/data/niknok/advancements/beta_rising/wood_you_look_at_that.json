@@ -1,5 +1,5 @@
 {
-	"parent": "niknok:beta_rising/cultivation",
+	"parent": "niknok:beta_rising/off_topic",
 	"criteria": {
 		"red": {
 		  "conditions": {
@@ -200,7 +200,7 @@
 		"translate": "advancements.niknok.beta_rising.wood_you_look_at_that.description"
 	  },
 	  "frame": "challenge",
-	  "hidden": false,
+	  "hidden": true,
 	  "icon": {
 		"item": "wood_you_dye:purple_planks"
 	  },

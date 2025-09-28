@@ -1,4 +1,4 @@
-// priority: 2
+// priority: 1
 
 console.log("Started removal.js")
 
@@ -38,12 +38,12 @@ global.itemsToErase = [
     'iguanatweaksexpanded:solium_moss',
     'iguanatweaksexpanded:solarium_ball',
 
-    'iguanatweaksexpanded:flint_sword',
-    'iguanatweaksexpanded:flint_shovel',
-    'iguanatweaksexpanded:flint_pickaxe',
-    'iguanatweaksexpanded:flint_axe',
-    'iguanatweaksexpanded:flint_hoe',
-    'iguanatweaksexpanded:flint_hammer',
+    'iguanatweaksexpanded:copper_sword',
+    'iguanatweaksexpanded:copper_shovel',
+    'iguanatweaksexpanded:copper_pickaxe',
+    'iguanatweaksexpanded:copper_axe',
+    'iguanatweaksexpanded:copper_hoe',
+    'iguanatweaksexpanded:copper_hammer',
 
     'iguanatweaksexpanded:coated_copper_sword',
     'iguanatweaksexpanded:coated_copper_shovel',
@@ -462,7 +462,7 @@ global.itemsToErase = [
     'quark:torch_arrow',
     'quark:pickarang',
     'quark:flamerang',
-    'quark:iron_rod',
+    //'quark:iron_rod',
     'quark:dragon_scale',
     'quark:blackstone_furnace',
     'quark:deepslate_furnace',
@@ -542,14 +542,6 @@ global.itemsToErase = [
 
 global.itemsToErase.forEach(item => {
     console.log(`[DISABLED]: ${item}`);
-});
-
-LootJS.modifiers((event) => {
-    const modifiers = event.getGlobalModifiers();
-    console.log(`Printing Registered Loot Modifiers...`)
-    modifiers.forEach((modifier) => {
-        console.log(`Loot Modifiers: ${modifier}`)
-    });
 });
 
 //===================================================================================

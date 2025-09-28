@@ -1,0 +1,8 @@
+{
+  "type": "aether:repairing",
+  "group": "altar_hoe_repair",
+  "ingredient": {
+    "item": "iguanatweaksexpanded:soul_steel_hoe"
+  },
+  "repairTime": 1500
+}

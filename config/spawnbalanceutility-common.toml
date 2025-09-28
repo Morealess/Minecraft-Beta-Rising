@@ -30,5 +30,5 @@
 	#Range: 1 ~ 1000
 	maxSpawnWeight = 100
 	#list of Mod:MobName,DefaultSpawnweight;
-	defaultSpawnWeightList = "minecraft:husk,0;minecraft:stray,0;minecraft:panda,0;minecraft:camel,0;minecraft:llama,0;minecraft:trader_llama,0;minecraft:fox,0;minecraft:cat,0;minecraft:tadpole,0;minecraft:frog,0;minecraft:sniffer,0;minecraft:strider,0;quark:forgotten,0;quark:shiba,0;quark:toretoise,0;supplementaries:red_merchant,0;sleep_tight:bedbug,0;"
+	defaultSpawnWeightList = "minecraft:husk,0;minecraft:stray,0;minecraft:panda,0;minecraft:camel,0;minecraft:llama,0;minecraft:trader_llama,0;minecraft:fox,0;minecraft:cat,0;minecraft:tadpole,0;minecraft:frog,0;minecraft:sniffer,0;minecraft:strider,0;quark:forgotten,0;quark:shiba,0;quark:toretoise,0;supplementaries:red_merchant,0;sleep_tight:bedbug,0;human_reborn:human,1;"
 

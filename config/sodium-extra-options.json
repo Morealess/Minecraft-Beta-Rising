@@ -32,7 +32,7 @@
   "render_settings": {
     "fog_type": "DEFAULT",
     "fog_distance": 0,
-    "fog_start": 25,
+    "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
       "minecraft:overworld": 0

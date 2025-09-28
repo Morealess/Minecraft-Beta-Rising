@@ -3,5 +3,13 @@
 	"block.quark.stone_brick_lamp": "Stone Brick Celebratory Lamp",
 
 	"block.quark.hollow_crimson_stem": "Hollow Crimson Log",
-	"block.quark.hollow_warped_stem": "Hollow Warped Log"
+	"block.quark.hollow_warped_stem": "Hollow Warped Log",
+
+	"quark.jei.hint.permafrost": "Can be found in snowy biomes.",
+	"quark.jei.hint.limestone": "N/A",
+	"quark.jei.hint.jasper": "N/A",
+	"quark.jei.hint.shale": "N/A",
+	"quark.jei.hint.golden_apple_crate": "N/A",
+	"quark.jei.hint.blue_blossom_sapling": "N/A",
+	"quark.jei.hint.minecraft.lava_bucket": "N/A"
 }

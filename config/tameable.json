@@ -1,0 +1,20 @@
+{
+  "human_reborn:human": {
+    "tame": [
+      "minecraft:diamond"
+    ],
+    "breed": [
+      "minecraft:cooked_beef",
+      {
+        "item": "minecraft:cooked_beef",
+        "heal": 5
+      }
+    ],
+    "chance": 0.25,
+    "attack": true,
+    "protect": true,
+    "follow": {
+      "enable": true
+    }
+  }
+}

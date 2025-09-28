@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   interactable = true
-  source = [Beta Rising v2.2/release](https://www.curseforge.com/minecraft/modpacks/beta-rising)
+  source = [Beta Rising v2.3/release](https://www.curseforge.com/minecraft/modpacks/beta-rising)
   source_mode = direct
   shadow = true
   scale = 1.0

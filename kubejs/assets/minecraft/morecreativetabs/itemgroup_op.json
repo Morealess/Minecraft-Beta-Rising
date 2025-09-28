@@ -1,0 +1,153 @@
+{
+  "tab_enabled": true,
+  "tab_name": "op",
+  "tab_stack": { "name" :"minecraft:command_block"},
+  "replace": true,
+  "tab_items": [
+    {
+      "name": "minecraft:command_block"
+    },
+    {
+      "name": "minecraft:chain_command_block"
+    },
+    {
+      "name": "minecraft:repeating_command_block"
+    },
+    {
+      "name": "minecraft:command_block_minecart"
+    },
+    {
+      "name": "minecraft:jigsaw"
+    },
+    {
+      "name": "minecraft:structure_block"
+    },
+    {
+      "name": "minecraft:structure_block",
+      "nbt": "{BlockEntityTag:{mode:\"SAVE\"}}"
+    },
+    {
+      "name": "minecraft:structure_block",
+      "nbt": "{BlockEntityTag:{mode:\"LOAD\"}}"
+    },
+    {
+      "name": "minecraft:structure_block",
+      "nbt": "{BlockEntityTag:{mode:\"DATA\"}}"
+    },
+    {
+      "name": "minecraft:structure_void"
+    },
+    {
+      "name": "minecraft:barrier"
+    },
+    {
+      "name": "minecraft:debug_stick"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"14\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"13\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"12\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"11\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"10\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"9\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"8\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"7\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"6\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"5\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"4\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"3\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"2\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"1\"}}"
+    },
+    {
+      "name": "minecraft:light",
+      "nbt": "{BlockStateTag:{level:\"0\"}}"
+    },
+    {
+      "name": "minecraft:painting",
+      "nbt": "{EntityTag:{variant:\"minecraft:earth\"}}"
+    },
+    {
+      "name": "minecraft:painting",
+      "nbt": "{EntityTag:{variant:\"minecraft:wind\"}}"
+    },
+    {
+      "name": "minecraft:painting",
+      "nbt": "{EntityTag:{variant:\"minecraft:water\"}}"
+    },
+    {
+      "name": "minecraft:painting",
+      "nbt": "{EntityTag:{variant:\"minecraft:fire\"}}"
+    },
+    {
+      "name": "structure_gel:red_gel"
+    },
+    {
+      "name": "structure_gel:blue_gel"
+    },
+    {
+      "name": "structure_gel:green_gel"
+    },
+    {
+      "name": "structure_gel:cyan_gel"
+    },
+    {
+      "name": "structure_gel:orange_gel"
+    },
+    {
+      "name": "structure_gel:yellow_gel"
+    },
+    {
+      "name": "minecraft:gunpowder"
+    },
+    {
+      "name": "structure_gel:data_handler"
+    },
+    {
+      "name": "structure_gel:dynamic_spawner"
+    },
+    {
+      "name": "structure_gel:building_tool"
+    }
+  ]
+}

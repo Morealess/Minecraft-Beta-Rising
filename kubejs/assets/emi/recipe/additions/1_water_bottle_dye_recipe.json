@@ -1,0 +1,8 @@
+
+{
+    "type": "emi:info",
+    "stacks": [
+      "item:amendments:dye_bottle{color:-5231066}"
+    ],
+    "text": "emi.info.amendments.water_bottle_dye_recipe"
+}

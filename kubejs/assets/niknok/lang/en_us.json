@@ -6,7 +6,7 @@
 	"advancements.niknok.beta_rising.enchanter_2.description": "§7Use a book, obsidian, and diamonds to construct an enchantment table.",
 
 	"advancements.niknok.beta_rising.diamonds_2.title": "DIAMONDS!",
-	"advancements.niknok.beta_rising.diamonds_2.description": "§7Acquire diamonds with your iron tools.",
+	"advancements.niknok.beta_rising.diamonds_2.description": "§7Acquire diamonds with your Iron tools.",
 
 	"advancements.niknok.beta_rising.we_need_to_go_deeper_2.title": "We Need to Go Deeper...",
 	"advancements.niknok.beta_rising.we_need_to_go_deeper_2.description": "§7Ascend... or? Descend... to the next dimension!",
@@ -59,17 +59,20 @@
 	"advancements.niknok.beta_rising.cozy_beginnings.title": "Cozy Beginnings",
 	"advancements.niknok.beta_rising.cozy_beginnings.description": "§7Build a Campfire.",
 
-	"advancements.niknok.beta_rising.deeper_faster_stronger.title": "Deeper, Faster, Stronger",
-	"advancements.niknok.beta_rising.deeper_faster_stronger.description": "§7Craft Copper tools, which mines faster the deeper you are in the world.",
+	"advancements.niknok.beta_rising.hand_of_hard_knocks.title": "The Hand of Hard Knocks",
+	"advancements.niknok.beta_rising.hand_of_hard_knocks.description": "§7Obtain your first Flint tool. These tools might prove more effective than others under dire circumstances.",
 
 	"advancements.niknok.beta_rising.desperate_measures.title": "Desperate Measures",
-	"advancements.niknok.beta_rising.desperate_measures.description": "§7Holding Flint in both hands and right-clicking can produce a fire!",
+	"advancements.niknok.beta_rising.desperate_measures.description": "§7Holding Flint in both hands and interacting in-world may produce a fire!",
 
 	"advancements.niknok.beta_rising.oh_shiny.title": "Oh Shiny",
 	"advancements.niknok.beta_rising.oh_shiny.description": "§7Distract a Pigman with gold.",
 
 	"advancements.niknok.beta_rising.on_topic.title": "On-Topic",
-	"advancements.niknok.beta_rising.on_topic.description": "§7Construct a Furnace, the Campfire might help smelting the Copper.",
+	"advancements.niknok.beta_rising.on_topic.description": "§7Construct a Furnace. The Campfire might help smelting the Copper required.",
+
+	"advancements.niknok.beta_rising.off_topic.title": "Off-Topic",
+	"advancements.niknok.beta_rising.off_topic.description": "§7Forge your destiny. Flint and Studded tools and armor upgrade towards Diamond gear types, whilst Stone and Leather tools and armor upgrade towards Quaron gear types.",
 
 	"advancements.niknok.beta_rising.over_9000.title": "Over 9000",
 	"advancements.niknok.beta_rising.over_9000.description": "§7Empower an item with an Enchanted Cleansed Lapis (made in an Anvil with Experience Bottle) to get even better enchanting power and over max level enchantments.",
@@ -132,7 +135,7 @@
 	"advancements.niknok.beta_rising.getting_another_upgrade.description": "§7Upgrade a Stone Pickaxe using a Forge.",
 
 	"advancements.niknok.beta_rising.stiffer_than_iron.title": "Stiffer Than Iron",
-	"advancements.niknok.beta_rising.stiffer_than_iron.description": "§7Obtain any Steel Gear by upgrading Iron.",
+	"advancements.niknok.beta_rising.stiffer_than_iron.description": "§7Obtain Steel equipment by upgrading Iron.",
 
 	"advancements.niknok.beta_rising.give_me_your_dress.title": "Give Me Your Dress",
 	"advancements.niknok.beta_rising.give_me_your_dress.description": "§7Scavenge Cloth from a defeated foe.",
@@ -162,13 +165,13 @@
 	"advancements.niknok.beta_rising.stuck_in_bedrock.description": "§7Maybe a blast can pop it out of there.",
  
 	"advancements.niknok.beta_rising.momentum.title": "Momentum",
-	"advancements.niknok.beta_rising.momentum.description": "§7Obtain Ruby Equipment.",
+	"advancements.niknok.beta_rising.momentum.description": "§7Obtain Ruby equipment.",
 	
 	"advancements.niknok.beta_rising.metalworks.title": "Metal-works",
 	"advancements.niknok.beta_rising.metalworks.description": "§7Construct a Forge to upgrade equipment.",
 
 	"advancements.niknok.beta_rising.lucky_gold.title": "Lucky Gold",
-	"advancements.niknok.beta_rising.lucky_gold.description": "§7Craft a Gold Pickaxe by upgrading a Copper Pickaxe. You'll feel luck run through your veins.",
+	"advancements.niknok.beta_rising.lucky_gold.description": "§7Craft a Gold Pickaxe by upgrading a Flint Pickaxe. You'll feel luck run through your veins.",
 
 	"advancements.niknok.beta_rising.suit_up.title": "Suit Up",
 	"advancements.niknok.beta_rising.suit_up.description": "§7Craft Iron Armor by upgrading Leather in a Forge.",

@@ -1,0 +1,8 @@
+{
+  "type": "aether:repairing",
+  "group": "altar_hoe_repair",
+  "ingredient": {
+    "item": "iguanatweaksexpanded:coated_copper_hoe"
+  },
+  "repairTime": 1500
+}
