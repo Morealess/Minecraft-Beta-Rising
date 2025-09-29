@@ -3,9 +3,9 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:chests/village/village_snowy_house"
+      "loot_table_id": "battletowers:entities/battle_tower_golem"
     }
   ],
-  "loot_table_id": "endrem:minecraft/chests/village/village_snowy_house",
+  "loot_table_id": "endrem:minecraft/chests/igloo_chest",
   "allow_recursive_glms": true
 }

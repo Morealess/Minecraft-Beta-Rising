@@ -49,13 +49,18 @@ MoreJSEvents.registerPotionBrewing((event) => {
 const $ForgeSpawnEggItem = Java.loadClass('net.minecraftforge.common.ForgeSpawnEggItem')
 const $ItemProperties = Java.loadClass('net.minecraft.world.item.Item$Properties')
 const $EntityType = Java.loadClass('net.minecraft.world.entity.EntityType')
+const $ForgeRegistries = Java.loadClass('net.minecraftforge.registries.ForgeRegistries')
+const $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
 StartupEvents.registry('item', event => {
     event.createCustom('minecraft:illusioner_spawn_egg', () => 
         new $ForgeSpawnEggItem(() => $EntityType.ILLUSIONER, 9804699, 4547222, new $ItemProperties())).displayName("Sheepmangician Spawn Egg")
 
     event.createCustom('minecraft:giant_spawn_egg', () => 
         new $ForgeSpawnEggItem(() => $EntityType.GIANT, 44975, 7969893, new $ItemProperties())).displayName("Giant Spawn Egg")
-  })
+
+    event.createCustom('battletowers:battle_tower_golem_spawn_egg', () =>
+        new $ForgeSpawnEggItem(() => $ForgeRegistries.ENTITY_TYPES.getValue(new $ResourceLocation("battletowers", "battle_tower_golem")), 13882323, 65535, new $ItemProperties())).displayName("Battle Tower Golem Spawn Egg")
+})
 
 // New Butcher's Job Block
 StartupEvents.registry('minecraft:point_of_interest_type', event => {

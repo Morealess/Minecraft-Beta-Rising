@@ -3,5 +3,11 @@
   "item.endrem.corrupted_eye.description": "§7§oThe eye of a righteous king that faded in solitude; legend says it will bring infinite fortune to its owner",
 
   "advancements.main.corrupted_eye.title": "Tales of Legends",
-  "advancements.main.corrupted_eye.description": "Get Your First Prospect Eye"
+  "advancements.main.corrupted_eye.description": "Get Your First Prospect Eye",
+
+  "item.endrem.cold_eye": "Cold Eye",
+  "item.endrem.cold_eye.description": "§7§oAn artifact passed from tower to tower whose chilling light has watched the rise and fall of endless guardians of stone",
+
+  "advancements.main.cold_eye.title": "Eyes Above, Towers Below",
+  "advancements.main.cold_eye.description": "Get Your First Cold Eye"
 }

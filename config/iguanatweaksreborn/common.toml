@@ -63,9 +63,9 @@
 	#Spawners are now a challenge. Monsters spawning from spawners ignore light.
 	[World.Spawners]
 		#If true, the spawner delay is set to 'delay' instead of using MinSpawnDelay and MaxSpawnDelay
-		"Override Spawn Delay" = true
+		"Override Spawn Delay" = false
 		#Range in which a player must be present for a spawner to work. Vanilla is 16.
-		"Required Player Range" = 24
+		"Required Player Range" = 16
 		#If true, monsters from spawners will spawn no matter the light level.
 		"Ignore Light" = false
 
@@ -101,9 +101,9 @@
 			#Spawning Delay (in ticks) when the Spawner is empowered.
 			[World.Spawners.Empowered.Delay]
 				#Range: 1.0 ~ 1.7976931348623157E308
-				Minimum = 100.0
+				Minimum = 150.0
 				#Range: 1.0 ~ 1.7976931348623157E308
-				Maximum = 200.0
+				Maximum = 300.0
 
 			#When the Spawner stops being empowered, will generate this amount of experience
 			[World.Spawners.Empowered."Experience Reward"]
